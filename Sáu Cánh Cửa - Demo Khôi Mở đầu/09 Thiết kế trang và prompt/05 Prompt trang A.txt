@@ -106,3 +106,29 @@ HALLUCINATION GUARD:
 HALLUCINATION GUARD:
 - Chỉ khóa landmark nhìn thấy trong reference hoặc được spec/source xác nhận.
 - Phần ngoài khung = KHÔNG QUAN SÁT ĐƯỢC, không phải chỗ để tự bịa kiến trúc.
+
+
+WORLD-SPACE PROJECTION — RÀNG BUỘC CỨNG:
+- Dựng một floor plan duy nhất trước khi render 4 panel.
+- World +X = phía RIGHT-STAIR khi đứng FRONT nhìn BACK.
+- Khôi ngồi ghế ngoài cùng sát RIGHT-STAIR.
+
+A1:
+- camera ở BACK nhìn FRONT.
+- Vì camera quay 180° so với A3, world RIGHT phải chiếu thành SCREEN-LEFT.
+- Do đó RIGHT-STAIR phải ở SCREEN-LEFT.
+- Khôi ở ghế sát RIGHT-STAIR cũng phải nằm phía SCREEN-LEFT của khối ghế.
+- Nếu A1 đặt Khôi/cầu thang screen-right, SAI topology.
+
+A3:
+- camera ở FRONT nhìn BACK.
+- world RIGHT chiếu thành SCREEN-RIGHT.
+- RIGHT-STAIR phải ở SCREEN-RIGHT.
+- Khôi ngồi ngay bên trái cầu thang / mép phải khối ghế.
+
+QUY TẮC 180°:
+Cùng một landmark vật lý phải ĐẢO screen-left/screen-right khi camera quay từ BACK→FRONT sang FRONT→BACK. Không giữ cùng bên màn hình chỉ để composition đẹp.
+
+Trước khi trả, tự kiểm một câu:
+"Stair world-right: A1 screen-left, A3 screen-right?"
+Nếu không, không trả output.
