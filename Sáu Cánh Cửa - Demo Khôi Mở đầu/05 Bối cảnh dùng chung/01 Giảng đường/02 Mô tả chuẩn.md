@@ -34,3 +34,18 @@ Giữ chiều muộn vàng ấm, nắng xiên, highlight ấm, bóng mềm có h
 Không clone rõ; không tự tạo reaction character; A3 phần lớn quần chúng vẫn hướng FRONT.
 
 Chưa có artwork/background Demo A nào được người dùng duyệt.
+
+
+## World-space và phép chiếu camera cho Demo A
+
+Để tránh lỗi "giữ landmark cùng bên màn hình dù camera quay 180°", dùng hệ trục cố định:
+
+- Trục Y: FRONT → BACK.
+- Trục X dương: phía RIGHT-STAIR khi đứng ở FRONT nhìn về BACK.
+- Khôi ngồi ở hàng đầu, ghế ngoài cùng sát phía RIGHT-STAIR.
+
+Quy tắc chiếu:
+- **A1: camera ở phía BACK nhìn về FRONT.** Vì camera quay ngược chiều trục Y, phía world RIGHT-STAIR phải chiếu sang **screen-left**. Khôi ở ghế sát RIGHT-STAIR cũng phải nằm về phía screen-left của khối ghế, không screen-right.
+- **A3: camera ở phía FRONT nhìn về BACK.** Phía world RIGHT-STAIR chiếu sang **screen-right**. Khôi ở ghế sát RIGHT-STAIR nằm ngay bên trái cầu thang hoặc vùng screen-right của khối ghế.
+
+Cùng một world-side khi camera quay 180° **không được giữ cùng screen-side**. Nếu A1 và A3 đều đặt cầu thang ở screen-right, topology đã sai dù từng panel riêng lẻ trông đẹp.
