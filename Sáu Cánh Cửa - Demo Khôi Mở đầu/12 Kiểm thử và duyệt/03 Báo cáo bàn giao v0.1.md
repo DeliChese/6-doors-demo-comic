@@ -1,9 +1,25 @@
-# Báo cáo bàn giao v0.1
+# Báo cáo bàn giao v0.1 — SNAPSHOT LỊCH SỬ
 
-Đã soạn: đầy đủ khu vực 01–08 theo cây thống nhất; bổ sung 09 thiết kế trang, 10 balloon/thoại/SFX, 11 hướng dẫn AI và 12 kiểm thử. Có nguồn DOCX hiện hành, trích xuất theo đoạn, hồ sơ Khôi, chỗ nạp bối cảnh và nội dung xuyên suốt; tám shot; prompt trang A/B/C; prompt trang đôi; sơ đồ SVG; bảng chữ nguyên văn; quy trình xử lý 1–2 trang duyệt; checklist bảo toàn artwork.
+> **Không dùng file này làm trạng thái hiện hành.** Đây là ảnh chụp tiến độ ở thời điểm dựng bộ khung v0.1. Trạng thái mới nhất luôn đọc ở `00 Trạng thái hiện tại.md`, continuity log và page spec hiện hành.
 
-Chưa thực hiện: tạo ảnh nhân vật/trang, duyệt nhận diện từ sheet, nhập ảnh bối cảnh, lettering thực tế hoặc xuất ebook. Chưa tìm thấy đúng sheet Khôi để xác minh; không thay bằng thiết kế tự suy. Không có ảnh trống giả định đã tồn tại. Mọi thư mục ảnh có hướng dẫn nhận tệp và tồn tại khi giải nén.
+## Những gì đúng ở thời điểm v0.1
 
-Những quyết định được phân biệt: canon kịch bản, chỉ dẫn người dùng, art direction đề xuất, hình đã duyệt. Giữ đúng nguồn T05 là trang đôi, ghi rõ bản demo dọc là chuyển thể. Hai page A/B là mẫu test không liền nhau; C tùy chọn giúp thử thoại ngắn và SFX.
+Đã soạn khu vực 01–08 và bổ sung 09 thiết kế trang, 10 balloon/thoại/SFX, 11 hướng dẫn AI, 12 kiểm thử. Có nguồn DOCX, trích xuất đoạn, hồ sơ Khôi, shot spec, prompt A/B/C, bảng chữ và pipeline duyệt artwork → lettering.
 
-Cần người dùng đưa đúng sheet và ảnh trang đã duyệt khi chạy bước tương ứng. Bộ khung đã sẵn sàng để tiếp nhận các đầu vào đó, không cần dựng lại cây.
+## Những nội dung dưới đây đã lỗi thời sau v0.1
+
+Các câu “chưa có sheet Khôi”, “chưa nhập ảnh bối cảnh”, “Thu Anh chỉ là mô tả tạm không có package”, hoặc “Demo A là 2×2 bằng nhau” **không còn hiệu lực**.
+
+Sau v0.1:
+- sheet Khôi đã được nhập;
+- outfit Khôi cho Demo A/M01 đã khóa theo sheet;
+- vị trí Khôi đã khóa ở hàng ghế đầu ngoài cùng;
+- ảnh nguồn giảng đường đã có và được dùng làm GEOMETRY ANCHOR;
+- Thu Anh có sheet và package tối thiểu cho Demo A;
+- Demo A đã qua nhiều vòng thử nhưng chưa được người dùng duyệt artwork;
+- layout Demo A hiện bất đối xứng, A3 lớn hơn A4;
+- spatial continuity và role của geometry/style anchor đã được siết trong spec mới.
+
+## Giá trị còn giữ của báo cáo này
+
+Giữ như lịch sử hình thành pipeline và lý do tồn tại các thư mục. Không dùng các dòng trạng thái cũ trong file này để ra quyết định production mới.
