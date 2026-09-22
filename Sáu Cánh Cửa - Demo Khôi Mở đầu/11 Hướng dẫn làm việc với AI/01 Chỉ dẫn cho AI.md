@@ -1,15 +1,53 @@
 # Chỉ dẫn cho AI làm dự án
 
-Đọc 00 Bắt đầu tại đây, 00 Trạng thái hiện tại, danh mục nguồn, quy chuẩn dự án và nội dung xuyên suốt; sau đó đọc canon Khôi và spec của nhiệm vụ hiện tại. Không cần tải toàn bộ kịch bản vào mỗi prompt ảnh nếu đã có trích đoạn đúng.
+Đọc theo thứ tự: `00 Bắt đầu tại đây.md` → `00 Trạng thái hiện tại.md` → quy chuẩn dự án → nội dung xuyên suốt → canon/asset liên quan → **page spec hiện hành của nhiệm vụ** → prompt hiện hành. Không cần nạp toàn bộ kịch bản nếu đã có đoạn nguồn đúng.
 
-Thực hiện công việc người dùng đã giao; quyền làm demo đã có. Không xin lại quyền soạn file hoặc tạo bản thử trong phạm vi giao việc. Không tự chuyển bản thử thành bản duyệt. Nếu thiếu ảnh nhận diện, chỉ báo đúng ảnh cần có; vẫn hoàn tất phần không phụ thuộc ảnh như bảng chữ/spec.
+## Thứ tự ưu tiên khi có xung đột
 
-Nhân vật package hoạt động: chỉ Khôi, Cấp A. Không dựng thêm 25 hồ sơ. Giảng viên nữ khoảng 45 là vai phụ tạm theo kịch bản trang A; phải nhất quán trong trang nhưng chưa là package riêng. Nếu user yêu cầu tuyệt đối chỉ Khôi xuất hiện trong ảnh, chọn Demo B hoặc C, không xóa giảng viên khỏi trang A mà vẫn gọi bám nguồn.
+1. Quyết định mới, rõ ràng của người dùng.
+2. Kịch bản hiện hành về sự kiện/nội dung.
+3. Canon hình/asset đã được người dùng duyệt.
+4. Page spec + continuity/change log hiện hành.
+5. Quy chuẩn chung.
+6. Ví dụ/layout cũ/art direction đề xuất.
 
-Ảnh reference cần mở/xem thật. Không suy chi tiết từ filename hoặc ví dụ cũ. Ưu tiên kịch bản hiện hành cho sự kiện; dùng sheet đã được xác nhận cho thiết kế. Tách “canon nguồn”, “quan sát ảnh”, “đề xuất”, “đã duyệt”.
+**Tài liệu lịch sử v0.1, SVG cũ hoặc ảnh AI cũ không được thắng page spec mới.**
 
-Chọn mode đúng: tạo asset / tạo khung / tạo trang không chữ / thêm chữ vào tranh đã duyệt / sửa riêng vùng. Khi tạo trang, dùng page spec; không ghép cả 8 shot vào một trang trừ yêu cầu chuyển thể cụ thể. Khi thêm chữ, đọc toàn bộ quy trình 10, giữ source artwork và đúng mapping page-text.
+Nếu gặp hai câu chỉ dẫn mâu thuẫn, không “pha trung bình” hai câu. Xác định cái nào mới/cụ thể hơn; nếu vẫn không xác định được và ảnh hưởng lớn tới output thì báo blocker.
 
-Đọc nguồn pháp luật như văn bản biên tập, không tự chứng nhận chính xác pháp lý. Nếu nhiệm vụ có thẩm định hoặc thay nội dung luật, cần nguồn pháp luật có thẩm quyền được kiểm ở thời điểm đó; không tự sửa khi chỉ đang tạo hình hoặc lettering.
+## Package hiện hành
 
-Ghi prompt, reference, output, lỗi và quyết định vào nhật ký. Không có image tool thì nói rõ đang chuẩn bị spec/prompt, không báo đã tạo ảnh. Không có quyền đọc folder thì yêu cầu người dùng đính kèm đúng file cần, không giả vờ đã đọc cả ZIP.
+- Khôi: Asset Package Cấp A, dùng xuyên mạch truyện.
+- Thu Anh: package tối thiểu vai phụ cho Demo A để giữ continuity.
+- Không tự mở package hàng loạt cho các nhân vật khác.
+
+## Reference phải được gán vai trò
+
+Mở/xem ảnh thật. Không suy từ filename.
+
+- CHARACTER IDENTITY: mặt/tóc/tỷ lệ.
+- OUTFIT/PROP: quần áo/đạo cụ.
+- GEOMETRY ANCHOR: topology, landmark, spacing, kiến trúc.
+- STYLE/LIGHTING ANCHOR: mood/rendering/hướng sáng.
+- LAYOUT ANCHOR: footprint panel.
+
+Không để một ảnh style đẹp tự thay geometry. Không dùng nhân vật quần chúng từ background reference làm character canon.
+
+## Khi tạo page
+
+- đọc page spec mới nhất;
+- dựng spatial map nếu có nhiều góc trong cùng bối cảnh;
+- mỗi panel phải ghi camera ở đâu, nhìn về đâu, background phải/cấm thấy gì;
+- giữ screen direction và vị trí vật lý props;
+- chừa vùng lettering theo nội dung sau này;
+- không ghép 8 continuity shot thành một page.
+
+Nếu page có lỗi cục bộ, ưu tiên sửa panel/vùng. Nếu topology/phối cảnh sai nhiều panel, dừng và sửa geometry/spec trước thay vì tái sinh mù.
+
+## Duyệt và lettering
+
+Không tự chuyển bản thử thành bản duyệt. Chỉ letter trên đúng artwork/version người dùng đã duyệt. Khi thêm chữ, đọc quy trình 10, giữ source artwork và đúng mapping page-text.
+
+Đọc nguồn pháp luật như văn bản biên tập, không tự chứng nhận chính xác pháp lý. Nếu nhiệm vụ là thẩm định/sửa luật, phải dùng nguồn có thẩm quyền và ghi phiên bản/ngày.
+
+Ghi prompt, reference thực tế, output, lỗi, cách sửa và quyết định vào nhật ký. Không có image tool thì không báo đã tạo ảnh. Không đọc được folder thì yêu cầu đúng file cần thiết, không giả vờ đã đọc ZIP.
