@@ -1,14 +1,17 @@
-LỆNH 1 — CHUẨN HÓA KHÔI
-Đọc bộ dự án Demo Khôi v0.1 và chỉ dẫn cho AI. Đây là sheet Khôi gốc mình đính kèm. Đối chiếu canon văn bản với ảnh; điền nhận diện, kiểm kê, giữ/sửa/thiếu. Giữ mặt và đặc điểm được chọn, đề xuất thay nhận diện trường thật nếu có. Chưa tạo cả loạt asset. Nêu đúng những lựa chọn chưa chốt có ảnh hưởng đến trang A.
+LỆNH 1 — RÀ CANON/ASSET TRƯỚC PAGE
+Đọc 00 Trạng thái hiện tại, continuity, canon Khôi/Thu Anh và mô tả chuẩn bối cảnh liên quan. Chỉ báo những blocker thực sự còn mở. Không hỏi lại các quyết định đã khóa.
 
-LỆNH 2 — TẠO MỘT TRANG
-Dùng prompt trang A trong 09 cùng reference mình đính kèm để tạo một trang tranh không chữ. Mình đã chọn outfit trên reference này cho demo. Chỉ xuất ứng viên; kiểm đúng panel và continuity, ghi nhật ký. Không tự tạo thêm các trang khác.
+LỆNH 2 — TẠO DEMO A KHÔNG CHỮ
+Đọc page spec Demo A và Prompt trang A mới nhất trong 09. Dùng Khôi làm CHARACTER IDENTITY, Thu Anh làm CHARACTER IDENTITY, ảnh giảng đường làm GEOMETRY ANCHOR và look được chọn làm STYLE/LIGHTING ANCHOR. Tuân spatial map FRONT/BACK/SIDE-STAIR/WINDOW-SIDE/DOOR/KHOI-SEAT. Chỉ tạo MỘT page không chữ. Trước khi trả phải kiểm: geometry A1/A3, trục nhìn, hành động giơ tay→hạ tay nói, prop continuity, crowd không clone, A3 lớn hơn A4 và vùng balloon. Output chỉ là ứng viên Đang thử.
 
-LỆNH 3 — THÊM CHỮ VÀO MỘT TRANG
-Trang A đính kèm đã được mình duyệt tranh. Dùng lệnh có sẵn Demo A trong 10 để thêm balloon và toàn bộ chữ nguồn lên bản copy. Giữ artwork gốc, so chữ và so tranh trước–sau; trả bản có chữ để mình kiểm.
+LỆNH 3 — SỬA DEMO A
+Đọc lỗi đã log trong 07 + page spec hiện hành. Nếu lỗi cục bộ thì sửa panel/vùng nhỏ nhất. Nếu geometry nhiều panel sai thì sửa layout/spatial constraints trước rồi mới tái tạo. Không lấy một generation lỗi làm canon mới.
 
-LỆNH 4 — THÊM CHỮ VÀO HAI TRANG
-Hai ảnh đính kèm đã được mình duyệt tranh. Ảnh 1 là Demo A; ảnh 2 là Demo B. Dùng bảng chữ tương ứng và prompt hai trang trong 10. Tạo hai output riêng, không ghép trang. Giữ cùng quy chuẩn chữ. Demo B chỉ có chữ khắc, không thêm thoại hoặc SFX không có trong nguồn.
+LỆNH 4 — THÊM CHỮ VÀO MỘT TRANG
+Chỉ chạy nếu page/version được người dùng xác nhận Đã duyệt tranh. Dùng bảng chữ trong 10, thêm trên bản copy, không thay đổi artwork ngoài vùng chữ.
 
-LỆNH 5 — TEST SFX
-Trang Demo C đính kèm đã được mình duyệt tranh. Thêm đúng thoại bảng C; lần này mình chọn cả SFX đề xuất C03 “CỘP…”. Chỉ thêm chữ trên bản copy, không đổi nhân vật hoặc ánh sáng.
+LỆNH 5 — THÊM CHỮ VÀO HAI TRANG
+Hai page phải được duyệt tranh riêng. Tạo hai output riêng. Demo B chỉ có chữ khắc nếu nguồn quy định; không tự thêm thoại/SFX.
+
+LỆNH 6 — TEST SFX
+Chỉ dùng Demo C artwork đã duyệt. SFX đề xuất chỉ thêm khi người dùng đã chọn.
