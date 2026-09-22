@@ -17,4 +17,6 @@
 | CT13 | A1 Khôi giơ tay khi Thu Anh đang giảng; A3 Khôi đã hạ tay và bắt đầu nói; A4 Thu Anh lắng nghe/phản hồi | ĐÃ KHÓA nhịp hành động Demo A | Phản hồi QA 22-09-2026 |
 | CT14 | Nếu đồng hồ tay trái của Khôi đã hiện rõ trong reference/page version được chọn, không để biến mất ở panel kế tiếp khi cổ tay vẫn quan sát được | Continuity prop | Phản hồi QA 22-09-2026 |
 
+| CT15 | Giảng đường Demo A: geometry anchor xác nhận bàn thẳng bậc thang và cầu thang ở mép phải khi nhìn FRONT→BACK; source có nhiều window-zones; cửa ra vào chưa được xác nhận rõ, không tự phát minh | ĐÃ KHÓA rule không gian | Audit 22-09-2026 |
+
 Mỗi lần bổ sung: ngày / mã / cũ / mới / nguồn quyết định / ảnh liên quan / người duyệt. Quan sát từ ảnh không tự biến thành canon đã duyệt. Khi chi tiết bị che hoặc quá xa, dùng “không quan sát được”.
