@@ -1,27 +1,75 @@
-# Mẫu prompt một trang
+# Mẫu spec một trang Manhwa — production
 
-Điền đủ rồi mới gửi; không dùng mẫu này để ghi đè prompt A/B/C hiện hành.
+Điền theo `00 Pipeline tiền kỳ một trang Manhwa.md`. Không full-render nếu chưa PASS.
 
-1. **Mã trang + nguồn:** …
-2. **Loại trang + kích thước/tỉ lệ:** …
-3. **Reference thực tế + version + vai trò:** CHARACTER IDENTITY / OUTFIT-PROP / GEOMETRY / STYLE-LIGHTING / LAYOUT.
-4. **Canon nhân vật + outfit đã khóa:** …
-5. **Bối cảnh:** time of day / FRONT-BACK / cửa / cửa sổ / cầu thang-lối đi / landmark cố định / geometry anchor.
-6. **Lighting:** hướng sáng, nhiệt độ màu, nguồn sáng chính; ghi rõ reference nào chỉ dùng cho style/light.
-7. **Layout:** panel footprint, gutter, thứ tự đọc, panel nào ưu tiên diện tích và vì sao.
-8. **Mỗi panel:** camera nằm ở đâu / nhìn về đâu / nhân vật quay hướng nào / hành động / biểu cảm / đạo cụ / background phải thấy / background cấm thấy / vùng chữ.
-9. **Continuity:** props, tay, phụ kiện, vị trí vật lý, screen direction, crowd behavior.
-10. **Negative constraints:** các lỗi đã gặp phải cấm lặp.
-11. **Chế độ:** tranh không chữ / thêm chữ vào tranh duyệt / sửa riêng panel-vùng.
-12. **Đầu ra + trạng thái:** một page/spread; tên version; chỉ Đang thử nếu chưa có duyệt người dùng.
+## 1. Story source
+- PAGE ID:
+- Nguồn:
+- Beat toàn trang:
+- Thứ tự đọc:
 
-## Trước khi generation
+## 2. Reference roles
+| Reference | Version | Vai trò | Được phép quyết định | Không được phép quyết định |
+|---|---|---|---|---|
+| … | … | CHARACTER / OUTFIT / GEOMETRY / LIGHTING / LAYOUT | … | … |
 
-Nếu page có nhiều góc máy trong cùng một không gian, phải dựng **spatial map bằng chữ** trước. Không dùng câu mơ hồ kiểu “giữ bối cảnh giống reference” mà không nói cái gì cần giữ.
+## 3. Scene Lock Card
+- Time:
+- FRONT:
+- BACK:
+- WORLD LEFT:
+- WORLD RIGHT:
+- Confirmed landmarks:
+- Unknown zones:
+- Character world positions:
+- Prop world positions:
+- Key-light direction:
 
-Nếu hai reference có mục tiêu khác nhau, không trộn:
-- geometry lấy từ geometry anchor;
-- ánh sáng lấy từ lighting anchor;
-- mặt/outfit lấy từ character reference.
+## 4. Camera Table
+| Panel | CAM-ID | Position | Look direction | Eye level | FOV | Shot size | Axis side |
+|---|---|---|---|---|---|---|---|
+| … | … | … | … | … | … | … | … |
 
-Nếu tool không đọc được thư mục, prompt nguyên văn phải chứa spec cần thiết và các ảnh phải được đính kèm thật. Không chỉ nói “làm theo project”.
+## 5. Blocking Table
+| Panel | Character | World position | Body | Eyeline | Left hand | Right hand | Props | Must-see BG | Must-not-see BG |
+|---|---|---|---|---|---|---|---|---|---|
+| … | … | … | … | … | … | … | … | … | … |
+
+## 6. Panel direction
+| Panel | Function | Narrative weight | Focal point | Motion/eyeline flow | Balloon reserve |
+|---|---|---|---|---|---|
+| … | ESTABLISH/ACTION/REACTION/... | main/sub | … | … | … |
+
+## 7. Lighting / value
+- Key light:
+- Fill:
+- Color temperature:
+- Value focal:
+- Background detail falloff:
+
+## 8. Crowd
+- Archetype count:
+- Variation:
+- Direction:
+- Forbidden reaction:
+- Depth simplification:
+
+## 9. Negative constraints
+Liệt kê lỗi đã từng gặp có nguy cơ lặp.
+
+## 10. Preflight verdict
+- [ ] PASS TO RENDER
+- [ ] REVISE BLOCKING
+- [ ] BLOCKED — NEED SOURCE/DECISION
+
+Chỉ khi **PASS TO RENDER** mới viết prompt full-render.
+
+## 11. Render contract
+- Preflight version:
+- Layout không được thay:
+- Geometry không được thay:
+- Character blocking không được thay:
+- Chỉ được cải thiện rendering/anatomy/material/light trong phạm vi đã khóa.
+
+## 12. Post-render QA
+Phân loại lỗi: LOCAL / PANEL / SYSTEMIC. SYSTEMIC → quay lại preflight, không full reroll mù.
