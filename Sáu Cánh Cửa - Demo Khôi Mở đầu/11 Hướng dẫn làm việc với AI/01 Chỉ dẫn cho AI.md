@@ -31,12 +31,12 @@ Mở/xem ảnh thật. Không suy từ filename.
 - STYLE/LIGHTING ANCHOR: mood/rendering/hướng sáng.
 - LAYOUT ANCHOR: footprint panel.
 
-Không để một ảnh style đẹp tự thay geometry. Không dùng nhân vật quần chúng từ background reference làm character canon.
+Không để một ảnh style đẹp tự thay geometry. Không dùng nhân vật quần chúng từ background reference làm character canon. **Chỉ khóa chi tiết thật sự quan sát được trong reference; phần ngoài khung phải ghi không quan sát được, không tự hoàn thiện bằng suy đoán.**
 
 ## Khi tạo page
 
 - đọc page spec mới nhất;
-- dựng spatial map nếu có nhiều góc trong cùng bối cảnh;
+- dựng spatial map nếu có nhiều góc trong cùng bối cảnh; spatial map chỉ chứa landmark quan sát được/source xác nhận;
 - mỗi panel phải ghi camera ở đâu, nhìn về đâu, background phải/cấm thấy gì;
 - giữ screen direction và vị trí vật lý props;
 - chừa vùng lettering theo nội dung sau này;
@@ -51,3 +51,7 @@ Không tự chuyển bản thử thành bản duyệt. Chỉ letter trên đúng
 Đọc nguồn pháp luật như văn bản biên tập, không tự chứng nhận chính xác pháp lý. Nếu nhiệm vụ là thẩm định/sửa luật, phải dùng nguồn có thẩm quyền và ghi phiên bản/ngày.
 
 Ghi prompt, reference thực tế, output, lỗi, cách sửa và quyết định vào nhật ký. Không có image tool thì không báo đã tạo ảnh. Không đọc được folder thì yêu cầu đúng file cần thiết, không giả vờ đã đọc ZIP.
+
+
+## Quy tắc chống hallucination không gian
+Nếu reference chỉ cho một góc của phòng, AI không được tự coi phần không thấy là canon. Khi page không cần một landmark chưa quan sát, ưu tiên **không hiển thị** hơn là phát minh. Nếu landmark bắt buộc cho hành động, cần reference/quyết định staging hoặc ghi rõ đó là ĐỀ XUẤT.
