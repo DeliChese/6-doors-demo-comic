@@ -1,5 +1,11 @@
 # Nhật ký lựa chọn
 
-Ứng viên / lý do chọn hoặc loại / lỗi canon / trạng thái / người quyết định / ngày. Không ghi người dùng duyệt nếu chỉ có nhận xét của AI.
+| Ngày | Mục | Quyết định người dùng | Loại quyết định | Phạm vi |
+|---|---|---|---|---|
+| 22-09-2026 | Outfit Khôi | Dùng đúng outfit trên sheet hiện tại | Khóa production | Demo A/M01 |
+| 22-09-2026 | Vị trí Khôi | Hàng ghế đầu ngoài cùng | Khóa staging | Demo A |
+| 22-09-2026 | Ánh sáng giảng đường | Giữ tone chiều muộn vàng ấm của bản thử được thích | Style/lighting direction | Demo A |
+| 22-09-2026 | Geometry giảng đường | Bám cấu trúc bậc thang/hàng bàn/cầu thang của ảnh nguồn | Geometry anchor | Demo A |
+| 22-09-2026 | Artwork Demo A | Chưa có bản được duyệt | Trạng thái artwork | Demo A |
 
-Chưa có lượt tạo ảnh trong gói v0.1. Khi model không công bố seed hay thông số, ghi “không cung cấp”, không tự bịa.
+Không ghi “Đã duyệt tranh” chỉ vì người dùng khen một phần của ảnh. Một nhận xét như “phần giảng viên và ánh sáng đẹp” chỉ khóa phần direction được nêu, không duyệt toàn page.
