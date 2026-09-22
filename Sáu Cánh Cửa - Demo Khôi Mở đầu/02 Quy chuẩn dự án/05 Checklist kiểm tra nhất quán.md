@@ -23,3 +23,14 @@
 Kết quả: Chưa kiểm / Đạt / Cần sửa. Ghi từng lỗi kèm mã khung, reference đối chiếu và cách sửa. Không dùng tổng điểm để bù một lỗi canon hoặc spatial continuity nghiêm trọng.
 
 - [ ] Không coi chi tiết AI tự thêm ở bản thử là landmark canon cho lượt sau.
+
+
+## Cổng preflight bắt buộc
+- [ ] Đã đọc `06 Quy chuẩn dựng hình và đạo diễn panel Manhwa.md`.
+- [ ] Có Scene Lock Card / spatial map.
+- [ ] Có Camera Table.
+- [ ] Có Blocking Table.
+- [ ] Có page thumbnail/layout hierarchy.
+- [ ] Có balloon reserve.
+- [ ] Kết quả preflight = **PASS TO RENDER** trước full render.
+- [ ] Nếu lỗi structure lặp 3 lần: dừng generation, sửa pipeline/spec.
