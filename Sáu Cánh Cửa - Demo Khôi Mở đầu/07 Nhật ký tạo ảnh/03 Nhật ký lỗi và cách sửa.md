@@ -13,4 +13,7 @@
 | A-E09 | A3/A4 | A4 quá lớn, A3 thiếu vùng balloon | A3 là panel chính; A4 nhỏ hơn | Rule đã cập nhật |
 | A-E10 | A1/A3 | Đồng hồ tay trái của Khôi biến mất khi cổ tay còn thấy rõ | Prop continuity nếu reference/page version đã thể hiện | Rule đã cập nhật |
 
+| A-E11 | A1/A3 | Model giữ world-right ở cùng screen-right sau khi camera đảo 180°; A1 và A3 thành hai topology khác nhau | Thêm world axes + bảng projection: A1 BACK→FRONT => RIGHT-STAIR screen-left; A3 FRONT→BACK => RIGHT-STAIR screen-right | Rule đã cập nhật |
+| A-E12 | A1/A3 | Khôi ghế ngoài sát RIGHT-STAIR nhưng blocking screen-space không đảo theo camera | Khóa ghế vật lý, không khóa "Khôi ở bên phải màn hình"; A1 screen-left, A3 mép phải khối ghế | Rule đã cập nhật |
+
 Khi lỗi geometry xuất hiện ở nhiều panel, không tiếp tục “chữa bằng prompt mỹ thuật”; quay lại spatial map/geometry anchor trước.
