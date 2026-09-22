@@ -7,7 +7,8 @@
 - [ ] Màu da/vải có thể chịu ánh sáng nhưng không đổi vật liệu gốc.
 - [ ] Không có logo trường thật; đúng thời gian và nhịp diễn xuất.
 - [ ] Với bối cảnh có reference: xác định geometry anchor trước khi tạo page; không coi reference chỉ là mood.
-- [ ] Cửa, cửa sổ, cầu thang/lối đi, bàn ghế, đèn và trục máy thuộc cùng một spatial map giữa các panel.
+- [ ] Chỉ khóa landmark quan sát được/source xác nhận; phần ngoài khung ghi **không quan sát được**, không tự bịa để lấp khung.
+- [ ] Các landmark đã xác nhận (cửa nếu có reference, window-zones, cầu thang/lối đi, bàn ghế, đèn, trục máy) thuộc cùng một spatial map giữa các panel.
 - [ ] Khi camera đảo chiều, phân biệt **đảo trái/phải do góc nhìn** với **landmark teleport sang vị trí vật lý khác**.
 - [ ] Kiểu bàn ghế, spacing, độ cao bậc và tỷ lệ cửa nhất quán giữa establishing shot và reverse shot.
 - [ ] Không biến hàng bàn thẳng thành vòng cung nếu reference không có.
@@ -20,3 +21,5 @@
 - [ ] Chữ và SFX nếu có đã đối chiếu bảng chữ, đúng người nói.
 
 Kết quả: Chưa kiểm / Đạt / Cần sửa. Ghi từng lỗi kèm mã khung, reference đối chiếu và cách sửa. Không dùng tổng điểm để bù một lỗi canon hoặc spatial continuity nghiêm trọng.
+
+- [ ] Không coi chi tiết AI tự thêm ở bản thử là landmark canon cho lượt sau.
