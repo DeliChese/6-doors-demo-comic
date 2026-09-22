@@ -1,13 +1,16 @@
 # Tiêu chí hoàn thành M01
 
-M01 chỉ hoàn thành khi có bằng chứng hình ảnh; việc viết xong tài liệu chưa phải vượt M01.
+M01 chỉ hoàn thành khi có bằng chứng hình ảnh; viết xong tài liệu chưa phải vượt M01.
 
-1. Nhận diện: có sheet được xác nhận và outfit chọn rõ; có ít nhất cận mặt + toàn thân/silhouette đủ so sánh.
-2. Continuity: Khôi giữ nét qua góc mặt, động tác và tối thiểu ánh sáng đời thực + siêu thực. Chi tiết không nhìn thấy đánh dấu không đánh giá được.
-3. Bối cảnh: giảng đường/thư viện/sảnh giữ mốc không gian ở những cảnh được test; sảnh đúng sáu cửa và hệ màu.
-4. Thiết kế trang: ít nhất một trang nhiều panel và một mẫu splash/spread nếu kiểm đủ hai mode đã đề xuất; đúng flow, không tự sửa truyện.
-5. Lettering: ít nhất một trang artwork duyệt được thêm chữ đúng; nếu giao hai trang, cả hai phải đạt riêng. Kiểm SFX bằng C khi chọn thêm bài này; A/B không bắt buộc bịa SFX.
-6. Bảo toàn: bản thêm chữ không làm đổi artwork ngoài vùng cho phép; nguồn gốc/phiên bản truy được.
-7. Người dùng đưa quyết định duyệt, nhật ký ghi đầy đủ.
+1. **Nhận diện:** có sheet/reference Khôi rõ; outfit M01 được khóa; có cận mặt + toàn thân/silhouette đủ so sánh.
+2. **Character continuity:** Khôi giữ mặt/tóc/kính/tỷ lệ qua góc máy, hành động và tối thiểu ánh sáng đời thực + siêu thực. Chi tiết bị che ghi “không đánh giá được”.
+3. **Prop/outfit continuity:** outfit, kính, ba lô, sách, đồng hồ và vị trí đạo cụ không tự xuất hiện/biến mất khi còn quan sát được.
+4. **Spatial continuity:** trong scene có nhiều góc máy, topology phải giữ: landmark, bàn ghế, cửa/cửa sổ, cầu thang/lối đi và độ cao nền không teleport. Reverse shot phải là phép đổi camera trong cùng phòng, không phải tái thiết kế phòng.
+5. **Bối cảnh:** giảng đường/thư viện/sảnh giữ mốc không gian ở những cảnh được test; sảnh đúng sáu cửa và hệ màu.
+6. **Thiết kế trang:** ít nhất một page nhiều panel; nếu test splash/spread thì có mẫu riêng. Flow hành động đúng và vùng lettering đủ dùng.
+7. **Crowd/background:** quần chúng không clone rõ, không tự tạo reaction beat làm sai trọng tâm; background phụ không biến thành nhân vật canon.
+8. **Lettering:** ít nhất một artwork page đã duyệt được thêm chữ đúng; nếu hai page thì cả hai phải đạt riêng.
+9. **Bảo toàn:** lettering không đổi artwork ngoài vùng cho phép; source/version truy được.
+10. **Duyệt người dùng:** quyết định được ghi sổ; AI không tự duyệt thay.
 
-Nếu chỉ test A/B mà chưa thư viện, ghi rõ phạm vi chưa test, không tuyên bố đã kiểm toàn open chapter. Lỗi chữ riêng sửa lettering; lỗi mặt ở một panel sửa panel; lỗi không gian nhiều panel cần xem lại reference/page blueprint.
+Nếu chỉ test A/B mà chưa thư viện, ghi rõ phạm vi chưa test. Lỗi chữ sửa lettering; lỗi mặt một panel sửa panel; lỗi spatial continuity nhiều panel phải quay lại geometry/page blueprint trước khi tạo lại.
