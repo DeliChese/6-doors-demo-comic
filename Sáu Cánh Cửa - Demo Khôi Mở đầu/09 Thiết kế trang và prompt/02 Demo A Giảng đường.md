@@ -18,10 +18,10 @@ Khóa:
 - giảng đường bậc thang;
 - hàng bàn thẳng, song song, nâng cao dần;
 - lối/cầu thang đúng một cạnh vật lý;
-- cửa, cửa sổ, bảng, khu giảng viên là landmark cố định;
-- tỷ lệ cửa theo tỷ lệ người.
+- các dãy bàn, bậc sàn, cầu thang, bảng/khu giảng viên và window-zones quan sát được là landmark cố định;
+- không coi cửa ra vào là landmark đã khóa nếu source chưa cho thấy rõ.
 
-**Cấm:** biến bàn thành vòng cung; làm cầu thang/cửa sổ/cửa ra vào “nhảy bên” giữa panel; tái thiết kế phòng để hợp từng góc.
+**Cấm:** biến bàn thành vòng cung; làm cầu thang/window-zones “nhảy topology” giữa panel; tự phát minh cửa ra vào để lấp khoảng trống; tái thiết kế phòng để hợp từng góc.
 
 ### 2. STYLE/LIGHTING ANCHOR
 Dùng look của bản thử được người dùng thích:
@@ -38,12 +38,12 @@ Style/light **không được phép sửa geometry**.
 
 - FRONT: bảng + khu/bàn/bục giảng viên.
 - BACK: các hàng ghế cao dần.
-- SIDE-STAIR: cạnh có cầu thang đi lên theo reference.
-- WINDOW-SIDE: cạnh có hệ cửa sổ chính theo reference.
-- DOOR: một landmark cửa ra vào duy nhất.
+- RIGHT-STAIR: khi đứng FRONT nhìn BACK, cầu thang quan sát được nằm ở mép phải khối ghế theo reference.
+- WINDOW-ZONES: giữ các cụm cửa sổ/cửa kính thực sự quan sát được; không rút thành một bên duy nhất.
+- ENTRY-DOOR: chưa được geometry anchor hiện tại xác nhận rõ; không bắt buộc vẽ.
 - KHOI-SEAT: hàng đầu ngoài cùng.
 
-Khi camera đảo từ A1 sang A3, trái/phải trên hình có thể thay đổi theo góc nhìn; **quan hệ vật lý giữa FRONT/BACK/SIDE-STAIR/WINDOW-SIDE/DOOR không được thay đổi**.
+Khi camera đảo từ A1 sang A3, trái/phải trên hình có thể thay đổi theo góc nhìn; **quan hệ vật lý giữa FRONT/BACK/RIGHT-STAIR/WINDOW-ZONES không được thay đổi; phần ENTRY-DOOR chưa quan sát rõ thì không tự phát minh**.
 
 ## Nhịp kể
 
@@ -51,9 +51,9 @@ Khi camera đảo từ A1 sang A3, trái/phải trên hình có thể thay đổ
 
 | Panel | Ưu tiên | Nội dung và camera | Continuity bắt buộc | Vùng lettering |
 |---|---|---|---|---|
-| A1 | Establishing | Nhìn từ vùng sinh viên về FRONT. Thu Anh giảng; Khôi hàng đầu ngoài cùng bắt đầu giơ tay. | Bàn/ghế phải dùng cùng kiểu và spacing sẽ thấy ở A3; cửa/cửa sổ/cầu thang đúng geometry anchor; ba lô không trên vai. | Chừa vùng âm, không render chữ |
+| A1 | Establishing | Nhìn từ vùng sinh viên về FRONT. Thu Anh giảng; Khôi hàng đầu ngoài cùng bắt đầu giơ tay. | Bàn/ghế phải dùng cùng kiểu và spacing sẽ thấy ở A3; window-zones/cầu thang/bàn ghế đúng geometry anchor; không bắt buộc cửa ra vào; ba lô không trên vai. | Chừa vùng âm, không render chữ |
 | A2 | Thu Anh | Medium/3⁄4 Thu Anh đang giảng, bắt đầu nhận ra Khôi ngoài khung. | Giữ look ánh sáng A1; background landmark chỉ hiện nếu camera thật sự nhìn thấy. | Khoảng trên/trái |
-| A3 | **Panel chính hàng dưới** | **Reverse shot từ phía FRONT nhìn về Khôi và BACK.** Khôi đã hạ tay và bắt đầu nói. | Sau Khôi: các hàng bàn **thẳng**, nâng bậc đều về BACK; đường bàn/bậc hội tụ hợp lý; SIDE-STAIR ở đúng cạnh vật lý; không thấy bảng/bục/Thu Anh. Quần chúng chủ yếu nhìn về FRONT, không có một người quay hẳn lại nhìn Khôi nếu kịch bản không yêu cầu. Không clone quần chúng. | Vùng âm lớn trên/bên cạnh đầu Khôi theo hướng nhìn |
+| A3 | **Panel chính hàng dưới** | **Reverse shot từ phía FRONT nhìn về Khôi và BACK.** Khôi đã hạ tay và bắt đầu nói. | Sau Khôi: các hàng bàn **thẳng**, nâng bậc đều về BACK; đường bàn/bậc hội tụ hợp lý; RIGHT-STAIR ở đúng cạnh vật lý; không thấy bảng/bục/Thu Anh. Quần chúng chủ yếu nhìn về FRONT, không có một người quay hẳn lại nhìn Khôi nếu kịch bản không yêu cầu. Không clone quần chúng. | Vùng âm lớn trên/bên cạnh đầu Khôi theo hướng nhìn |
 | A4 | Phản ứng | Nhỏ hơn A3. Medium/3⁄4 Thu Anh từ góc khác A2, nhìn trả về Khôi ngoài khung. | Không lặp portrait A2 chỉ đổi tay; giữ cùng ánh sáng và vị trí vật lý FRONT. | Balloon ngắn |
 
 ## Crowd variation cho A1/A3
@@ -73,8 +73,8 @@ Không đạt nếu:
 - A1 và A3 có hai hệ bàn ghế khác nhau.
 - Hàng bàn ở A3 cong/vòng cung thay vì thẳng theo geometry anchor.
 - Độ cao hàng ghế không tăng dần về BACK.
-- Cầu thang, cửa sổ hoặc cửa ra vào nhảy sang một vị trí vật lý khác.
-- Cửa sai tỷ lệ người.
+- Cầu thang hoặc các window-zones quan sát được bị đảo/teleport sai topology.
+- Tự thêm cửa ra vào dù geometry source/page action không yêu cầu; nếu có cửa từ reference bổ sung thì phải đúng tỷ lệ người.
 - A3 thấy bảng/bục/Thu Anh.
 - Quần chúng quay đầu bất thường hoặc bị clone rõ.
 - Khôi/Thu Anh sai trục nhìn.
@@ -85,3 +85,8 @@ Không đạt nếu:
 - Tone ánh sáng giữa A1–A4 đổi thành bốn thời điểm khác nhau.
 
 Đầu ra: một ảnh trang **không chữ/balloon/SFX**, chừa vùng lettering. Ứng viên ở trạng thái `Đang thử`; người dùng duyệt tranh trước lettering.
+
+
+## Rule chống hallucination bối cảnh
+
+Chỉ landmark **quan sát được hoặc được source/spec xác nhận** mới được khóa. Chi tiết ngoài khung reference phải ghi `không quan sát được`; không tự hoàn thiện kiến trúc bằng suy đoán.
