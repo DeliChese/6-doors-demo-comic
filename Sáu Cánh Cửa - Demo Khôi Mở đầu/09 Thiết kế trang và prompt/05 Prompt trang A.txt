@@ -101,3 +101,8 @@ Nếu geometry không thể giữ nhất quán, ưu tiên geometry anchor hơn v
 HALLUCINATION GUARD:
 - Chỉ khóa landmark nhìn thấy trong reference hoặc được spec/source xác nhận.
 - Phần ngoài khung = KHÔNG QUAN SÁT ĐƯỢC, không phải chỗ để tự bịa kiến trúc.
+
+
+HALLUCINATION GUARD:
+- Chỉ khóa landmark nhìn thấy trong reference hoặc được spec/source xác nhận.
+- Phần ngoài khung = KHÔNG QUAN SÁT ĐƯỢC, không phải chỗ để tự bịa kiến trúc.
