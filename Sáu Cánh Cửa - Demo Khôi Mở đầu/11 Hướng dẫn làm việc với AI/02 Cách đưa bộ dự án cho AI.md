@@ -2,14 +2,31 @@
 
 ## Môi trường đọc được folder
 
-Giải nén, mở root dự án, yêu cầu agent đọc `11 Hướng dẫn làm việc với AI/01 Chỉ dẫn cho AI.md`. Nêu mã nhiệm vụ: chuẩn hóa Khôi, tạo trang A/B/C hay thêm chữ. Agent cần image tool để sinh/chỉnh ảnh. File tree là tài liệu và nơi lưu đầu vào/đầu ra, không tự chạy.
+Mở root dự án, đọc `11 Hướng dẫn làm việc với AI/01 Chỉ dẫn cho AI.md`, sau đó đọc trạng thái, continuity và page spec của nhiệm vụ. Không dùng một file lịch sử v0.1 thay cho trạng thái hiện hành.
 
 ## Chat có công cụ tạo ảnh
 
-Đính kèm sheet Khôi đã chốt và ảnh bối cảnh đang dùng. Copy nguyên prompt trang A/B/C trong 09. Nếu cần, đính kèm SVG layout hoặc ảnh chuyển từ SVG. Hãy nêu vai trò mỗi ảnh. Không chỉ đưa ZIP rồi giả định công cụ tạo ảnh nhìn được từng ảnh bên trong.
+### Demo A hiện tại
 
-Với lettering: đính kèm 1–2 trang tranh đã duyệt; dùng lệnh có sẵn theo page hoặc prompt lô hai trang cùng bảng chữ. Sheet và bối cảnh không phải input ưu tiên ở bước này: artwork đã duyệt là nền cần giữ. Giữ sheet để kiểm đối chiếu nếu nghi lệch nhận diện.
+Nên cung cấp/đính kèm theo vai trò:
+1. Khôi — CHARACTER IDENTITY.
+2. Outfit/prop Khôi nếu cần crop riêng.
+3. Thu Anh — CHARACTER IDENTITY.
+4. Giảng đường nguồn — GEOMETRY ANCHOR.
+5. Ảnh/page look được chọn — STYLE/LIGHTING ANCHOR nếu cần.
 
-## Khi công cụ không đọc ZIP
+Nếu một ảnh đóng nhiều vai trò, phải nói rõ. Không để model tự đoán “ảnh nào để lấy kiến trúc, ảnh nào để lấy ánh sáng”.
 
-Giải nén trên máy, chọn các tệp liên quan để tải lên. Có thể gửi từng bước, không cần nạp toàn bộ nguồn dài. Việc hỗ trợ loại file, số ảnh hoặc nhiều output tùy môi trường đang dùng; kiểm năng lực thực tế, không coi tài liệu này là bảo đảm tính năng cho mọi ứng dụng.
+Dùng prompt Demo A mới nhất trong 09. Không dùng SVG/layout cũ nếu nó mâu thuẫn page spec.
+
+### Các page khác
+
+Chỉ gửi các reference liên quan đến page đó. Không nạp tất cả asset “cho chắc” vì model có thể trộn chi tiết từ ảnh không liên quan.
+
+## Lettering
+
+Đính kèm đúng artwork/version đã được người dùng duyệt. Artwork là nền bất biến. Sheet/background chỉ dùng để QA khi nghi lệch; không được dùng để tái thiết kế tranh trong bước thêm chữ.
+
+## Khi công cụ không đọc ZIP/folder
+
+Giải nén và tải đúng các file cần. Ghi vai trò từng file. Hỗ trợ loại file, số ảnh và số output phụ thuộc môi trường thực tế; không coi tài liệu này là bảo đảm tính năng.
