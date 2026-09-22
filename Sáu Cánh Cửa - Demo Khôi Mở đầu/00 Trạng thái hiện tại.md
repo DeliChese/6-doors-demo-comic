@@ -9,7 +9,7 @@
 | Bối cảnh Giảng đường | Đã có ảnh nguồn | GEOMETRY ANCHOR đã audit; không suy landmark ngoài khung |
 | Những nhân vật khác | Chưa kích hoạt | Không tự mở package |
 | 8 shot continuity | Đã soạn spec, chưa có ảnh | Tạo theo nhu cầu kiểm thử |
-| Demo A | **Đang chỉnh sửa**; outfit/staging/geometry/lighting rules đã khóa và audit | Tạo lại ứng viên không chữ theo spec hiện hành sau audit |
+| Demo A | **Đang chỉnh sửa**; spec đã audit nhưng pipeline cũ cho thấy full-render quá sớm gây lãng phí | Chạy Preflight P1–P5, chỉ PASS mới full render |
 | Page B | Có layout và prompt, chưa có tranh | Chờ sau khi Demo A qua cổng |
 | Page C | Bài thử chuyển cảnh tùy chọn | Dùng nếu cần test bước chân và SFX |
 | 1–2 trang tranh duyệt đầu vào | Chưa có bản đạt duyệt | Chỉ chuyển sang lettering sau khi người dùng duyệt tranh |
@@ -31,3 +31,14 @@
 Bản thử chưa được duyệt. Các lỗi đã log gồm: trục nhìn A3; geometry A1/A3; hàng bàn vòng cung; crowd clone/reaction turn; ba lô/đồng hồ; landmark teleport; A4 quá lớn/lặp góc Thu Anh. Audit cuối bổ sung rule: phần kiến trúc không quan sát được không được tự phát minh. Bản thử mới nhất tiếp tục FAIL ở phép chiếu 180°: world RIGHT-STAIR bị giữ cùng screen-side giữa A1/A3; đã bổ sung world-space projection rule. Những lỗi này là blocker trước lettering.
 
 Không đặt ảnh vào mục Đã duyệt chỉ vì AI tự đánh giá là đẹp.
+
+
+## Quy trình production mới bắt buộc
+
+Từ 23-09-2026, mọi page nhiều panel dùng:
+1. `02 Quy chuẩn dự án/06 Quy chuẩn dựng hình và đạo diễn panel Manhwa.md`
+2. `09 Thiết kế trang và prompt/00 Pipeline tiền kỳ một trang Manhwa.md`
+3. `12 Kiểm thử và duyệt/04 Checklist Preflight trước Full Render.md`
+
+**Không full-render trực tiếp từ prompt page nếu chưa PASS structural preflight.**
+Ba lỗi structure lặp cùng loại được coi là pipeline failure: dừng generation và sửa scene model/camera/layout trước.
