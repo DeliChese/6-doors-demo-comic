@@ -10,8 +10,22 @@
 | Inset | Panel nhỏ đặt chồng trên hình lớn, có thứ tự đọc rõ |
 | Safe area | Vùng an toàn cho chữ và chi tiết quan trọng |
 
-Đề xuất v0.1: trang dọc 2:3, 1600 × 2400 px; lề 4% (64 px ngang, 96 px dọc), gutter 2% chiều rộng (32 px), viền khoảng 3 px tại kích thước đích. Chữ trong vùng cách mép ít nhất 5%; các con số này là thông số demo, không phải canon tác phẩm. Khi đổi kích thước, scale đồng bộ.
+Thông số demo hiện tại: trang dọc 2:3, 1600 × 2400 px; lề khoảng 4%, gutter khoảng 2% chiều rộng, viền scale theo kích thước đích. Đây là thông số demo, không phải canon tác phẩm.
 
-Đọc trái sang phải, trên xuống dưới. Demo A dùng 2 × 2 khung để rõ nhịp và có đủ chỗ cho thoại giảng viên khá dài. Demo B là splash nền chạm mép với inset cuối ở dưới; Demo C giải quyết ghi chú “toàn trang” cộng các khung còn lại bằng nền lớn và inset, đây là phương án dàn thử được khai báo.
+Đọc trái sang phải, trên xuống dưới.
 
-Chừa khoảng composition cho chữ trước khi vẽ, chưa vẽ balloon rỗng. Không nhét chữ vào mặt, kính, bàn tay đang hành động, biểu tượng cửa hoặc chi tiết cốt truyện. Chừa chữ không đồng nghĩa bỏ trắng một hình chữ nhật thô trên artwork.
+## Luật quan trọng về layout
+
+**Page spec hiện hành của từng trang có ưu tiên cao hơn ví dụ layout tổng quát hoặc SVG cũ.**
+
+Demo A hiện là **4 panel bất đối xứng**, không còn được mô tả là lưới 2×2 bằng nhau:
+- A1 rộng hơn A2 ở hàng trên nếu cần establishing;
+- A3 là panel chính ở hàng dưới;
+- A4 nhỏ hơn A3;
+- A3 phải đủ vùng âm cho balloon câu hỏi của Khôi.
+
+Không ép hai panel bằng nhau chỉ để “đẹp lưới” nếu làm mất nhịp kể hoặc vùng lettering.
+
+Demo B là splash/spread test theo spec riêng. Demo C dùng nền lớn + inset theo spec riêng. Không lấy footprint của B/C áp sang A.
+
+Chừa khoảng composition cho chữ trước khi vẽ, chưa vẽ balloon rỗng. Không đặt vùng chữ lên mặt, kính, bàn tay hành động, biểu tượng cửa hoặc chi tiết cốt truyện. “Chừa chỗ” không có nghĩa tạo một mảng trắng thô.
