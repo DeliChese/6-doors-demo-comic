@@ -2,56 +2,35 @@
 
 Nguồn kịch bản MD T01: giảng đường đại học chiều muộn, nắng xiên qua cửa kính, bảng chiếu ở đầu lớp. Demo A đã khóa Khôi ở **hàng ghế đầu ngoài cùng**.
 
-## Reference hình hiện có
+## Geometry anchor
+`01 Ảnh nguồn/Giảng đường.png` là **GEOMETRY ANCHOR**. Chỉ khóa những gì thật sự quan sát được trong ảnh.
 
-`01 Ảnh nguồn/Giảng đường.png` là **GEOMETRY ANCHOR**. Chỉ khóa những gì thực sự quan sát được trong ảnh; phần ngoài khung **không được suy thành canon**.
-
-### Geometry quan sát được và phải giữ
-
-- Giảng đường dạng bậc thang; các hàng sau cao dần.
-- Bàn học là các dãy **thẳng và song song**, không phải auditorium vòng cung.
-- Bậc sàn + mép bàn tạo hệ perspective diagonal nhất quán.
-- Khi nhìn từ FRONT về BACK, cầu thang quan sát được chạy dọc **mép phải của khối ghế** trong reference.
+### Quan sát được
+- Giảng đường bậc thang; các hàng sau cao dần.
+- Bàn học là dãy **thẳng và song song**, không vòng cung.
+- Bậc sàn + mép bàn tạo perspective diagonal nhất quán.
+- Khi đứng FRONT nhìn BACK, cầu thang quan sát được chạy dọc **mép phải khối ghế**.
 - Khu giảng viên ở tầng thấp phía FRONT.
-- Reference có **nhiều vùng cửa sổ/cửa kính quan sát được**, không được giản lược thành một “WINDOW-SIDE” duy nhất rồi tự lật trái/phải.
+- Có nhiều cụm cửa sổ/cửa kính quan sát được; không rút thành một “WINDOW-SIDE” duy nhất.
 - Bảng/khu giảng viên/cầu thang/các dãy bàn là landmark đã quan sát được.
 
-### Điều KHÔNG được khóa từ ảnh này
+### Không được tự khóa
+**Cửa ra vào chưa được geometry anchor hiện tại xác nhận rõ.** Nếu panel không cần cửa, ưu tiên không vẽ cửa hơn là tự phát minh vị trí/kích thước.
 
-**Cửa ra vào không được xác nhận rõ như một landmark bắt buộc từ geometry anchor hiện tại.** Nếu một panel không cần cửa, ưu tiên không vẽ cửa thay vì tự phát minh vị trí/kích thước. Nếu về sau cần cửa ra vào rõ, phải có reference hoặc quyết định staging riêng.
+Quy tắc: **không quan sát được ≠ được phép bịa cho đầy khung**.
 
-Nguyên tắc chung: **không quan sát được ≠ được phép bịa cho đầy khung**.
-
-## Spatial map cho Demo A
-
-- FRONT = phía bảng/khu giảng viên.
-- BACK = các hàng ghế cao dần.
-- RIGHT-STAIR (khi đứng FRONT nhìn BACK) = cầu thang ở mép phải khối ghế theo reference.
-- WINDOW-ZONES = giữ các cụm cửa sổ/cửa kính quan sát được theo geometry anchor; không ép thành một bên duy nhất.
-- ENTRY-DOOR = **UNRESOLVED / không bắt buộc hiển thị**.
+## Spatial map Demo A
+- FRONT = bảng/khu giảng viên.
+- BACK = hàng ghế cao dần.
+- RIGHT-STAIR = cầu thang ở mép phải khối ghế khi nhìn FRONT→BACK.
+- WINDOW-ZONES = giữ các cụm cửa sổ/cửa kính thực sự thấy.
+- ENTRY-DOOR = UNRESOLVED / không bắt buộc hiển thị.
 - KHOI-SEAT = hàng ghế đầu ngoài cùng.
 
-Khi camera đảo A1 ↔ A3, trái/phải trên ảnh có thể đổi theo projection, nhưng topology quan sát được không được teleport.
+## Lighting
+Giữ chiều muộn vàng ấm, nắng xiên, highlight ấm, bóng mềm có hướng, nền xanh/xám trung tính. Lighting không được tái thiết kế geometry.
 
-## Ánh sáng / look anchor
+## Crowd
+Không clone rõ; không tự tạo reaction character; A3 phần lớn quần chúng vẫn hướng FRONT.
 
-Demo A dùng STYLE/LIGHTING ANCHOR đã được người dùng chọn:
-- chiều muộn ấm;
-- nắng vàng xiên;
-- highlight ấm trên tóc/da/cạnh bàn;
-- bóng mềm có hướng;
-- nền xanh/xám trung tính;
-- manhwa màu bán hiện thực, sạch, điện ảnh.
-
-Lighting không được tái thiết kế geometry.
-
-## Quần chúng
-
-- Phục vụ scale/depth, không tự thành reaction character.
-- Không clone rõ: tránh trùng tóc + mặt + pose + silhouette ở người gần nhau.
-- Có biến thiên tóc/kính/dáng ngồi/giới tính trình bày nhưng cùng hệ đồng phục.
-- A3: phần lớn quần chúng vẫn hướng FRONT; không quay hẳn lại nhìn Khôi nếu kịch bản không có beat đó.
-
-## Trạng thái
-
-Geometry source đã có. Lighting direction đã khóa. Chưa có artwork/background Demo A nào được người dùng duyệt.
+Chưa có artwork/background Demo A nào được người dùng duyệt.
