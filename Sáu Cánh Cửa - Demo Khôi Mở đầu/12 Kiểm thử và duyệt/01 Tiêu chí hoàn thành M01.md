@@ -14,3 +14,17 @@ M01 chỉ hoàn thành khi có bằng chứng hình ảnh; viết xong tài li�
 10. **Duyệt người dùng:** quyết định được ghi sổ; AI không tự duyệt thay.
 
 Nếu chỉ test A/B mà chưa thư viện, ghi rõ phạm vi chưa test. Lỗi chữ sửa lettering; lỗi mặt một panel sửa panel; lỗi spatial continuity nhiều panel phải quay lại geometry/page blueprint trước khi tạo lại.
+
+
+## Cổng M01 bổ sung — pipeline discipline
+
+M01 chưa đạt nếu page đẹp nhưng chỉ đạt nhờ reroll nhiều lần mà không có preflight tái sử dụng.
+
+Phải chứng minh:
+- có Set Bible/spatial map cho ít nhất một bối cảnh test;
+- có camera/blocking preflight cho page nhiều panel;
+- structural QA được chạy trước full render;
+- lỗi lặp đã được chuyển thành rule/checklist;
+- một page sau preflight có tỷ lệ sửa structure thấp hơn các lượt thử trước.
+
+Mục tiêu của Demo là kiểm **pipeline có tái sử dụng được**, không phải chỉ tìm ra một ảnh đẹp tình cờ.
