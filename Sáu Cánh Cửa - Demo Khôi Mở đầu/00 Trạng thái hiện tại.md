@@ -4,20 +4,30 @@
 |---|---|---|
 | Full-tree và tài liệu | Đã soạn v0.1, đang đồng bộ nguồn hình | Tiếp tục cập nhật theo asset thực tế |
 | Nguồn kịch bản | Đã nhập | Giữ nguyên, cập nhật có phiên bản |
-| Khôi | Hoạt động, Asset Package Cấp A; đã có sheet gốc | Chuẩn hóa crop nhận diện, khóa outfit M01 và phạm vi dùng |
-| Thu Anh | Vai phụ Demo A; đã có sheet người dùng cung cấp | Dùng package tối thiểu để giữ continuity A2/A4; chưa nâng thành Cấp A |
+| Khôi | Hoạt động, Asset Package Cấp A; đã có sheet gốc | Tiếp tục chuẩn hóa crop nhận diện xuyên suốt |
+| Thu Anh | Vai phụ Demo A; đã có sheet người dùng cung cấp | Giữ continuity A2/A4; chưa nâng thành Cấp A |
 | Bối cảnh Giảng đường | Đã có ảnh nguồn | Dùng làm background anchor cho Demo A |
 | Những nhân vật khác | Chưa kích hoạt | Không tự mở package |
 | 8 shot continuity | Đã soạn spec, chưa có ảnh | Tạo theo nhu cầu kiểm thử |
-| Page A và B | Có layout và prompt, chưa có tranh | Khóa staging Demo A rồi tạo từng page |
+| Demo A | **Đang chỉnh sửa**; outfit và staging đã khóa, artwork thử còn lỗi camera/continuity | Tạo lại ứng viên không chữ theo spec v0.3 |
+| Page B | Có layout và prompt, chưa có tranh | Chờ sau khi Demo A qua cổng |
 | Page C | Bài thử chuyển cảnh tùy chọn | Dùng nếu cần test bước chân và SFX |
-| 1–2 trang tranh duyệt đầu vào | Chưa nhận | Ghi duyệt tranh trước khi lettering |
-| Balloon, thoại, SFX | Có quy trình, bảng chữ và prompt | Chỉ thực hiện trên tranh đầu vào đã duyệt |
+| 1–2 trang tranh duyệt đầu vào | Chưa có bản đạt duyệt | Chỉ chuyển sang lettering sau khi người dùng duyệt tranh |
+| Balloon, thoại, SFX | Có quy trình, bảng chữ và prompt | Chưa thực hiện trên Demo A |
 | Duyệt cuối | Chưa có | Người dùng duyệt sau kiểm |
 
-## Quyết định còn chờ cho Demo A
+## Quyết định đã khóa cho Demo A
 
-1. Outfit M01 của Khôi: sheet hiện cho thấy sơ mi trắng ngắn tay, cà vạt đen, quần tối, giày trắng và ba lô đen. Đây hiện là **QUAN SÁT TỪ ẢNH**, chưa tự coi là outfit đã duyệt.
-2. Staging chỗ ngồi của Khôi còn xung đột giữa page spec cũ “bàn cuối” và chỉ đạo mới của người dùng “hàng ghế đầu ngoài cùng”. Chưa âm thầm sửa cho tới khi quyết định được khóa.
+1. Outfit M01 của Khôi: dùng đúng outfit trên sheet hiện tại.
+2. Vị trí Khôi: hàng ghế đầu ngoài cùng.
+3. Trong lớp Khôi không đeo ba lô trên vai; ba lô đặt tự nhiên cạnh/chân ghế.
+4. Nhịp: A1 giơ tay khi Thu Anh đang giảng → A3 hạ tay và hỏi → A4 Thu Anh lắng nghe/phản hồi.
+5. A3 dùng reverse shot từ phía trước Khôi, nhìn về cuối lớp; không thấy bục giảng/bảng/Thu Anh.
+6. A3 lớn hơn A4 để dành vùng balloon cho câu hỏi của Khôi.
+7. A2/A4 phải thay đổi góc máy/pose thực sự, không chỉ thay bàn tay.
 
-Đã xác nhận phạm vi làm demo. Không coi các đề xuất bố cục, kiểu chữ, màu outfit hoặc mẫu SFX là thiết kế canon đã duyệt. Không đặt ảnh vào mục Đã duyệt chỉ vì AI tự đánh giá là đẹp.
+## QA artwork thử gần nhất
+
+Bản thử chưa được duyệt. Các lỗi được ghi nhận gồm: trục nhìn A3 chưa hợp lý; camera A3 cho thấy sai phần không gian; ba lô/đồng hồ thiếu continuity; A4 chiếm diện tích quá lớn và lặp góc Thu Anh. Những lỗi này là blocker trước lettering.
+
+Không đặt ảnh vào mục Đã duyệt chỉ vì AI tự đánh giá là đẹp.
