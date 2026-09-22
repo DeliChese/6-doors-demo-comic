@@ -1,0 +1,621 @@
+{
+  "version": "0.1",
+  "note": "Danh mục không tự bao gồm chính tệp này. Không phải bằng chứng duyệt tranh.",
+  "files": [
+    {
+      "path": "00 Bắt đầu tại đây.md",
+      "bytes": 3227,
+      "sha256": "adb25ef77cdc9c2feb847014a9d7c9cc5a0554e036d95da3f7c654202d1537e1"
+    },
+    {
+      "path": "00 Danh mục đầy đủ.md",
+      "bytes": 13010,
+      "sha256": "e0577791f3fd67b8901d00cd904ac51d7fb8ee4432b018fd2739e5eef773ff95"
+    },
+    {
+      "path": "00 Trạng thái hiện tại.md",
+      "bytes": 1293,
+      "sha256": "6cc4698c03bfa90bef040026e8b54a559f39007eddaaaaab2c1b6c8455ad24c5"
+    },
+    {
+      "path": "01 Nguồn gốc/00 Danh mục nguồn.md",
+      "bytes": 2160,
+      "sha256": "d11eadead7359b37ff82fcf06b85a04987b172fcdc58e50efd0a3cc44ace51bf"
+    },
+    {
+      "path": "01 Nguồn gốc/01 Kịch bản nguồn hiện hành/01 Trích xuất có số đoạn.txt",
+      "bytes": 103610,
+      "sha256": "482399023372a6f13f945f5904644c2c3cfcc29d0e02c13e58bf8c25efbd4be4"
+    },
+    {
+      "path": "01 Nguồn gốc/01 Kịch bản nguồn hiện hành/Kịch bản Sáu Cánh Cửa - bản hiện hành.docx",
+      "bytes": 43530,
+      "sha256": "f893c612bc14da009007946a0f9614782c5ffb63d6c2efb4bc2fd04cf7448c49"
+    },
+    {
+      "path": "01 Nguồn gốc/02 Kịch bản nguồn cũ/00 Hướng dẫn thư mục.md",
+      "bytes": 196,
+      "sha256": "c24acc1dab9f32419716a339c05dd0fc26cccc58dea9d67a009ea5acf7ea78bf"
+    },
+    {
+      "path": "01 Nguồn gốc/03 Ảnh nguồn đã nhận/01 Nhân vật/00 Hướng dẫn thư mục.md",
+      "bytes": 255,
+      "sha256": "e0a3a80d88ac267fab859880ba8f357958df9199709e6f8316a20a547819342b"
+    },
+    {
+      "path": "01 Nguồn gốc/03 Ảnh nguồn đã nhận/02 Bối cảnh/00 Hướng dẫn thư mục.md",
+      "bytes": 248,
+      "sha256": "56054a6dad2fcaaf77364e026536e609b308701d0ac97a6d043eb3b84a9ec9e5"
+    },
+    {
+      "path": "02 Quy chuẩn dự án/01 Quy ước đặt tên.md",
+      "bytes": 1116,
+      "sha256": "1aef576d63d8e5a14917321c90e1e4358443b0db77d4a0a89f99d2da3ecdfd66"
+    },
+    {
+      "path": "02 Quy chuẩn dự án/02 Quy ước trạng thái tài sản.md",
+      "bytes": 1102,
+      "sha256": "02761cc5c70615c2ded0e40e09c52e92d187047e742979e83845b7e98f0b7ff8"
+    },
+    {
+      "path": "02 Quy chuẩn dự án/03 Quy ước phân cảnh và mã khung.md",
+      "bytes": 915,
+      "sha256": "ffb86e61425bc636f8cb6a140494b42f1aa9ccf2677cd8c0b64be638664a1c9a"
+    },
+    {
+      "path": "02 Quy chuẩn dự án/04 Quy chuẩn hình ảnh chung.md",
+      "bytes": 1362,
+      "sha256": "4cbace61133f17a21ac81c1de8189991e5fdaeb48f43129f8dd89663c12239cb"
+    },
+    {
+      "path": "02 Quy chuẩn dự án/05 Checklist kiểm tra nhất quán.md",
+      "bytes": 1209,
+      "sha256": "e73fedfd90a3ab48855c36bc56caf3803770e5680e59958395aad247134ff3e2"
+    },
+    {
+      "path": "03 Nội dung xuyên suốt/01 Tóm tắt dự án.md",
+      "bytes": 789,
+      "sha256": "8aba305dbd80d56e6e740485e2bf4112049b2572494d6b699e965b3f04727df4"
+    },
+    {
+      "path": "03 Nội dung xuyên suốt/02 Luật kể chuyện xuyên suốt.md",
+      "bytes": 1144,
+      "sha256": "ecd82a8e3b0d4159773a4255d3b9823841fbc985249355d85a5db4409677ec5b"
+    },
+    {
+      "path": "03 Nội dung xuyên suốt/03 Hệ màu sáu cánh cửa.md",
+      "bytes": 876,
+      "sha256": "41c5e5bae5671f8789bd5dc6bafc0c7f2982a91ef712090eb6d90c72303a9420"
+    },
+    {
+      "path": "03 Nội dung xuyên suốt/04 Nhật ký continuity.md",
+      "bytes": 1061,
+      "sha256": "078ed65f3408f0af3deb847e6bba5829b5afe40f5fc52bf02858a19920c5cf6f"
+    },
+    {
+      "path": "03 Nội dung xuyên suốt/05 Ghi chú thay đổi từ biên tập nội dung.md",
+      "bytes": 834,
+      "sha256": "79f5982dce3b2bf8423a05770c3ea817cef00c198eed358cee0df7129bae0be7"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/01 Nguồn gốc/00 Hướng dẫn thư mục.md",
+      "bytes": 289,
+      "sha256": "be4498683b68586da67bcd132c3d4ebdc022e44b6509c760136c51d8437917ee"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/01 Hồ sơ canon Khôi.md",
+      "bytes": 2316,
+      "sha256": "c21e0ea776f4ced785a0892b355bd2f0196a16631ec550a0ab8864a0a9203d9a"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/02 Bảng kiểm kê asset Khôi.md",
+      "bytes": 1056,
+      "sha256": "37950c965a7d3588a451a8426d36e89cf98072f1a726002e92a3226084fd4368"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/03 Bảng quyết định giữ sửa thiếu.md",
+      "bytes": 832,
+      "sha256": "a51905499c46a496aaf342687a5931a41a7360710233c426e6ed810b5ecb075c"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/04 Ghi chú art direction cho Khôi.md",
+      "bytes": 936,
+      "sha256": "8da06321d9cd64918c5abacc14e96ee069b79e2e14d37f2497fdb7fb6453e1df"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/03 Nhận diện chuẩn/00 Hướng dẫn thư mục.md",
+      "bytes": 387,
+      "sha256": "23f17be818906e0eb40cbfc321846b7ee609c738d68e57ef9b57ed98b685b7ed"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/03 Nhận diện chuẩn/07 Khôi - tỷ lệ cơ thể.md",
+      "bytes": 376,
+      "sha256": "3d95cc39703c7d231c594741c07982721ad48ffd788474334e9ccd7b5f3bdcb4"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/04 Trang phục/00 Hướng dẫn thư mục.md",
+      "bytes": 195,
+      "sha256": "79597de1c936642bc66c86bdbcf6f0c0266ee0c0941c057c6cd00ed664611861"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/04 Trang phục/03 Ghi chú trang phục Khôi.md",
+      "bytes": 430,
+      "sha256": "74720509e9febaacf095787531d5b7cb7992d9b45d4d3f7a66f328f50b8eaea5"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/05 Đạo cụ cá nhân/00 Hướng dẫn thư mục.md",
+      "bytes": 238,
+      "sha256": "05bff2bffb397391004cbed0757782d3f45c13a66b85a02ce6c4784d50a36b9a"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/05 Đạo cụ cá nhân/04 Ghi chú đạo cụ cá nhân.md",
+      "bytes": 508,
+      "sha256": "cda4df4ac25ff35ea726fb14bdfec45cc9a054c07f237bdec4e1480ac76125fd"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/06 Biểu cảm/00 Hướng dẫn thư mục.md",
+      "bytes": 156,
+      "sha256": "ac80b89e0a571394a010c075f4767b836fe26887d5f6a9952b0b2d602d4c3a3a"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/06 Biểu cảm/02 Ghi chú biểu cảm bắt buộc.md",
+      "bytes": 417,
+      "sha256": "d862935d30cacaa021964d11cbf3cb03bfdad52a43b306bb5148cda713a00865"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/07 Tư thế/00 Hướng dẫn thư mục.md",
+      "bytes": 306,
+      "sha256": "31f4514e6c5ebc8df75622d11cdc54054603b1c3943be5d7ac7b6662611a735e"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng/01 Khôi - đời thực.md",
+      "bytes": 339,
+      "sha256": "ea07f19245f7824cdd83276cb5366000a256ad2b5eb8c8d4aa374fbe042b24b9"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng/02 Khôi - Sảnh Sáu Cánh Cửa.md",
+      "bytes": 374,
+      "sha256": "ad2a6a0d1c921de12e60138c427e39df28b46b9b558bca603dc10d2a7b464f9e"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng/03 Khôi - quan sát câu chuyện.md",
+      "bytes": 383,
+      "sha256": "0fdad8f5ea9470331edff6f5de94475258580d7f935096ddf7a8d98c1fb50707"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng/04 Khôi - giải thích pháp luật.md",
+      "bytes": 347,
+      "sha256": "eeb63d0356a93e57e2abdbc0885e5309ae4f1087ba0699800b80d9dafcc58baf"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/09 Có tiềm năng/00 Hướng dẫn thư mục.md",
+      "bytes": 114,
+      "sha256": "2751ff760b134e4f23ba22c010360576f4f82295abcdef1436b706a24503f13e"
+    },
+    {
+      "path": "04 Nhân vật dùng chung/01 Khôi/10 Đã duyệt/00 Hướng dẫn thư mục.md",
+      "bytes": 193,
+      "sha256": "7b49e8070ddbf31368eb94f6f83a3b05021a32e6f4c45f4a07576645c2bd1740"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/01 Giảng đường/01 Ảnh nguồn/00 Hướng dẫn thư mục.md",
+      "bytes": 234,
+      "sha256": "e3a935c0deb52795eeb7e21c2935d92deea5b7e8adec52ffe9f753970670a69c"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/01 Giảng đường/02 Mô tả chuẩn.md",
+      "bytes": 746,
+      "sha256": "7c8b46c907caf7065ab7ea59a22bcd01be198d09461e2ba4c7bba1154f306b83"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/01 Giảng đường/03 Có tiềm năng/00 Hướng dẫn thư mục.md",
+      "bytes": 202,
+      "sha256": "7a396ed4f8eee44dc822781f6fb90a0a1705087c8e2f0733b886f3a544a36b0b"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/01 Giảng đường/04 Đã duyệt/00 Hướng dẫn thư mục.md",
+      "bytes": 198,
+      "sha256": "7fb9285df00f490f87a7d981d4f8f177deadbc14506a6c62bd032afd2a0bd09f"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/02 Thư viện/01 Ảnh nguồn/00 Hướng dẫn thư mục.md",
+      "bytes": 234,
+      "sha256": "e3a935c0deb52795eeb7e21c2935d92deea5b7e8adec52ffe9f753970670a69c"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/02 Thư viện/02 Mô tả chuẩn.md",
+      "bytes": 620,
+      "sha256": "c0b145b1626235a49ec91766b4987ac78598f582cf48f259610954eb90ebcc41"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/02 Thư viện/03 Có tiềm năng/00 Hướng dẫn thư mục.md",
+      "bytes": 196,
+      "sha256": "e3e8a057730b2794c7905066030c4a2def401153a23ed8e3b6f4e94fad85c848"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/02 Thư viện/04 Đã duyệt/00 Hướng dẫn thư mục.md",
+      "bytes": 192,
+      "sha256": "1b6afbdc1fa023600edbc3fa467f06bcc582426377faf6c2a3cb4d0f0e3598a9"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/01 Ảnh nguồn/00 Hướng dẫn thư mục.md",
+      "bytes": 234,
+      "sha256": "e3a935c0deb52795eeb7e21c2935d92deea5b7e8adec52ffe9f753970670a69c"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/02 Mô tả chuẩn.md",
+      "bytes": 694,
+      "sha256": "2b06bfc656b35ee914d60e4fcc3cb1fc40fbbd87921eb636644c409d1b3a6b1a"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/03 Sơ đồ không gian.md",
+      "bytes": 994,
+      "sha256": "557bb3b4c71a30cd21bca96c8d0fae12a8b151778ce37b1b5025b609f85b15fa"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/04 Hệ cửa và ánh sáng.md",
+      "bytes": 556,
+      "sha256": "71cfdfe53c42c0f7c50229651676dcd5db5a5cd4291e6b66fe07491ab9099a2f"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/05 Có tiềm năng/00 Hướng dẫn thư mục.md",
+      "bytes": 208,
+      "sha256": "4014ca8c6fecbc9318a77124ace510c3ab223e93d0f9843f4a70a58915f1250d"
+    },
+    {
+      "path": "05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/06 Đã duyệt/00 Hướng dẫn thư mục.md",
+      "bytes": 204,
+      "sha256": "c3fec17f49cebacf93ac633f6ced8f25f42e818763f73598f3d6c5f42ac06405"
+    },
+    {
+      "path": "06 Demo mở đầu/01 Tóm tắt phân đoạn mở đầu.md",
+      "bytes": 641,
+      "sha256": "0e16628ca62bb510d867ed847d294a7ab4d54dea8806faff66e5cd725434b763"
+    },
+    {
+      "path": "06 Demo mở đầu/02 Danh sách khung demo.md",
+      "bytes": 596,
+      "sha256": "b13d2a04d1ca39f72601249286bd99c0e4d4096b708eccc4a8b3e66832cceb37"
+    },
+    {
+      "path": "06 Demo mở đầu/03 Storyboard thô/00 Hướng dẫn thư mục.md",
+      "bytes": 228,
+      "sha256": "ea3f6c18b82c5a46faf515fb3c3d428acff895c44d9125c1effdd667b7f118fe"
+    },
+    {
+      "path": "06 Demo mở đầu/04 Shot spec/01 Khung 01.md",
+      "bytes": 1383,
+      "sha256": "b5d26410bb75b29059a2d5543570573ac893dd6220452903a6068faa352f2dca"
+    },
+    {
+      "path": "06 Demo mở đầu/04 Shot spec/02 Khung 02.md",
+      "bytes": 1291,
+      "sha256": "97d315538b8bab3b07b2ebe923439acca0e855f33021bc24640a49e425ca9cd8"
+    },
+    {
+      "path": "06 Demo mở đầu/04 Shot spec/03 Khung 03.md",
+      "bytes": 1259,
+      "sha256": "b087e81dc16b4fe51bb17ffc8ba245b52d104fe46ab0ba766806992f36ba985a"
+    },
+    {
+      "path": "06 Demo mở đầu/04 Shot spec/04 Khung 04.md",
+      "bytes": 1390,
+      "sha256": "fe728be91839502d49b062c32784ae0b8fee57d31ae9e0f27a78a89619669f01"
+    },
+    {
+      "path": "06 Demo mở đầu/04 Shot spec/05 Khung 05.md",
+      "bytes": 1275,
+      "sha256": "89ab412106da6bf3bc0461f35a2a5be94930975859574ef93409dd5d538b4b48"
+    },
+    {
+      "path": "06 Demo mở đầu/04 Shot spec/06 Khung 06.md",
+      "bytes": 1226,
+      "sha256": "89dcb55ccee7ea975a00f1ecaeeb751181bfc9edb15598cbf80ca34cde99e1a3"
+    },
+    {
+      "path": "06 Demo mở đầu/04 Shot spec/07 Khung 07.md",
+      "bytes": 1258,
+      "sha256": "3c56ba09d04d5fc8b84b13134eb62281fbdb94f5ebd4bda26abce95cd45f17cb"
+    },
+    {
+      "path": "06 Demo mở đầu/04 Shot spec/08 Khung 08.md",
+      "bytes": 1274,
+      "sha256": "ed16e446ac00c6c15457211f7d9d1002cc81efb88a6154420d74e5366e981059"
+    },
+    {
+      "path": "06 Demo mở đầu/05 Ảnh đang thử/00 Hướng dẫn thư mục.md",
+      "bytes": 230,
+      "sha256": "2655d6e92b865d68c4e86c39f965b968da872dd259a3d134357fec85a8907f65"
+    },
+    {
+      "path": "06 Demo mở đầu/06 Ảnh có tiềm năng/00 Hướng dẫn thư mục.md",
+      "bytes": 235,
+      "sha256": "cf0731a8cb329a4bba21a1ccfe79746fe6b093c643d5f19175748b4dfb098894"
+    },
+    {
+      "path": "06 Demo mở đầu/07 Ảnh đang chỉnh sửa/00 Hướng dẫn thư mục.md",
+      "bytes": 238,
+      "sha256": "b25326679fb4f8372b58193ad6f99361947d3833b3d6dd3877c6936238bca25f"
+    },
+    {
+      "path": "06 Demo mở đầu/08 Ảnh đã duyệt/00 Hướng dẫn thư mục.md",
+      "bytes": 231,
+      "sha256": "d141316f2b39d46d70078db16fe02ca24fd1ae3d4ed891683cfbd9f8965bcb6e"
+    },
+    {
+      "path": "06 Demo mở đầu/09 Nhận xét sau kiểm thử.md",
+      "bytes": 487,
+      "sha256": "6cfac889e2e34748ba72f73940c8827523a4b7008ae0a75f7ecf00e3ea4804c6"
+    },
+    {
+      "path": "07 Nhật ký tạo ảnh/01 Nhật ký prompt.md",
+      "bytes": 362,
+      "sha256": "862a90e3a6d859971f94d7fbb3a8174dd73dc0410a82c3a3d6da4f958b17e93c"
+    },
+    {
+      "path": "07 Nhật ký tạo ảnh/02 Nhật ký lựa chọn.md",
+      "bytes": 353,
+      "sha256": "b91b4492330a422226e0ba63027ead54f4e09b90881baa05429a1c658b6aac27"
+    },
+    {
+      "path": "07 Nhật ký tạo ảnh/03 Nhật ký lỗi và cách sửa.md",
+      "bytes": 402,
+      "sha256": "c5675d602d362a014b46418ce8247984cfd6c0e3d2ba791ad693e79c49f6bc88"
+    },
+    {
+      "path": "08 Xuất thử/01 Khung ghép thử/00 Hướng dẫn thư mục.md",
+      "bytes": 111,
+      "sha256": "12240151ccb8143e9cfd79c06fa525dda65e85183ab56485d7ee28424010ea82"
+    },
+    {
+      "path": "08 Xuất thử/02 Trang demo ghép thử/00 Hướng dẫn thư mục.md",
+      "bytes": 151,
+      "sha256": "4a25364c40f785b56cee5b7b47b438dc521ec9f17e954dad23978ac7fe382c68"
+    },
+    {
+      "path": "08 Xuất thử/03 Bản xuất có chữ/00 Hướng dẫn thư mục.md",
+      "bytes": 139,
+      "sha256": "d8fb7017886eb9334360104249d6b65589c6a9bc7553a8d13b6a870461e76a49"
+    },
+    {
+      "path": "08 Xuất thử/04 Quy cách xuất.md",
+      "bytes": 979,
+      "sha256": "1b1890e7166b799552a2c2f9ed21bec577efd7b66e386c95636c7fcad4b84c17"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/01 Quy chuẩn panel gutter bleed.md",
+      "bytes": 1730,
+      "sha256": "84b881b5768e20ee9a338e8156963c245b0ae37e0b24471455ad71bfd4d3fe6f"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/02 Demo A Giảng đường.md",
+      "bytes": 1570,
+      "sha256": "2367226f4aa858976a2bef6d2fcfb7fff69a2df4c3efe5490d9e2f27409ff595"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/03 Demo B Sảnh Sáu Cánh Cửa.md",
+      "bytes": 1520,
+      "sha256": "63f4410928287aa8e304493979cb232ee4312f10803fdd4f3f4fa994cdbf827c"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/04 Demo C Chuyển cảnh tùy chọn.md",
+      "bytes": 1209,
+      "sha256": "606d64ac63bd55ff2e27f2dad47df1d224cdee2332912890184f9a6cf8e41aba"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/05 Prompt trang A.txt",
+      "bytes": 2887,
+      "sha256": "690ab593ca5e566198de066850bb2fa480ec1616d3742b8c4d3777e68baab0ba"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/05 Prompt trang B.txt",
+      "bytes": 2837,
+      "sha256": "bedf4eef633b54f4a701fea53a1926670be51bbbfaf3d8e4dd964d091ced9245"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/05 Prompt trang C.txt",
+      "bytes": 2526,
+      "sha256": "41e48e0143735adf18c2b98fee403f9a593e0ea37ef896a82133284d1f665455"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/06 Prompt trang đôi bám nguồn.txt",
+      "bytes": 2949,
+      "sha256": "126bcc4d040892daa6c352a5bb739254a018509493bd4e8c7586b95acca9cdfa"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/07 Mẫu prompt một trang mới.md",
+      "bytes": 994,
+      "sha256": "1f093986dd77a9b81aad58bf69d76e4292e8383b4fc174c3e3837b20f97e3df8"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/08 Trang đang thử/00 Hướng dẫn thư mục.md",
+      "bytes": 198,
+      "sha256": "4fc11d8b30ce285366a9ab392143143331d3397a6bdf3fb5be56a7c6342d8483"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/09 Trang có tiềm năng/00 Hướng dẫn thư mục.md",
+      "bytes": 203,
+      "sha256": "d7961b542c293253e6eadec6a175f463a605e806cc93bcee477438ae1c0e9548"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/10 Trang đang chỉnh sửa/00 Hướng dẫn thư mục.md",
+      "bytes": 206,
+      "sha256": "fba9c599a39a0cae4b2598c8e733d126e771fd9eae5b463c6212e7208ad19a48"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/11 Trang đã duyệt tranh/00 Hướng dẫn thư mục.md",
+      "bytes": 205,
+      "sha256": "71b8b2b247819fbe1025ecf59b1d154a046942882a3487384de612b77c0753a5"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/12 Layout tham khảo/00 Cách dùng.md",
+      "bytes": 363,
+      "sha256": "9c2dbea183dafadbdce20ed4a579f30c8ecea8a51dd73b4697e96b1badd92739"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/12 Layout tham khảo/Demo A - 4 panel.svg",
+      "bytes": 884,
+      "sha256": "00a6cf05b710181dbda0ad482b4bbff6ccf3a7f55e7ee8364e29800428df454d"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/12 Layout tham khảo/Demo B - splash và inset.svg",
+      "bytes": 508,
+      "sha256": "d81af5f1e50d419df961d0115a49f5420730c1c78d55f1c7ea52ca0dd5093ebb"
+    },
+    {
+      "path": "09 Thiết kế trang và prompt/12 Layout tham khảo/Demo C - nền và inset.svg",
+      "bytes": 869,
+      "sha256": "5d58a7035c3405b9b29c7d05205808df64f6be10c9173c7baa5258b9565252a6"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/00 Quy trình thêm chữ vào trang duyệt.md",
+      "bytes": 3319,
+      "sha256": "9ade222d8a6ad5c32fc32f2c225b1aa3e40b33b2fc2e088ef07deff81b4847ad"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/01 Trang tranh đã duyệt đầu vào/00 Hướng dẫn thư mục.md",
+      "bytes": 287,
+      "sha256": "5d45d59ffc1d2f2b2c81186fcbc909be2f7af31e7106f3123aecdd46d4a809d4"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/01 Trang tranh đã duyệt đầu vào/01 Phiếu nhận 1 đến 2 trang.md",
+      "bytes": 829,
+      "sha256": "7953181c43a58b17a04d253d640a4799249aa83b8666eef0fb244a2b16532544"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/02 Bảng thoại và SFX/01 Bảng chữ Demo A.md",
+      "bytes": 1523,
+      "sha256": "8605b139c7acc946bef5a43f13a8c47d44b657b95b4ca92df67e9467a90bf0ea"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/02 Bảng thoại và SFX/01 Bảng chữ Demo B.md",
+      "bytes": 982,
+      "sha256": "bd8b878a2bbaf4270c4aca078774c503dbafe591c66c116d37799142b8a0b5e8"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/02 Bảng thoại và SFX/01 Bảng chữ Demo C.md",
+      "bytes": 1362,
+      "sha256": "a97a1b3766698120f621297572c10c2a8d8c742e6939e1891be07c91f33018aa"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/02 Bảng thoại và SFX/02 Nội dung nguyên văn Demo A.txt",
+      "bytes": 594,
+      "sha256": "cec218584de7c1aa08aa669665ae843995da048680b0a65b68ae90bab82d7c7b"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/02 Bảng thoại và SFX/02 Nội dung nguyên văn Demo B.txt",
+      "bytes": 242,
+      "sha256": "646dfea142c9dcd2c13e63d44910fd2048ed07408c272b07fbd045439160b831"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/02 Bảng thoại và SFX/02 Nội dung nguyên văn Demo C.txt",
+      "bytes": 344,
+      "sha256": "d642404c7a3a2c34cbb016f57ed16a000780193c0ee3b379896bbc5f59545516"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/02 Bảng thoại và SFX/03 Mẫu bảng cho trang khác.md",
+      "bytes": 673,
+      "sha256": "259414544884e9bcfd551b5861c0e9328c8de13c725ce913935664aba7add562"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/03 Vùng chữ và vùng bảo vệ/01 Quy tắc tọa độ.md",
+      "bytes": 1115,
+      "sha256": "e68ff63790b9fd81f8e2880a7a17e2497dc4d0084fc3070d98d995be256cc7e5"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/03 Vùng chữ và vùng bảo vệ/02 Kiểu balloon và chữ.md",
+      "bytes": 1367,
+      "sha256": "1ad6e406cb7ed8c05706fe52f022a9dd605e12f846c5593902fcf03993698457"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/04 Prompt thêm chữ/01 Prompt một trang.txt",
+      "bytes": 2366,
+      "sha256": "a2ac3e5b221410b7e26606389d6373fcf63374d99da1631d0a84f9984963b023"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/04 Prompt thêm chữ/02 Prompt hai trang.txt",
+      "bytes": 3073,
+      "sha256": "35ab3bfe7652245175dabc0dfbeb6975a34594dd7e426dd29b626385d9651b04"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/04 Prompt thêm chữ/03 Lệnh có sẵn Demo A.txt",
+      "bytes": 3692,
+      "sha256": "55738de61be5f3224fe193fdf60e77ebb902c5f39b760853945e459d0146ce8b"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/04 Prompt thêm chữ/03 Lệnh có sẵn Demo B.txt",
+      "bytes": 2947,
+      "sha256": "c0fb81c5daac61a5116562a3110e79fd828db642b41fbbb1f22bf5544bc2f6f3"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/04 Prompt thêm chữ/03 Lệnh có sẵn Demo C.txt",
+      "bytes": 3383,
+      "sha256": "685a8228dbded6bd05fee76707aab4d40e887bccb59d3208f8e8491300bde012"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/04 Prompt thêm chữ/04 Prompt sửa chữ sai.txt",
+      "bytes": 576,
+      "sha256": "632725d794a1644ece7f2121c39e78349aa53b9e7584ffef6f7490e5addbe030"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/05 Bản thêm chữ đang thử/00 Hướng dẫn thư mục.md",
+      "bytes": 105,
+      "sha256": "f83cda3572de4560fd125ca55ab3818fb30979ef2d0ba6310ea8c402d400f843"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/06 Bản cần sửa/00 Hướng dẫn thư mục.md",
+      "bytes": 105,
+      "sha256": "e63f6a65a015a438255b9c394ea1e98ce9f9cd932738d3f2b54adc4a19f221b3"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/07 Trang có chữ đã duyệt/00 Hướng dẫn thư mục.md",
+      "bytes": 159,
+      "sha256": "b01719a9f9ef6d456eff1bcb7b6d64cdd2af46b7f794c72ab2c9bbe546da7dac"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/08 Lớp chữ và tệp chỉnh sửa/00 Hướng dẫn thư mục.md",
+      "bytes": 248,
+      "sha256": "e1ae1bc6c47a13cc6f81ec738476c0316f14b5cc4aa4efeaf277ee3161bd1256"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/09 Checklist duyệt chữ.md",
+      "bytes": 1308,
+      "sha256": "f58dd74b440de71e73dac4ea9b97e993dca6307baeb2b7d6ac0e6ae8aa7a9419"
+    },
+    {
+      "path": "10 Balloon thoại và SFX/10 Nhật ký lettering.md",
+      "bytes": 515,
+      "sha256": "03e0412c433e29630564df690a11857868db4e63373c4e0c193cf0b08d23b93c"
+    },
+    {
+      "path": "11 Hướng dẫn làm việc với AI/01 Chỉ dẫn cho AI.md",
+      "bytes": 2416,
+      "sha256": "279badecf3a6aa9fa8935d0923be8944fdffaf3c7287881ec39fe58006825619"
+    },
+    {
+      "path": "11 Hướng dẫn làm việc với AI/02 Cách đưa bộ dự án cho AI.md",
+      "bytes": 1494,
+      "sha256": "75c0fb216b27979a70eaf4db23e4a9bd9b6eaa08c28731a4f8b1c2bcc932ea9f"
+    },
+    {
+      "path": "11 Hướng dẫn làm việc với AI/03 Các lệnh bắt đầu.txt",
+      "bytes": 1709,
+      "sha256": "09492c122670187baa78b72c6201890593bc2918065585dfcc5a2953ea3eeb83"
+    },
+    {
+      "path": "12 Kiểm thử và duyệt/01 Tiêu chí hoàn thành M01.md",
+      "bytes": 1511,
+      "sha256": "7fea4b8b1efbabcd56e582a33f6888b82864d3897c3ab4b27575e8ed35cace7b"
+    },
+    {
+      "path": "12 Kiểm thử và duyệt/02 Sổ duyệt.md",
+      "bytes": 636,
+      "sha256": "558102484bd782d335efec82aa09d8a0411982c83bea4472e0e3277d26c565e9"
+    },
+    {
+      "path": "12 Kiểm thử và duyệt/03 Báo cáo bàn giao v0.1.md",
+      "bytes": 1426,
+      "sha256": "5bff789ca2a336f55b969a0b0e27f91619d0e185c5434619e1d564c913a735cc"
+    }
+  ]
+}

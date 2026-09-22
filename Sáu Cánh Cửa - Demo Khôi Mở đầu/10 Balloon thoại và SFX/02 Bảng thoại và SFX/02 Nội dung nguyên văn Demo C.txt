@@ -1,0 +1,15 @@
+C01 | Balloon thoại | Khôi
+…Ơ?
+Nguồn đoạn 65
+
+C02 | Balloon thoại | Khôi
+Có ai… ở đây không?
+Nguồn đoạn 68
+
+C03 | SFX | Bước chân
+CỘP…
+ĐỀ XUẤT viết âm cho tiếng bước chân đoạn 67; chưa chọn mặc định
+
+C04 | Balloon thoại | Khôi
+Thôi kệ. Dù sao cũng là mơ.
+Nguồn đoạn 70

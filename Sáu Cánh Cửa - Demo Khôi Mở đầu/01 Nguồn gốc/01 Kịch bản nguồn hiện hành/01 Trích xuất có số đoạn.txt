@@ -1,0 +1,881 @@
+0001 | Kịch bản comic: Sáu Cánh Cửa
+0002 | Phòng chống tệ nạn xã hội theo Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017)
+0003 | Sep 20, 2026 · @Someone
+0004 | Ghi chú cho hoạ sĩ
+0005 | Kịch bản viết theo quy ước: TRANG → KHUNG → chú thích hình (in nghiêng) → TÊN NHÂN VẬT: lời thoại. Chữ trong ngoặc vuông là ghi chú diễn xuất. Mỗi tập khoảng 10–14 trang, đủ để in thành một chương ebook.
+0006 | Nhân vật chính — KHÔI, 20 tuổi, sinh viên năm 2 ngành Luật tại một trường đại học (không nêu tên trường, không vẽ logo hay biển tên trường thật). Gầy, cao, đeo kính gọng tròn, áo sơ mi đồng phục, ba lô luôn nhét cuốn Bộ luật Hình sự dày cộp. Tính cách: tò mò, hay đặt câu hỏi ngược, chưa từng va chạm xã hội nên phản ứng của cậu chính là phản ứng của độc giả trẻ.
+0007 | Tông màu phân tuyến. Thế giới thực (giảng đường, phần kết): tông sáng, xanh dương nhạt, nét sạch. Sảnh Sáu Cánh Cửa: tối, chỉ có ánh sáng hắt ra từ các khe cửa. Mỗi tập một tông màu chủ đạo riêng để độc giả nhận ra ngay mình đang ở cửa nào:
+0008 | Tập
+0009 | Tệ nạn
+0010 | Tông màu chủ đạo
+0011 | Biểu tượng trên cánh cửa
+0012 | 1
+0013 | Cờ bạc
+0014 | Đỏ rượu vang, khói thuốc xám
+0015 | Quân bài rơi
+0016 | 2
+0017 | Ma tuý
+0018 | Tím neon, loang sáng
+0019 | Micro quấn dây
+0020 | 3
+0021 | Mại dâm
+0022 | Hồng tím lạnh, đèn LED
+0023 | Đôi giày cao gót bỏ lại
+0024 | 4
+0025 | Tín dụng đen
+0026 | Vàng nghệ bẩn, sắt gỉ
+0027 | Cuốn sổ nợ
+0028 | 5
+0029 | Mê tín dị đoan
+0030 | Cam nhang khói, đen
+0031 | Bát hương nứt
+0032 | 6
+0033 | Rượu bia
+0034 | Nâu hổ phách, chuyển xanh xám
+0035 | Chai vỡ
+0036 | Quy ước kể chuyện. Khôi đứng ngoài câu chuyện, các nhân vật không nhìn thấy cậu — trừ đúng một khoảnh khắc ở cuối mỗi tập, khi nhân vật quay lại nhìn thẳng vào người đọc. Ba trang cuối mỗi tập là phần Khôi nói trực tiếp với độc giả về khung hình phạt; khung này nên vẽ nền trắng, chỉ có Khôi và trang sách, để tách hẳn khỏi mạch truyện.
+0037 | Giới hạn nội dung. Đây là ấn phẩm giáo dục pháp luật cho học sinh, sinh viên. Bạo lực và các cảnh nhạy cảm chỉ gợi qua bóng đổ, góc máy chéo, tiếng động ngoài khung hình — không bao giờ vẽ trực diện. Ma tuý không vẽ cận cảnh thao tác sử dụng. Mục tiêu là để người đọc sợ cái giá phải trả, không phải tò mò về cách làm.
+0038 | MỞ ĐẦU — Câu hỏi không có trong giáo trình
+0039 | TRANG 1
+0040 | KHUNG 1 — Toàn cảnh một giảng đường đại học, chiều muộn. Nắng xiên qua cửa kính. Trên bảng chiếu dòng chữ lớn: "LUẬT HÌNH SỰ — CHƯƠNG XX: CÁC TỘI XÂM PHẠM TRẬT TỰ CÔNG CỘNG".
+0041 | KHUNG 2 — Cận mặt GIẢNG VIÊN, nữ, khoảng 45 tuổi, tay cầm bút laser.
+0042 | GIẢNG VIÊN: Vậy là các em đã nắm được bốn yếu tố cấu thành tội phạm. Khách thể, mặt khách quan, chủ thể, mặt chủ quan. Tuần sau ta sang phần quyết định hình phạt.
+0043 | KHUNG 3 — Dãy bàn cuối. KHÔI giơ tay, nửa chừng, ngập ngừng.
+0044 | KHÔI: Cô ơi… em hỏi hơi ngoài bài một chút được không ạ?
+0045 | KHUNG 4 — Giảng viên gật, khoanh tay.
+0046 | GIẢNG VIÊN: Em hỏi đi.
+0047 | TRANG 2
+0048 | KHUNG 1 — Khôi đứng dậy, tay còn đặt trên cuốn Bộ luật Hình sự mở dở.
+0049 | KHÔI: Em đọc hết chương này rồi. Em thuộc điều luật. Nhưng em không hiểu… vì sao người ta biết rõ là phạm tội mà vẫn làm ạ? Chẳng lẽ họ không đọc luật?
+0050 | KHUNG 2 — Vài bạn trong lớp quay xuống nhìn. Một bạn bụm miệng cười.
+0051 | BẠN CÙNG LỚP: [nhỏ] Ông này hỏi gì lạ vậy…
+0052 | KHUNG 3 — Giảng viên không cười. Cô tháo kính, lau.
+0053 | GIẢNG VIÊN: Câu đó không có đáp án trong giáo trình đâu, Khôi.
+0054 | KHUNG 4 — Cận mắt cô.
+0055 | GIẢNG VIÊN: Luật ghi rõ khung hình phạt. Nhưng luật không ghi vì sao một người bước chân đầu tiên vào đó. Muốn hiểu, em phải nhìn thấy người ta trượt chân. Từng bước một.
+0056 | TRANG 3
+0057 | KHUNG 1 — Thư viện trường, 9 giờ tối. Chỉ còn một bóng đèn bàn sáng. Khôi cắm cúi, quanh cậu là sách chồng lên sách.
+0058 | KHUNG 2 — Cận trang sách. Khôi lấy bút chì gạch chân, miệng lẩm nhẩm.
+0059 | KHÔI: [lẩm bẩm] Điều 321… đánh bạc trái phép… từ năm triệu đồng trở lên… Điều 322, tổ chức đánh bạc… phạt tù từ năm năm đến mười năm…
+0060 | KHUNG 3 — Góc rộng. Đồng hồ tường chỉ 22:40. Đầu Khôi gục dần xuống cuốn sách.
+0061 | KHÔI: [rất nhỏ] …trật tự công cộng… nếp sống văn minh…
+0062 | KHUNG 4 — Cuốn sách. Mắt Khôi khép lại. Chữ trên trang giấy bắt đầu nhoè, các con số điều luật trôi ra khỏi dòng kẻ như bụi.
+0063 | TRANG 4
+0064 | KHUNG 1 — Toàn trang. Bóng tối tuyệt đối. Không có sàn, không có trần. Khôi ngồi bật dậy, ba lô vẫn trên lưng.
+0065 | KHÔI: …Ơ?
+0066 | KHUNG 2 — Khôi quay đầu. Phía xa, trong bóng tối, một khe sáng vàng hình chữ nhật đang mở dần ra.
+0067 | KHUNG 3 — Khôi đứng lên, bước một bước. Tiếng bước chân vang vọng như trong hang.
+0068 | KHÔI: Có ai… ở đây không?
+0069 | KHUNG 4 — Cận bàn tay Khôi chạm vào cánh cửa. Ánh sáng tràn qua kẽ ngón tay.
+0070 | KHÔI: [nuốt khan] Thôi kệ. Dù sao cũng là mơ.
+0071 | [Chú thích hoạ sĩ: khung cuối trang này để trắng dần về phía mép phải, dẫn sang trang 5 bằng ánh sáng — không cần đường viền khung.]
+0072 | SẢNH SÁU CÁNH CỬA
+0073 | TRANG 5
+0074 | KHUNG 1 — Trang đôi, toàn cảnh. Một sảnh tròn khổng lồ, trần cao hút tầm mắt. Sàn đá đen bóng. Dọc bức tường cong là SÁU CÁNH CỬA gỗ nặng, cách đều nhau, mỗi cửa một màu ánh sáng hắt ra từ khe dưới chân. Khôi bé xíu ở chính giữa.
+0075 | KHUNG 2 — Khôi ngửa cổ nhìn lên. Trên vòm tường, khắc chìm vào đá, hai dòng chữ lớn.
+0076 | CHỮ KHẮC TRÊN TƯỜNG: CÓ NHỮNG VŨNG LẦY MÀ KHÓ CÓ THỂ THOÁT RA.
+0077 | CÓ NHỮNG THỨ PHẢI TRẢ MỘT CÁI GIÁ ĐẮT.
+0078 | TRANG 6
+0079 | KHUNG 1 — Khôi đi chầm chậm dọc vòng tường, tay lướt trên mặt gỗ. Mỗi cánh cửa có một biểu tượng khắc nổi.
+0080 | KHÔI: Quân bài… cái micro… đôi giày… cuốn sổ… bát hương… cái chai vỡ.
+0081 | KHUNG 2 — Khôi dừng lại, cau mày.
+0082 | KHÔI: Sáu cửa. Sáu cái gì?
+0083 | KHUNG 3 — Từ khe cửa thứ nhất, ánh sáng đỏ bỗng mạnh lên. Có tiếng vọng ra: tiếng xóc bài, tiếng người cãi nhau, xa và méo mó.
+0084 | ÂM THANH SAU CỬA: [chữ nhỏ, rung] …đặt đi… đặt đi… còn tiền không…
+0085 | KHUNG 4 — Cận mặt Khôi, ánh đỏ hắt lên.
+0086 | KHÔI: Sau cửa có người.
+0087 | TRANG 7
+0088 | KHUNG 1 — Khôi lùi lại một bước, rồi ngập ngừng.
+0089 | KHÔI: Cô nói… muốn hiểu thì phải nhìn thấy người ta trượt chân.
+0090 | KHUNG 2 — Cận tay Khôi đặt lên nắm cửa thứ nhất.
+0091 | KHÔI: Từng bước một.
+0092 | KHUNG 3 — Toàn trang. Cửa mở. Ánh đỏ nuốt lấy Khôi.
+0093 | [Chú thích hoạ sĩ: kết cấu này lặp lại ở đầu mỗi tập — chỉ đổi cánh cửa, đổi màu ánh sáng và đổi âm thanh vọng ra. Nhờ vậy độc giả nhận ra nhịp truyện ngay từ tập 2, và mỗi tập vẫn đứng độc lập được nếu in rời.]
+0094 | TẬP 1 — CỬA THỨ NHẤT: "Ván cuối cùng"
+0095 | Nhân vật: TUẤN, 22 tuổi. Nghỉ học từ giữa năm lớp 8. Cha bỏ đi khi Tuấn 6 tuổi, mẹ bán nước ở cổng chợ, giờ nằm viện vì suy thận, chạy thận ba buổi một tuần. Tuấn làm phụ hồ, rửa xe, chạy xe ôm công nghệ — không nghề nào đủ. Tính cách: không ác, chỉ cùng đường; nói ít, sĩ diện, không bao giờ kể thật với mẹ về tiền ở đâu ra.
+0096 | Phần 1 — Vì sao Tuấn bước vào
+0097 | TRANG 1
+0098 | KHUNG 1 — Hành lang bệnh viện tỉnh, sáng sớm. Ghế nhựa kín người ngồi chờ. TUẤN ngồi bệt dưới đất, áo phông bạc màu, tay cầm xấp giấy tờ.
+0099 | KHUNG 2 — Ô cửa thu ngân. Nhân viên đẩy tờ giấy qua khe.
+0100 | NHÂN VIÊN: Đợt này ba tháng, thuốc ngoài danh mục nữa. Em gom được bao nhiêu rồi?
+0101 | TUẤN: …Em xin khất đến cuối tháng được không chị?
+0102 | KHUNG 3 — Cận tay Tuấn vuốt màn hình điện thoại: số dư tài khoản hiện ra, con số rất nhỏ.
+0103 | KHUNG 4 — Buồng bệnh. MẸ TUẤN, gầy, tay còn kim truyền, cố ngồi dậy.
+0104 | MẸ: Con ăn gì chưa? Mẹ thấy con gầy đi.
+0105 | TUẤN: [quay mặt đi] Con ăn rồi. Mẹ nằm nghỉ đi.
+0106 | TRANG 2
+0107 | KHUNG 1 — Chiều. Quán nước vỉa hè cạnh bãi xe. Tuấn ngồi uống trà đá. HÙNG — bạn cũ, 25 tuổi, dây chuyền vàng, xăm cổ tay — kéo ghế sang.
+0108 | HÙNG: Trông mày như xác chết vậy Tuấn. Bà già sao rồi?
+0109 | TUẤN: Vẫn vậy. Tháng nào cũng như tháng nào.
+0110 | KHUNG 2 — Hùng rút điện thoại, xoay màn hình về phía Tuấn.
+0111 | HÙNG: Tối nay tao có kèo. Mày ngồi ké một ván cho vui.
+0112 | TUẤN: Tao không có tiền.
+0113 | KHUNG 3 — Hùng cười, dúi vào tay Tuấn hai tờ tiền.
+0114 | HÙNG: Thì tao cho mượn. Thua thì thôi, coi như tao mời cà phê. Thắng thì mày trả tao.
+0115 | KHUNG 4 — Cận mặt Tuấn nhìn xuống hai tờ tiền trong lòng bàn tay.
+0116 | TUẤN: [không lời — chỉ ánh mắt]
+0117 | [Chú thích hoạ sĩ: đây là khung quan trọng nhất trang. Không cần thoại. Để khoảng lặng.]
+0118 | TRANG 3
+0119 | KHUNG 1 — Căn phòng trọ tầng hai, cửa đóng kín, đèn vàng mờ. Bảy tám người ngồi quanh chiếu. Khói thuốc. Tiền lẻ, tiền chẵn xếp thành đống.
+0120 | KHUNG 2 — Tuấn ngồi ngoài rìa, lóng ngóng.
+0121 | MỘT NGƯỜI CHƠI: Thằng nhỏ mới hả? Ngồi vô đi, đứng chi cho chật.
+0122 | KHUNG 3 — Ván bài kết thúc. Tuấn ngơ ngác nhìn đống tiền được đẩy về phía mình.
+0123 | HÙNG: Thấy chưa? Mới đầu ai cũng đỏ.
+0124 | KHUNG 4 — Đêm. Tuấn đi bộ về, tay nắm chặt xấp tiền trong túi áo. Mặt cậu vừa mừng vừa sợ.
+0125 | TUẤN: [độc thoại] Bằng mười ngày chạy xe… Bằng mười ngày…
+0126 | KHÔI [đứng ngoài khung, nhìn theo]: Cậu ấy vừa nghĩ rằng mình tìm được lối ra. Thật ra đó là lối vào.
+0127 | Phần 2 — Trượt dần
+0128 | TRANG 4
+0129 | KHUNG 1 — Chuỗi bốn ô nhỏ nối nhau, không viền, thể hiện thời gian trôi: (a) Tuấn thắng, cười; (b) Tuấn thua, mặt lì; (c) Tuấn bán chiếc xe máy; (d) Tuấn ngồi một mình trong phòng trọ tối, điện thoại sáng trên tay.
+0130 | KHUNG 2 — Cận màn hình điện thoại: tin nhắn từ "HÙNG": "Còn ván nữa. Gỡ không?"
+0131 | KHUNG 3 — Tuấn nhắn lại, tay run.
+0132 | TUẤN: [tin nhắn] Tao hết tiền rồi. Cho tao nợ một ván.
+0133 | TRANG 5
+0134 | KHUNG 1 — Quán cà phê. Hùng ngồi đối diện Tuấn, giọng đổi khác — không còn đùa.
+0135 | HÙNG: Nợ thì nợ. Nhưng mày làm cho tao một việc.
+0136 | TUẤN: Việc gì?
+0137 | KHUNG 2 — Hùng đẩy sang một chiếc điện thoại cũ và một cuốn sổ.
+0138 | HÙNG: Sòng chuyển chỗ liên tục. Mày đứng ngoài ngõ, thấy công an thì bấm nút này. Ai tới thì mày dẫn vô. Ghi ai đặt bao nhiêu vô sổ. Mỗi đêm tao trừ nợ cho mày ba trăm.
+0139 | KHUNG 3 — Tuấn cầm cuốn sổ, do dự.
+0140 | TUẤN: Tao… tao chỉ canh cửa thôi chứ gì. Tao có đánh đâu.
+0141 | KHUNG 4 — Cận mặt Hùng, cười nửa miệng.
+0142 | HÙNG: Ừ. Mày có đánh đâu.
+0143 | KHÔI [chen vào giữa hai người, nhìn thẳng độc giả]: Đây. Đúng chỗ này. Tuấn vừa bước từ một điều luật sang một điều luật khác — mà cậu ấy không biết.
+0144 | TRANG 6
+0145 | KHUNG 1 — Nhiều đêm gộp lại trong một trang: Tuấn ngồi xổm đầu hẻm, mũ trùm kín; Tuấn dẫn khách qua cửa sau; Tuấn ghi sổ dưới ánh đèn pin điện thoại; Tuấn đếm tiền chia cho Hùng.
+0146 | KHUNG 2 — Tuấn về nhà trọ lúc 4 giờ sáng, ngồi xuống mép giường, cúi đầu.
+0147 | TUẤN: [độc thoại] Thêm hai tháng nữa thôi. Đủ tiền chạy thận cho mẹ hết năm là tao nghỉ.
+0148 | KHUNG 3 — Cận điện thoại: cuộc gọi nhỡ từ "MẸ" — bảy cuộc.
+0149 | Phần 3 — Cái giá
+0150 | TRANG 7
+0151 | KHUNG 1 — Đêm. Đầu hẻm. Tuấn ngồi canh, gà gật.
+0152 | KHUNG 2 — Ánh đèn pin quét ngang mặt Tuấn. Bóng người ập tới từ cả hai đầu hẻm.
+0153 | CÔNG AN: Công an! Ngồi yên tại chỗ!
+0154 | KHUNG 3 — Trong phòng: chiếu bạc tung toé, người chạy tán loạn, tiền vương vãi.
+0155 | KHUNG 4 — Tuấn bị đưa ra, tay sau lưng. Cuốn sổ rơi xuống đất, mở ra, chi chít tên và số tiền.
+0156 | TRANG 8
+0157 | KHUNG 1 — Phòng làm việc của cơ quan điều tra. Đèn trắng. Tuấn ngồi đối diện ĐIỀU TRA VIÊN, khoảng 40 tuổi, giọng bình thản.
+0158 | TUẤN: Chú ơi, cháu chỉ đứng ngoài. Cháu không có đánh ván nào hết.
+0159 | KHUNG 2 — Điều tra viên đẩy cuốn sổ về phía Tuấn.
+0160 | ĐIỀU TRA VIÊN: Chữ này của cháu chứ?
+0161 | TUẤN: …Dạ.
+0162 | KHUNG 3 — Cận cuốn sổ mở.
+0163 | ĐIỀU TRA VIÊN: Cháu canh gác, cháu dẫn người vào, cháu ghi tiền đặt. Cháu được chia phần. Luật không gọi đó là "đứng ngoài", cháu ạ.
+0164 | KHUNG 4 — Tuấn sững người.
+0165 | TUẤN: Vậy… cháu bị gì hả chú?
+0166 | TRANG 9
+0167 | KHUNG 1 — Phòng xử án. Tuấn đứng trước vành móng ngựa, tóc cắt ngắn, áo sơ mi mượn.
+0168 | KHUNG 2 — Hàng ghế dự khán. Mẹ Tuấn ngồi hàng đầu, còn đeo vòng tay bệnh nhân, hai tay ôm chặt chiếc nón.
+0169 | KHUNG 3 — Cận mặt Tuấn quay xuống nhìn mẹ. Lần đầu trong cả tập, cậu khóc.
+0170 | TUẤN: [rất nhỏ, mấp máy] Con xin lỗi mẹ.
+0171 | KHUNG 4 — Cửa phòng xử đóng lại. Toàn trang. Tiếng gõ búa ngoài khung hình.
+0172 | SFX: CỐC.
+0173 | Phần 4 — Khôi nói với người đọc
+0174 | TRANG 10
+0175 | KHUNG 1 — Nền trắng. Khôi ngồi trên một chồng sách, cuốn Bộ luật Hình sự mở trên đùi. Nhìn thẳng độc giả.
+0176 | KHÔI: Tuấn nghĩ mình chỉ mắc một lỗi: thiếu tiền. Nhưng pháp luật nhìn vào hành vi, không nhìn vào lý do.
+0177 | KHUNG 2 — Khôi lật sách, chỉ vào trang.
+0178 | KHÔI: Có hai tội danh khác nhau ở đây, và khoảng cách giữa chúng rất xa.
+0179 | KHUNG 3 — Đồ hoạ: hai cột song song.
+0180 | 
+0181 | Tội đánh bạc — Điều 321
+0182 | Tội tổ chức đánh bạc hoặc gá bạc — Điều 322
+0183 | Ai phạm
+0184 | Người trực tiếp tham gia được thua bằng tiền hoặc hiện vật
+0185 | Người đứng ra tổ chức, rủ rê, cung cấp địa điểm, phương tiện, phân công canh gác, phục vụ; người cho thuê chỗ để đánh bạc
+0186 | Khi nào thành tội
+0187 | Tiền hoặc hiện vật dùng đánh bạc trị giá từ 5.000.000 đồng trở lên; hoặc dưới mức đó nhưng đã bị xử phạt hành chính về hành vi này, hoặc đã bị kết án về tội này hoặc tội tại Điều 322 mà chưa được xoá án tích
+0188 | Có tổ chức nơi cầm cố tài sản, lắp đặt trang thiết bị phục vụ đánh bạc, phân công người canh gác, người phục vụ, sắp đặt lối thoát khi bị vây bắt, dùng phương tiện trợ giúp việc đánh bạc; hoặc đã bị xử phạt hành chính, đã bị kết án về hành vi tương ứng mà chưa xoá án tích
+0189 | Khung tăng nặng
+0190 | Theo khoản 2 của điều luật
+0191 | Phạt tù từ 05 năm đến 10 năm
+0192 | Hình phạt bổ sung
+0193 | Theo quy định của điều luật
+0194 | Có thể phạt tiền từ 20.000.000 đến 100.000.000 đồng hoặc tịch thu một phần hoặc toàn bộ tài sản
+0195 | KHUNG 4 — Khôi gấp sách lại.
+0196 | KHÔI: Tuấn không cầm quân bài nào. Nhưng cậu ấy canh gác, dẫn khách, ghi sổ và nhận tiền công. Trong con mắt của pháp luật, đó là giúp sức cho việc tổ chức — và khung hình phạt nặng hơn hẳn so với người ngồi đánh.
+0197 | TRANG 11
+0198 | KHUNG 1 — Khôi đứng dậy.
+0199 | KHÔI: Ba điều đọng lại từ cửa thứ nhất.
+0200 | KHUNG 2 — Ba ô nhỏ, mỗi ô một hình minh hoạ đơn giản.
+0201 | "Chơi thử cho vui" không tồn tại. Không ai bước vào sòng bạc với ý định trở thành con nợ. Ván đầu tiên bao giờ cũng dễ thắng — đó là cách người ta giữ chân bạn lại.
+0202 | Việc vặt không phải là vô can. Canh cửa, dẫn khách, giữ tiền, cho mượn chỗ, lập nhóm cá độ trên mạng — mỗi việc đó đều có tên gọi riêng trong Bộ luật Hình sự.
+0203 | Khó khăn không phải là tình tiết loại trừ trách nhiệm hình sự. Mẹ Tuấn bệnh là sự thật đáng thương. Nhưng hoàn cảnh chỉ được xem xét khi quyết định hình phạt, nó không xoá được tội danh.
+0204 | KHUNG 3 — Khôi quay lưng, bước về phía cánh cửa thứ hai. Ánh tím đã bắt đầu rò ra từ khe cửa.
+0205 | KHÔI: Nếu bạn hoặc người thân đang bị kéo vào một sòng bạc — kể cả sòng trên điện thoại — hãy nói với ai đó trước khi món nợ lớn hơn lời nói. Càng muộn, càng ít lựa chọn.
+0206 | [Chú thích hoạ sĩ: trang cuối mỗi tập luôn khép lại bằng hình Khôi đi về phía cửa tiếp theo, để nối mạch sang tập sau.]
+0207 | TẬP 2 — CỬA THỨ HAI: "Đêm không ngủ"
+0208 | Nhân vật: VŨ HẠ LAM, 29 tuổi, ca sĩ. Nổi lên từ một bản ballad viral cách đây bốn năm, từ đó đến nay chưa có bài nào vượt được chính mình. Sống một mình trong căn hộ cao tầng, làm việc từ 10 giờ tối đến 5 giờ sáng. Tính cách: cầu toàn đến mức tự huỷ, sợ bị quên lãng hơn sợ bất cứ thứ gì. Người quản lý gọi Lam là "máy chạy", còn Lam tự gọi mình là "người đang hết chữ".
+0209 | Nhân vật phụ: KIÊN, 33 tuổi, nhà sản xuất âm nhạc, bạn nghề lâu năm của Lam — người đưa ra lời mời đầu tiên.
+0210 | Phần 1 — Đêm thứ chín không ngủ
+0211 | TRANG 1
+0212 | KHUNG 1 — Phòng thu nhỏ trong căn hộ, 2 giờ sáng. Màn hình máy tính đầy các track dang dở. LAM ngồi ôm guitar, đầu gục vào thùng đàn.
+0213 | KHUNG 2 — Cận màn hình điện thoại: tin nhắn từ "QUẢN LÝ": "Bên nhãn hàng hỏi demo. Mai là hạn chót lần thứ ba rồi Lam."
+0214 | KHUNG 3 — Lam đánh một hợp âm. Ngừng. Đánh lại. Xoá file.
+0215 | LAM: [độc thoại] Cũng chừng đó nốt. Cũng chừng đó chữ. Mình hết rồi.
+0216 | KHUNG 4 — Lam nhìn ra cửa sổ. Thành phố dưới kia vẫn sáng.
+0217 | TRANG 2
+0218 | KHUNG 1 — Quán rooftop sau một buổi diễn. Đèn mờ, nhạc nền. Lam ngồi cùng KIÊN và ba bốn người trong giới.
+0219 | KIÊN: Nghe nói mày bí bài hả? Bốn năm rồi còn gì.
+0220 | LAM: [cười gượng] Đừng nhắc.
+0221 | KHUNG 2 — Kiên ghé sát, giọng nhỏ lại.
+0222 | KIÊN: Có cái này. Không phải thuốc gì ghê gớm đâu, dân làm nghề ở đâu cũng dùng. Một chút thôi, để đầu nó mở ra.
+0223 | KHUNG 3 — Cận mặt Lam. Ánh đèn tím quét ngang.
+0224 | LAM: Tao không chơi mấy thứ đó.
+0225 | KIÊN: Ai bắt mày chơi. Thử cho biết thôi. Một lần.
+0226 | KHUNG 4 — Góc rộng: cả bàn cười nói, Lam ngồi im giữa tiếng ồn.
+0227 | KHÔI [đứng sau lưng Lam, nhìn độc giả]: "Một lần" là hai chữ nguy hiểm nhất trong cả cuốn truyện này.
+0228 | TRANG 3
+0229 | KHUNG 1 — Phòng thu, đêm hôm sau. Lam viết liên tục, tay lia trên bàn phím, mắt sáng bất thường.
+0230 | [Chú thích hoạ sĩ: KHÔNG vẽ thao tác sử dụng. Chỉ vẽ hệ quả — tư thế, ánh mắt, nhịp làm việc gấp gáp. Màu tím neon loang dần vào khung hình từ mép trái.]
+0231 | KHUNG 2 — Lam bật dậy, gọi điện.
+0232 | LAM: Kiên! Tao viết được rồi! Ba bài! Trong một đêm!
+0233 | KHUNG 3 — Kiên ở đầu dây bên kia, nằm dài trên ghế sofa, cười.
+0234 | KIÊN: Thấy chưa. Tao nói rồi mà.
+0235 | KHUNG 4 — Cận đồng hồ: 5:40 sáng. Lam ngồi giữa phòng, vẫn tỉnh như sáo, tay run nhẹ.
+0236 | Phần 2 — Từ "một lần" đến "mọi lần"
+0237 | TRANG 4
+0238 | KHUNG 1 — Chuỗi ô nhỏ không viền, thời gian trôi qua nhiều tháng: (a) Lam trên sân khấu, hoan hô; (b) Lam trong hậu trường, tay bấu vào tường; (c) Lam huỷ lịch tập, quản lý gọi không bắt máy; (d) Lam ngồi một mình lúc 4 giờ sáng, không viết được chữ nào.
+0239 | KHUNG 2 — Lam nhắn cho Kiên, tay run rõ rệt.
+0240 | LAM: [tin nhắn] Tối nay có không?
+0241 | KHUNG 3 — Kiên trả lời.
+0242 | KIÊN: [tin nhắn] Đợt này khó hàng. Mà mày gọi nhiều quá rồi đó.
+0243 | KHUNG 4 — Lam nhìn màn hình rất lâu.
+0244 | LAM: [độc thoại] Không phải mình nghiện. Mình chỉ cần nó để làm việc thôi.
+0245 | TRANG 5
+0246 | KHUNG 1 — Căn hộ của Lam, tối cuối tuần. Bảy tám người trẻ trong giới — ca sĩ trẻ, vũ công, người mẫu. Nhạc lớn. Lam đứng ở bếp, là người mở cửa cho từng người vào.
+0247 | MỘT KHÁCH: Chị Lam ơi, nhà chị đúng là chỗ duy nhất yên tâm.
+0248 | KHUNG 2 — Lam cười, gật đầu, kéo rèm cửa sổ lại.
+0249 | LAM: Ở đây kín. Điện thoại để hết trong giỏ nhé mọi người.
+0250 | KHUNG 3 — Cận tay Lam khoá cửa, gài xích.
+0251 | KHÔI [đứng giữa phòng, không ai thấy, nói thẳng với độc giả]: Dừng lại ở đây một chút. Từ giây phút Lam đứng ra lo địa điểm, lo cho mọi người vào, giữ cho "kín" — cô ấy đã không còn là người sử dụng nữa. Cô ấy đã thành người tổ chức.
+0252 | KHUNG 4 — Lam đứng giữa phòng đầy người, nhưng hoạ sĩ vẽ cô ấy lẻ loi nhất khung hình.
+0253 | TRANG 6
+0254 | KHUNG 1 — Sáng hôm sau. Căn hộ bừa bộn. Lam ngồi giữa đống ly tách, mắt trũng.
+0255 | KHUNG 2 — Điện thoại đổ chuông: "MẸ".
+0256 | MẸ LAM: [trong điện thoại] Con ơi, mẹ xem tivi thấy con hát mà sao gầy quá vậy con…
+0257 | KHUNG 3 — Lam bấm tắt máy. Không trả lời.
+0258 | KHUNG 4 — Cận gương mặt Lam trong gương phòng tắm. Cô không nhận ra chính mình.
+0259 | Phần 3 — Cái giá
+0260 | TRANG 7
+0261 | KHUNG 1 — Đêm. Hành lang chung cư. Nhiều bóng người áo xanh di chuyển nhanh, không tiếng động.
+0262 | KHUNG 2 — Cửa căn hộ bật mở. Nhạc tắt phụt. Mọi người đứng chết trân.
+0263 | CÔNG AN: Tất cả ngồi xuống! Không ai được rời khỏi vị trí!
+0264 | KHUNG 3 — Lam đứng sát tường, tay vẫn cầm chìa khoá căn hộ.
+0265 | KHUNG 4 — Cận chìa khoá rơi xuống sàn.
+0266 | TRANG 8
+0267 | KHUNG 1 — Phòng làm việc của cơ quan điều tra.
+0268 | LAM: Tôi không bán cho ai hết. Tôi không lấy của ai một đồng nào cả.
+0269 | KHUNG 2 — ĐIỀU TRA VIÊN lật hồ sơ.
+0270 | ĐIỀU TRA VIÊN: Chị có bán không, chúng tôi sẽ làm rõ. Nhưng căn hộ là của chị. Chị mở cửa, chị bố trí chỗ, chị thu điện thoại, chị khoá cửa lại. Bảy người có mặt.
+0271 | KHUNG 3 — Lam ngẩng lên.
+0272 | LAM: Tôi chỉ cho bạn bè mượn nhà thôi mà.
+0273 | KHUNG 4 — Điều tra viên nhìn thẳng, không gay gắt.
+0274 | ĐIỀU TRA VIÊN: "Cho mượn nhà" để làm gì, thì luật có tên gọi riêng cho việc đó, chị ạ.
+0275 | TRANG 9
+0276 | KHUNG 1 — Trang báo mạng trên màn hình điện thoại: ảnh Lam bị che mặt, tiêu đề lớn. Bên dưới, hàng nghìn bình luận.
+0277 | KHUNG 2 — Phòng xử án. Lam đứng, tóc buộc gọn, không trang điểm.
+0278 | KHUNG 3 — Hàng ghế dự khán gần như trống. Chỉ có mẹ Lam ngồi một mình, tay ôm chiếc túi vải.
+0279 | KHUNG 4 — Cận: trong phòng thu bỏ không ở nhà Lam, cây guitar phủ bụi, đèn báo nguồn máy tính vẫn nhấp nháy đỏ.
+0280 | Phần 4 — Khôi nói với người đọc
+0281 | TRANG 10
+0282 | KHUNG 1 — Nền trắng. Khôi ngồi, cuốn sách mở.
+0283 | KHÔI: Có một điều rất nhiều người hiểu sai, và mình muốn nói rõ ngay từ đầu.
+0284 | KHUNG 2 — Khôi giơ một ngón tay.
+0285 | KHÔI: Ở Việt Nam, bản thân hành vi sử dụng trái phép chất ma tuý hiện không bị xử lý bằng một tội danh riêng trong Bộ luật Hình sự — người sử dụng bị xử lý hành chính và có thể bị áp dụng biện pháp cai nghiện. Nhưng đừng vội thở phào.
+0286 | KHUNG 3 — Khôi lật sang trang khác, giọng chậm lại.
+0287 | KHÔI: Bởi vì quanh hành vi sử dụng là cả một vòng vây các tội danh. Và người ta rơi vào đó mà không hề hay biết.
+0288 | KHUNG 4 — Đồ hoạ: sơ đồ vòng tròn, ở giữa là chữ "SỬ DỤNG", xung quanh là các ô tội danh.
+0289 | Hành vi
+0290 | Tội danh
+0291 | Ghi chú cho người đọc
+0292 | Cất giữ, cất giấu ma tuý ở bất cứ đâu — trong người, trong nhà, trong xe — mà không nhằm mục đích mua bán, vận chuyển, sản xuất
+0293 | Tội tàng trữ trái phép chất ma tuý — Điều 249
+0294 | Cầm hộ, giữ hộ cho bạn cũng là cất giữ. Không cần sử dụng, không cần bán
+0295 | Cất giữ nhưng nhằm mục đích bán lại
+0296 | Tội mua bán trái phép chất ma tuý — Điều 251
+0297 | Ranh giới giữa Điều 249 và Điều 251 nằm ở mục đích, không nằm ở số lượng
+0298 | Chuyển ma tuý từ nơi này sang nơi khác
+0299 | Tội vận chuyển trái phép chất ma tuý — Điều 250
+0300 | "Xách hộ một gói" là hành vi vận chuyển
+0301 | Chủ động bố trí địa điểm, phương tiện, tập hợp người để cùng sử dụng
+0302 | Tội tổ chức sử dụng trái phép chất ma tuý — Điều 255
+0303 | Đây chính là chỗ Lam rơi vào
+0304 | Cho người khác mượn địa điểm của mình để họ sử dụng
+0305 | Tội chứa chấp việc sử dụng trái phép chất ma tuý — Điều 256
+0306 | "Cho mượn nhà" có tên gọi riêng trong luật
+0307 | [Lưu ý biên soạn: khối lượng, hàm lượng cụ thể ứng với từng khung hình phạt của các điều 249–251 phải tra cứu và ghi đúng theo văn bản hợp nhất mới nhất trước khi in — xem Phụ lục cuối kịch bản.]
+0308 | TRANG 11
+0309 | KHUNG 1 — Khôi đứng dậy.
+0310 | KHÔI: Ba điều đọng lại từ cửa thứ hai.
+0311 | KHUNG 2 — Ba ô nhỏ.
+0312 | Không ai bắt đầu với ý định nghiện. Lam bắt đầu bằng một lời mời tử tế từ một người bạn nghề. Con đường đi vào bao giờ cũng được lót bằng thiện chí.
+0313 | Vai trò thay đổi nhanh hơn người trong cuộc nhận ra. Từ người được mời, thành người mời lại, thành người lo chỗ. Mỗi bước là một tội danh khác, nặng hơn bước trước.
+0314 | Áp lực nghề nghiệp không sinh ra cảm hứng. Thứ Lam viết trong những đêm đó không cứu được sự nghiệp của cô. Cái giá cuối cùng không phải là bản án — mà là cô không còn viết được gì nữa.
+0315 | KHUNG 3 — Khôi bước về phía cánh cửa thứ ba. Ánh hồng tím lạnh rò ra từ khe cửa.
+0316 | KHÔI: Nếu bạn đang ở gần một người như Lam — người vẫn nói "mình kiểm soát được" — thì người đó cần bạn nói thật, chứ không cần bạn giữ bí mật giúp.
+0317 | TẬP 3 — CỬA THỨ BA: "Việc nhẹ lương cao"
+0318 | [Chú thích quan trọng cho cả nhóm: đây là tập nhạy cảm nhất. Toàn bộ tập không có một khung hình nào mô tả hành vi mua bán dâm. Câu chuyện kể bằng hành lang, cánh cửa đóng, tiếng động ngoài khung, gương mặt trước và sau. Nếu một khung hình khiến người đọc tò mò thay vì thấy sợ, khung đó phải bỏ.]
+0319 | Nhân vật 1 — DIỆU, 19 tuổi, sinh viên năm nhất một trường cao đẳng ở thành phố. Quê ở một xã ven biển miền Trung; bố đi biển, mẹ làm mắm thuê. Diệu là người đầu tiên trong họ đi học xa. Tính cách: chăm, cả nể, sợ làm bố mẹ thất vọng đến mức không dám kể chuyện xấu về mình.
+0320 | Nhân vật 2 — GIA HUY, 24 tuổi, con một gia đình kinh doanh. Chưa từng thiếu tiền và cũng chưa từng kiếm ra tiền. Tính cách: cần được nhìn thấy — mọi thứ Huy làm đều để có người chứng kiến.
+0321 | Nhân vật 3 — CHỊ NGA, 36 tuổi, quản lý một quán karaoke trá hình. Nói năng ngọt ngào, gọi tất cả nhân viên nữ là "em gái". Chính là người sắp xếp mọi thứ.
+0322 | Phần 1 — Diệu
+0323 | TRANG 1
+0324 | KHUNG 1 — Phòng trọ 12 mét vuông, ba người ở chung. DIỆU ngồi trên giường tầng, tính toán vào mặt sau tờ lịch: tiền trọ, tiền học phí, tiền ăn.
+0325 | KHUNG 2 — Cận điện thoại: cuộc gọi video với mẹ.
+0326 | MẸ DIỆU: Tháng này mẹ gửi chậm nghe con. Thuyền bố con chưa về.
+0327 | DIỆU: Con đủ mà mẹ. Con còn dư nữa.
+0328 | KHUNG 3 — Diệu tắt máy, nhìn tờ lịch: con số cuối cùng là một số âm.
+0329 | KHUNG 4 — Diệu lướt điện thoại. Một bài đăng trong nhóm việc làm sinh viên hiện ra.
+0330 | BÀI ĐĂNG: "TUYỂN NV PHỤC VỤ QUÁN — nữ, 18–25, ngoại hình khá. Ca tối 20h–24h. 500–800k/ca, bao ăn. Không cần kinh nghiệm, có người hướng dẫn."
+0331 | TRANG 2
+0332 | KHUNG 1 — Quán karaoke. Mặt tiền sáng đèn, bình thường, có cả thực đơn đồ ăn dán ngoài cửa.
+0333 | [Chú thích hoạ sĩ: quán phải trông hoàn toàn bình thường ở khung này. Sự bình thường đó chính là cái bẫy.]
+0334 | KHUNG 2 — Văn phòng nhỏ phía sau. CHỊ NGA rót nước, cười rất hiền.
+0335 | NGA: Em ở quê mới lên hả? Nhìn hiền quá. Ở đây việc nhẹ thôi em, bưng bê, rót nước, ngồi nói chuyện cho khách vui.
+0336 | DIỆU: Dạ… em chỉ làm tới 12 giờ thôi được không chị? Mai em có tiết sáng.
+0337 | KHUNG 3 — Nga đẩy sang một phong bì.
+0338 | NGA: Được chứ. Đây, chị ứng trước cho em một tháng. Em cứ cầm lo việc nhà đi, rồi làm trừ dần.
+0339 | KHUNG 4 — Cận tay Diệu cầm phong bì. Hoạ sĩ vẽ sợi dây mảnh vô hình nối từ phong bì đến cổ tay Diệu.
+0340 | KHÔI [đứng ở cửa, nhìn độc giả]: Tiền ứng trước không phải là lòng tốt. Nó là cái khoá. Từ giây phút này, Diệu không còn là người đi làm thuê nữa — cô ấy thành người đang mắc nợ.
+0341 | TRANG 3
+0342 | KHUNG 1 — Bốn ô nhỏ, thời gian trôi: (a) Diệu bưng khay, tay run, cúi đầu; (b) Diệu ngồi cạnh bàn khách, tránh ánh mắt; (c) Diệu trang điểm đậm hơn trong gương phòng thay đồ; (d) Diệu ngủ gục trên bàn giảng đường, cuốn vở trắng trơn.
+0343 | KHUNG 2 — Phòng thay đồ. Một chị lớn tuổi hơn — HƯƠNG, khoảng 30 — vừa kẻ mắt vừa nói, giọng thản nhiên.
+0344 | HƯƠNG: Em còn tính nghỉ hả? Mấy đứa trước cũng nói vậy. Rồi tháng sau nợ nhiều hơn tháng trước.
+0345 | DIỆU: Em trả hết là em nghỉ.
+0346 | HƯƠNG: [cười nhạt] Ừ. Chị cũng từng nói y chang câu đó, bảy năm rồi.
+0347 | KHUNG 3 — Cận gương. Hai gương mặt phản chiếu: Diệu và Hương. Hoạ sĩ vẽ sao cho hai khuôn mặt gần như chồng lên nhau.
+0348 | KHUNG 4 — Hành lang quán, khuya. Chị Nga đứng đầu hành lang, tay cầm sổ, gọi tên.
+0349 | NGA: Diệu, phòng 5.
+0350 | KHUNG 5 — Chỉ vẽ: cánh cửa phòng 5 đóng lại. Không có người trong khung. Ánh đèn hành lang hắt xuống sàn.
+0351 | [Chú thích hoạ sĩ: khung này kết thúc phần của Diệu ở nửa truyện. Tuyệt đối không có khung tiếp theo bên trong phòng.]
+0352 | Phần 2 — Gia Huy
+0353 | TRANG 4
+0354 | KHUNG 1 — Bar sang trọng. GIA HUY đứng giữa nhóm bạn, tay cầm hoá đơn giơ cao, mọi người vỗ tay.
+0355 | GIA HUY: Tối nay anh bao! Ai về sớm là không phải bạn anh!
+0356 | KHUNG 2 — Một người bạn ghé tai Huy, cười.
+0357 | BẠN: Ông bao thì bao cho tới. Tăng ba không?
+0358 | KHUNG 3 — Huy khựng lại nửa giây. Rồi cười to hơn cả lúc nãy.
+0359 | GIA HUY: Tưởng gì. Đi!
+0360 | KHUNG 4 — Cận mặt Huy trong lúc cả nhóm quay đi. Nụ cười tắt. Ánh mắt trống rỗng.
+0361 | KHÔI [ngồi ở quầy bar, nói với độc giả]: Huy không thèm muốn gì cả. Huy chỉ sợ bị nhóm bạn bỏ lại phía sau. Rất nhiều chuyện tồi tệ bắt đầu từ nỗi sợ đó.
+0362 | TRANG 5
+0363 | KHUNG 1 — Vẫn hành lang quán karaoke, nhưng góc nhìn từ phía Huy. Chị Nga đón ở cửa, xởi lởi.
+0364 | NGA: Anh Huy lâu quá không ghé. Phòng 5 nha anh, em sắp xếp rồi.
+0365 | KHUNG 2 — Cận tay Huy rút ví, đếm tiền đưa cho Nga. Hoạ sĩ vẽ cận bàn tay và xấp tiền, không vẽ mặt.
+0366 | KHUNG 3 — Cánh cửa phòng 5 đóng lại — lặp lại đúng bố cục khung cuối trang 3, để hai tuyến truyện gặp nhau ngay tại đây.
+0367 | KHUNG 4 — Khôi đứng giữa hành lang trống, quay về phía độc giả.
+0368 | KHÔI: Hai người này chưa bao giờ biết nhau. Nhưng cùng một đêm, cùng một cánh cửa, họ bước vào hai tội danh khác nhau — và một người thứ ba đang đếm tiền ở ngoài kia.
+0369 | TRANG 6
+0370 | KHUNG 1 — Sáng. Phòng trọ. Diệu ngồi trên giường, chưa thay quần áo, mắt nhìn vào khoảng không. Điện thoại đổ chuông: "MẸ". Cô để nó reo đến hết.
+0371 | KHUNG 2 — Phòng khám. Diệu ngồi hàng ghế chờ, đeo khẩu trang, tay bấu chặt tờ phiếu xét nghiệm.
+0372 | KHUNG 3 — Cận bàn tay Diệu run khi nhận tờ kết quả. Hoạ sĩ để trắng phần chữ trên tờ giấy — người đọc không cần biết, chỉ cần thấy phản ứng.
+0373 | KHUNG 4 — Ở một khung song song: Gia Huy ngồi trong phòng khám khác, cúi đầu, tay ôm gáy.
+0374 | BÁC SĨ: [ngoài khung] Em có ai để nói chuyện này không? Việc điều trị không đáng sợ bằng việc giấu nó.
+0375 | Phần 3 — Cái giá
+0376 | TRANG 7
+0377 | KHUNG 1 — Đêm. Đèn quán karaoke tắt phụt. Xe công an đỗ chắn trước cửa.
+0378 | KHUNG 2 — Sảnh quán. Nhân viên, khách đứng dọc tường. Chị Nga vẫn cố cười.
+0379 | NGA: Các anh ơi, quán em chỉ hát hò thôi mà…
+0380 | KHUNG 3 — Cán bộ công an đặt lên bàn cuốn sổ ghi ca, sơ đồ phòng, xấp phiếu thu.
+0381 | CÔNG AN: Sổ này chị ghi. Phòng này chị xếp. Tiền này chị thu. Mời chị về trụ sở làm việc.
+0382 | KHUNG 4 — Nga im. Lần đầu trong cả tập, gương mặt ngọt ngào đó biến mất.
+0383 | TRANG 8
+0384 | KHUNG 1 — Phòng làm việc. Diệu ngồi, khoác áo mượn, tóc buộc vội.
+0385 | CÁN BỘ: [giọng không gay gắt] Em bao nhiêu tuổi?
+0386 | DIỆU: Dạ… mười chín.
+0387 | CÁN BỘ: Em có đang bị giữ giấy tờ không? Có ai ép em không?
+0388 | KHUNG 2 — Diệu ngẩng lên, lần đầu tiên có người hỏi cô câu đó.
+0389 | DIỆU: [khóc] Em… em nợ chị Nga. Em không trả hết thì không đi được.
+0390 | KHUNG 3 — Phòng bên cạnh. Gia Huy ngồi, mặt tái, tay cầm biên bản.
+0391 | GIA HUY: Chuyện này… có báo về nhà tôi không ạ?
+0392 | KHUNG 4 — Cận biên bản xử phạt vi phạm hành chính đặt trước mặt Huy, và ở khung bên, hồ sơ vụ án đặt trước mặt Nga. Hai loại giấy tờ, hai số phận pháp lý khác hẳn nhau.
+0393 | TRANG 9
+0394 | KHUNG 1 — Bến xe khách, sáng sớm. Diệu ngồi ôm túi xách, nhìn ra cửa kính.
+0395 | KHUNG 2 — Trong điện thoại, mẹ nhắn: "Con về mẹ nấu canh cá. Mẹ không hỏi gì hết."
+0396 | KHUNG 3 — Diệu áp điện thoại vào ngực, cúi đầu.
+0397 | KHUNG 4 — Xe lăn bánh. Bên ngoài cửa kính, thành phố lùi lại phía sau.
+0398 | Phần 4 — Khôi nói với người đọc
+0399 | TRANG 10
+0400 | KHUNG 1 — Nền trắng. Khôi ngồi, cuốn sách mở. Giọng cậu trầm hơn các tập trước.
+0401 | KHÔI: Tập này có ba người. Và pháp luật đối xử với ba người đó hoàn toàn khác nhau. Hiểu đúng chỗ khác nhau ấy là điều quan trọng nhất mình muốn nói.
+0402 | KHUNG 2 — Đồ hoạ ba cột.
+0403 | Người
+0404 | Vị trí pháp lý
+0405 | Căn cứ
+0406 | Chị Nga — sắp xếp phòng, điều người, thu tiền, cho khách sử dụng địa điểm
+0407 | Chịu trách nhiệm hình sự, nặng nhất trong ba người
+0408 | Tội chứa mại dâm — Điều 327 (khung cơ bản phạt tù từ 01 năm đến 05 năm, cao nhất tới 20 năm tù hoặc tù chung thân ở trường hợp đặc biệt nghiêm trọng); nếu có thêm hành vi làm trung gian kết nối thì còn bị xem xét Tội môi giới mại dâm — Điều 328 (khung cơ bản phạt tù từ 06 tháng đến 03 năm)
+0409 | Gia Huy — người mua dâm, đã đủ 18 tuổi, người bán dâm cũng đã đủ 18 tuổi
+0410 | Bị xử phạt vi phạm hành chính, không bị truy cứu trách nhiệm hình sự trong tình huống này
+0411 | Bộ luật Hình sự chỉ quy định tội danh với người mua dâm khi người bán dâm là người dưới 18 tuổi — Tội mua dâm người dưới 18 tuổi, Điều 329, mức cao nhất tới 15 năm tù
+0412 | Diệu — người bán dâm, bị lệ thuộc bởi khoản nợ ứng trước
+0413 | Người bán dâm bị xử lý hành chính, không bị truy cứu trách nhiệm hình sự; nếu bị lừa gạt, giữ giấy tờ, cưỡng ép thì cô là người bị hại cần được bảo vệ
+0414 | Việc xác định có hay không hành vi cưỡng bức, mua bán người thuộc thẩm quyền của cơ quan điều tra
+0415 | KHUNG 3 — Khôi gấp sách, nhìn thẳng.
+0416 | KHÔI: Chỗ nguy hiểm nhất nằm ở cột thứ hai. Rất nhiều bạn nam trẻ nghĩ rằng: "đằng nào cũng chỉ phạt hành chính thôi". Nhưng người mua dâm không bao giờ biết chắc tuổi thật của người ngồi trước mặt mình. Chỉ cần người đó chưa đủ 18 tuổi, câu chuyện lập tức chuyển sang Điều 329 — và mức cao nhất là mười lăm năm tù.
+0417 | TRANG 11
+0418 | KHUNG 1 — Khôi đứng dậy.
+0419 | KHÔI: Ba điều đọng lại từ cửa thứ ba.
+0420 | KHUNG 2 — Ba ô nhỏ.
+0421 | Tiền ứng trước là dấu hiệu cảnh báo, không phải phúc lợi. Kèm theo nó thường là: giữ giấy tờ tuỳ thân, cấm nghỉ việc cho đến khi trả hết, "phạt" nếu về sớm. Đó là cách người ta tạo ra sự lệ thuộc.
+0422 | Không có "việc nhẹ lương cao". Một ca bốn tiếng trả bằng cả tuần đi làm thêm bình thường — phần chênh lệch đó bao giờ cũng được trả bằng một thứ khác.
+0423 | Sĩ diện trước đám đông là thứ đắt đỏ nhất. Huy không muốn đi. Huy chỉ không muốn là người duy nhất nói không. Giá của mười phút không dám từ chối ấy có thể là sức khoẻ, là hồ sơ, là cả một gia đình biết chuyện.
+0424 | KHUNG 3 — Khôi bước về phía cánh cửa thứ tư. Ánh vàng bẩn rò ra dưới khe.
+0425 | KHÔI: Nếu bạn đang bị giữ giấy tờ, bị doạ vì một khoản nợ, hoặc bị ép làm việc bạn không muốn — bạn là người cần được bảo vệ, không phải người có lỗi. Hãy nói với công an, với nhà trường, với bất kỳ ai ở ngoài cái vòng đó.
+0426 | TẬP 4 — CỬA THỨ TƯ: "Sổ của Sáu Thẹo"
+0427 | Nhân vật chính (phản diện): SÁU THẸO, tên thật Trần Văn Sáu, 41 tuổi, chủ tiệm cầm đồ "Phát Tài" mặt tiền một con đường đông đúc. Vết sẹo chạy dọc gò má trái. Nói to, cười to, gọi con nợ là "anh em". Tính cách: không xem việc mình làm là tội — trong đầu Sáu, đây là "nghề", và người vay là người tự nguyện.
+0428 | Đàn em: THẮNG, 24 tuổi, từng là con nợ, giờ đi đòi nợ thuê để trừ nợ của chính mình — hình ảnh khép vòng tròn của tập này.
+0429 | Người vay: ÔNG TÁM, 52 tuổi, bán bún riêng vỉa hè, vay 30 triệu để sửa lại xe hàng sau một trận mưa lớn.
+0430 | Phần 1 — Cửa hàng Phát Tài
+0431 | TRANG 1
+0432 | KHUNG 1 — Mặt tiền tiệm cầm đồ. Biển hiệu đỏ chói: "CẦM ĐỒ PHÁT TÀI — GIẢI NGÂN TRONG 15 PHÚT — KHÔNG CẦN CHỨNG MINH THU NHẬP". Bên trong tối om.
+0433 | KHUNG 2 — SÁU THẸO ngồi gác chân lên bàn, tăm trong miệng, đếm tiền. THẮNG đứng dựa cửa, tay đeo băng cổ tay.
+0434 | KHUNG 3 — Ông Tám bước vào, tay cầm cà vẹt xe, dáng lom khom.
+0435 | ÔNG TÁM: Anh Sáu… tui vay ba chục. Chừng hai tháng tui trả.
+0436 | KHUNG 4 — Sáu cười rộng, đứng bật dậy, vỗ vai ông Tám.
+0437 | SÁU THẸO: Chú Tám! Chỗ anh em cả, nói gì mà giấy với tờ. Chú cần là có liền.
+0438 | TRANG 2
+0439 | KHUNG 1 — Sáu đẩy sang một tờ giấy viết tay.
+0440 | SÁU THẸO: Ba chục, lãi mười phân. Mỗi ngày chú đóng ba trăm, hai tháng là xong. Đơn giản hơn ngân hàng nhiều.
+0441 | KHUNG 2 — Cận mặt ông Tám, nhẩm tính, không nhẩm ra.
+0442 | ÔNG TÁM: Ba trăm một ngày… ừ… chắc được.
+0443 | KHUNG 3 — Cận tay ông Tám ký vào tờ giấy, chữ ký run.
+0444 | KHÔI [đứng ngay cạnh bàn, chỉ vào tờ giấy, nói với độc giả]: Dừng lại. "Mười phân" nghe rất nhẹ. Bạn thử tính giúp mình: ba trăm nghìn một ngày, trên ba chục triệu. Một năm là bao nhiêu phần trăm?
+0445 | KHUNG 4 — Đồ hoạ: bàn tính, các con số hiện lên.
+0446 | KHÔI: Ba trăm nghìn một ngày là chín triệu một tháng — tức 30% mỗi tháng, tương đương khoảng 360% một năm. Bộ luật Dân sự cho phép lãi suất thoả thuận tối đa 20%/năm. Ghi nhớ con số này, lát nữa chúng ta quay lại.
+0447 | Phần 2 — Vòng xoáy
+0448 | TRANG 3
+0449 | KHUNG 1 — Bốn ô nhỏ, thời gian trôi: (a) ông Tám bán bún, đếm tiền lẻ; (b) đóng tiền cho Thắng ở đầu hẻm; (c) một hôm mưa, ế hàng, không đóng được; (d) tờ giấy nợ có dòng chữ đỏ "phạt trễ" viết chồng lên.
+0450 | KHUNG 2 — Tiệm cầm đồ. Sáu mở cuốn sổ dày, gạch gạch.
+0451 | SÁU THẸO: Trễ một ngày phạt một ngày. Lãi mẹ đẻ lãi con, chú Tám biết luật giang hồ rồi mà.
+0452 | KHUNG 3 — Ông Tám đứng chắp tay.
+0453 | ÔNG TÁM: Anh Sáu, cho tui khất mười ngày. Con gái tui sắp thi…
+0454 | KHUNG 4 — Sáu không ngẩng lên khỏi cuốn sổ. Giọng vẫn vui vẻ — đó là chỗ đáng sợ.
+0455 | SÁU THẸO: Chuyện nhà chú, chú lo. Chuyện tiền, tui lo. Hai cái đó không liên quan gì nhau hết, chú Tám.
+0456 | TRANG 4
+0457 | KHUNG 1 — Sáu gấp sổ lại, quay sang Thắng.
+0458 | SÁU THẸO: Chú Tám đang kẹt. Bữa nay dẫn chú qua chỗ anh Ba chơi vài ván, biết đâu gỡ được.
+0459 | KHUNG 2 — Ông Tám lắc đầu quầy quậy.
+0460 | ÔNG TÁM: Không không, tui không biết bài bạc gì hết.
+0461 | SÁU THẸO: Thì đi coi thôi. Ai bắt chú đánh.
+0462 | KHÔI [nhìn độc giả]: Đây không phải lòng tốt. Đây là mô hình kinh doanh. Con nợ thua bạc thì phải vay thêm. Vay thêm thì nợ dài ra. Nợ càng dài, Sáu càng lãi.
+0463 | KHUNG 3 — Phòng sau một quán nước. Ông Tám ngồi ở chiếu bạc, mặt tái, tay cầm mấy tờ tiền.
+0464 | KHUNG 4 — Rạng sáng. Ông Tám đi bộ về, hai tay không. Cà vẹt xe cũng không còn.
+0465 | TRANG 5
+0466 | KHUNG 1 — Trước quán bún vỉa hè. Thắng và hai người nữa dựng xe chắn ngang. Khách bỏ đi.
+0467 | THẮNG: Chú Tám. Hôm nay ngày thứ tám rồi đó.
+0468 | KHUNG 2 — Một người đổ nước mắm ra nồi nước lèo. Không có bạo lực, chỉ có sự phá hoại lạnh lùng.
+0469 | ÔNG TÁM: Trời ơi… tụi bây làm vậy tao lấy gì trả!
+0470 | KHUNG 3 — Tường nhà ông Tám bị tạt sơn đỏ. Dòng chữ: "TÁM BÚN RIÊU VAY TIỀN KHÔNG TRẢ". Hàng xóm đứng nhìn, thì thầm.
+0471 | KHUNG 4 — Trong nhà. Con gái ông Tám, học sinh lớp 12, ngồi co ro trong góc, tay ôm cặp sách. Điện thoại cô bé sáng lên: ảnh chụp tường nhà đã lan khắp nhóm lớp.
+0472 | TRANG 6
+0473 | KHUNG 1 — Đêm. Ông Tám ngồi một mình ngoài hiên, nhìn vào khoảng không.
+0474 | KHUNG 2 — Con gái bước ra, đặt tay lên vai bố.
+0475 | CON GÁI: Ba… mình báo công an đi ba.
+0476 | ÔNG TÁM: Báo rồi nó trả thù thì sao con.
+0477 | KHUNG 3 — Cô bé rút điện thoại, mở ra một thư mục ảnh.
+0478 | CON GÁI: Con chụp hết rồi ba. Tờ giấy nợ, tin nhắn tụi nó gửi, cái tường, cả cái hôm tụi nó đổ nước mắm nữa.
+0479 | KHUNG 4 — Cận mặt ông Tám. Lần đầu trong cả tập, ông ngẩng đầu lên.
+0480 | Phần 3 — Cái giá
+0481 | TRANG 7
+0482 | KHUNG 1 — Trụ sở công an phường. Hai cha con ngồi khai báo. Cán bộ ghi chép, có người khác chụp lại từng bức ảnh.
+0483 | KHUNG 2 — Sáu Thẹo trong tiệm, nghe điện thoại, mặt tối lại lần đầu tiên.
+0484 | KHUNG 3 — Lực lượng chức năng vào tiệm. Trên bàn: hàng chồng sổ nợ, cọc giấy vay viết tay, một két sắt mở toang.
+0485 | KHUNG 4 — Cận: một cuốn sổ mở ra. Hàng chục cái tên. Hàng chục ông Tám khác.
+0486 | TRANG 8
+0487 | KHUNG 1 — Phòng làm việc. Sáu Thẹo ngồi, vẫn cố giữ vẻ ngang tàng.
+0488 | SÁU THẸO: Tui cho vay, họ tự nguyện ký. Có ai cầm dao kề cổ ai đâu.
+0489 | KHUNG 2 — Điều tra viên đặt máy tính lên bàn, xoay màn hình.
+0490 | ĐIỀU TRA VIÊN: Ba trăm nghìn một ngày trên ba mươi triệu. Anh tính ra bao nhiêu phần trăm một năm chưa?
+0491 | KHUNG 3 — Sáu im.
+0492 | ĐIỀU TRA VIÊN: Luật cho tối đa hai mươi phần trăm một năm. Anh lấy gấp hơn mười tám lần. Đó là chuyện thứ nhất.
+0493 | KHUNG 4 — Điều tra viên đặt thêm ba tấm ảnh: bức tường sơn đỏ, nồi nước lèo bị đổ, tin nhắn đe doạ.
+0494 | ĐIỀU TRA VIÊN: Còn đây là chuyện thứ hai. Và chuyện thứ hai nặng hơn chuyện thứ nhất nhiều, anh Sáu ạ.
+0495 | TRANG 9
+0496 | KHUNG 1 — Thắng ngồi ở phòng bên, tay vẫn đeo băng cổ tay, cúi gằm.
+0497 | THẮNG: Em… em cũng nợ ảnh. Ảnh bảo đi đòi thì trừ nợ. Em đâu có muốn.
+0498 | KHUNG 2 — Cán bộ nhìn Thắng, giọng chậm.
+0499 | CÁN BỘ: Anh bị ép cũng là một chuyện. Nhưng việc anh đã làm với nhà người ta, pháp luật vẫn phải xem xét.
+0500 | KHUNG 3 — Quán bún riêu mở lại. Ông Tám bưng tô cho khách. Bức tường đã được sơn lại, nhưng vẫn thấy lớp sơn cũ mờ mờ dưới lớp mới.
+0501 | KHUNG 4 — Con gái ông Tám ngồi học bài ở góc quán, dưới ánh đèn.
+0502 | [Chú thích hoạ sĩ: lớp sơn cũ vẫn thấy mờ là chi tiết cố ý — hậu quả xoá không hết.]
+0503 | Phần 4 — Khôi nói với người đọc
+0504 | TRANG 10
+0505 | KHUNG 1 — Nền trắng. Khôi ngồi.
+0506 | KHÔI: Tập này có một điều mình muốn bạn nhớ hơn cả: tín dụng đen không bao giờ chỉ là một tội danh. Nó luôn kéo theo một chùm.
+0507 | KHUNG 2 — Đồ hoạ: ba tầng chồng lên nhau.
+0508 | Hành vi của Sáu Thẹo
+0509 | Tội danh tương ứng
+0510 | Khung hình phạt
+0511 | Cho vay với lãi suất gấp 05 lần trở lên mức lãi suất cao nhất của Bộ luật Dân sự — tức từ 100%/năm trở lên — và thu lợi bất chính
+0512 | Tội cho vay lãi nặng trong giao dịch dân sự — Điều 201
+0513 | Khung 1: phạt tiền từ 50.000.000 đến 200.000.000 đồng hoặc cải tạo không giam giữ đến 03 năm. Khung 2: phạt tiền từ 200.000.000 đến 1.000.000.000 đồng hoặc phạt tù từ 06 tháng đến 03 năm. Hình phạt bổ sung: phạt tiền từ 30.000.000 đến 100.000.000 đồng, cấm đảm nhiệm chức vụ, cấm hành nghề từ 01 năm đến 05 năm
+0514 | Đe doạ, gây sức ép tinh thần, phá hoại việc làm ăn để buộc người khác giao tài sản
+0515 | Tội cưỡng đoạt tài sản — Điều 170
+0516 | Tra cứu khung hình phạt theo văn bản hợp nhất trước khi in
+0517 | Rủ rê, dẫn con nợ vào sòng bạc, tổ chức cho họ đánh bạc
+0518 | Tội tổ chức đánh bạc hoặc gá bạc — Điều 322
+0519 | Xem bảng ở Tập 1
+0520 | KHUNG 3 — Khôi đứng dậy, chỉ vào dòng đầu tiên.
+0521 | KHÔI: Nhiều người tưởng "lãi cao" là chuyện thoả thuận giữa hai bên, ai chịu thì ký. Không phải. Từ 100%/năm trở lên, đó không còn là giao dịch dân sự bình thường nữa — đó là tội phạm, kể cả khi người vay tự nguyện ký.
+0522 | TRANG 11
+0523 | KHUNG 1 — Khôi giơ tay ra hiệu.
+0524 | KHÔI: Và nếu bạn là người đang vay — ba điều này quan trọng với bạn hơn mọi điều luật.
+0525 | KHUNG 2 — Ba ô nhỏ.
+0526 | Hợp đồng lãi nặng không trói được bạn như họ doạ. Phần lãi vượt quá mức luật cho phép là phần không được pháp luật bảo vệ. Người doạ bạn biết điều đó — họ chỉ mong bạn không biết.
+0527 | Giữ lại mọi bằng chứng. Tờ giấy vay viết tay, tin nhắn, cuộc gọi, ảnh hiện trường. Trong truyện này, thứ lật ngược tình thế không phải là lòng dũng cảm — mà là thư mục ảnh trong điện thoại của một học sinh lớp 12.
+0528 | Đừng vay để trả nợ cũ, và tuyệt đối đừng đánh bạc để gỡ. Đó chính xác là con đường họ muốn bạn đi. Mỗi bước bạn đi, món nợ dài thêm một đoạn.
+0529 | KHUNG 3 — Khôi bước về phía cánh cửa thứ năm. Khói nhang cam đỏ len ra dưới khe cửa.
+0530 | KHÔI: Bị đòi nợ kiểu này, bạn không phải người có lỗi với pháp luật — bạn là người bị hại. Trình báo công an nơi bạn sống là việc nên làm sớm nhất có thể.
+0531 | TẬP 5 — CỬA THỨ NĂM: "Cậu Vĩnh phán"
+0532 | Nhân vật chính (phản diện): CẬU VĨNH, tên thật Lê Quang Vĩnh, 38 tuổi. Trước làm nghề bán hàng đa cấp, sau chuyển sang "hành nghề tâm linh". Không tin vào bất cứ điều gì mình nói. Tính cách: quan sát cực nhanh — Vĩnh không bói, Vĩnh đọc người. Nói chuyện với ai năm phút là biết họ sợ gì, và bán đúng nỗi sợ đó cho họ.
+0533 | Nạn nhân: BÀ LIÊN, 55 tuổi, buôn bán ở chợ, gia cảnh khá. Con trai út thi trượt đại học và bắt đầu bỏ nhà đi. Chồng bà, ÔNG HOÀ, là người phản đối từ đầu.
+0534 | Người con: TRUNG, 24 tuổi, con trai lớn bà Liên, làm kỹ thuật viên — người sẽ lật tẩy Vĩnh.
+0535 | Phần 1 — Cách Vĩnh đọc người
+0536 | TRANG 1
+0537 | KHUNG 1 — "Điện thờ" của Vĩnh: một căn nhà ba tầng ở ngoại ô, cải tạo thành nơi thờ cúng. Khói nhang dày. Đèn đỏ. Bên ngoài xếp hàng hơn hai chục người.
+0538 | KHUNG 2 — Bên trong. VĨNH ngồi trên bục cao, áo dài the, mắt nhắm hờ. Một phụ nữ quỳ phía dưới.
+0539 | VĨNH: [chưa mở mắt] Trong nhà con có người mới đi xa. Đàn ông. Đi mà không nói một lời.
+0540 | KHUNG 3 — Người phụ nữ oà khóc.
+0541 | NGƯỜI PHỤ NỮ: Đúng rồi cậu ơi! Thằng con em nó bỏ nhà…
+0542 | KHUNG 4 — Cận mắt Vĩnh hé mở. Ánh mắt hoàn toàn tỉnh táo, đang đánh giá.
+0543 | KHÔI [ngồi xổm cạnh bục, nhìn độc giả]: Bạn để ý chưa? Vĩnh không nói gì cụ thể cả. "Người mới đi xa", "đàn ông" — ai cũng có. Người nghe tự điền phần còn lại vào. Đó là toàn bộ kỹ thuật.
+0544 | TRANG 2
+0545 | KHUNG 1 — Bà Liên bước vào, tay ôm giỏ lễ. Vẻ mặt rối bời.
+0546 | KHUNG 2 — Vĩnh nhìn bà Liên từ đầu đến chân trong một khung hình — hoạ sĩ vẽ ánh mắt Vĩnh lướt qua: đôi dép còn mới, chiếc vòng vàng, quầng thâm dưới mắt.
+0547 | KHUNG 3 — Vĩnh nhắm mắt lại, giọng đổi sang trầm đục.
+0548 | VĨNH: Nhà con có vong theo. Vong trẻ, chết nước, đang giữ chân thằng nhỏ. Con không giải, nó còn đi xa nữa.
+0549 | KHUNG 4 — Bà Liên tái mặt, sụp xuống.
+0550 | BÀ LIÊN: Cậu cứu nhà con với cậu ơi. Bao nhiêu con cũng lo.
+0551 | KHUNG 5 — Cận mặt Vĩnh. Khoé miệng nhếch lên một chút, chỉ một chút.
+0552 | Phần 2 — Từ lễ nhỏ đến bán nhà
+0553 | TRANG 3
+0554 | KHUNG 1 — Bốn ô nhỏ, thời gian trôi: (a) lễ 5 triệu; (b) lễ 20 triệu, vàng mã chất cao; (c) bà Liên rút sổ tiết kiệm; (d) bà Liên tháo đôi hoa tai.
+0555 | KHUNG 2 — Bàn ăn nhà bà Liên. Ông Hoà đập bàn.
+0556 | ÔNG HOÀ: Bà điên rồi! Ba tháng đi đứt hơn hai trăm triệu! Thằng Út nó cần đi học lại chứ cần cái gì vong với chả vong!
+0557 | BÀ LIÊN: Ông không hiểu gì hết! Cậu nói nhà mình đang bị động, ai cãi lại là người đó lãnh!
+0558 | KHUNG 3 — Trung đứng ở cửa bếp, nhìn bố mẹ cãi nhau.
+0559 | KHUNG 4 — Đêm. Ông Hoà dọn đồ ra phòng khách ngủ. Bà Liên ngồi thắp nhang trong phòng riêng, mắt đỏ hoe.
+0560 | KHÔI [đứng giữa căn nhà chia đôi]: Chỗ này mới là điều mình muốn bạn thấy. Vĩnh chưa lấy hết tiền của bà Liên. Nhưng Vĩnh đã lấy mất cái khác trước — đó là việc gia đình này còn tin được nhau.
+0561 | TRANG 4
+0562 | KHUNG 1 — Điện thờ. Bà Liên quỳ, Vĩnh phán từ trên bục.
+0563 | VĨNH: Vong nó không chịu đi. Vì con còn tiếc của. Căn nhà con đang ở là đất dữ, mồ mả cũ. Bán đi, làm lễ chuyển cung, thằng nhỏ mới yên.
+0564 | KHUNG 2 — Bà Liên run.
+0565 | BÀ LIÊN: Bán… bán nhà hả cậu? Nhà đó ông nhà con dựng…
+0566 | KHUNG 3 — Vĩnh mở mắt, giọng lạnh hẳn — lần đầu tiên bỏ vai diễn.
+0567 | VĨNH: Con chọn đi. Cái nhà, hay thằng con.
+0568 | KHUNG 4 — Cận bà Liên. Gương mặt một người mẹ bị đặt vào một lựa chọn không có thật.
+0569 | TRANG 5
+0570 | KHUNG 1 — Trung về nhà, thấy mẹ đang xếp giấy tờ nhà đất vào túi.
+0571 | TRUNG: Mẹ làm gì đó?
+0572 | BÀ LIÊN: Con đừng cản mẹ. Con không biết gì hết.
+0573 | KHUNG 2 — Trung ngồi xuống trước mặt mẹ, giọng bình tĩnh — không tranh cãi, không chế giễu.
+0574 | TRUNG: Con không cản mẹ. Con chỉ xin mẹ một tuần. Một tuần thôi, rồi mẹ muốn làm gì con cũng theo.
+0575 | KHUNG 3 — Trung ở quán cà phê, mở laptop. Trên màn hình: các bài đăng trên nhóm cư dân, ảnh "cậu Vĩnh" với nhiều cái tên khác nhau ở các tỉnh khác nhau.
+0576 | KHUNG 4 — Cận màn hình: ba bài báo cũ, ba địa phương, cùng một khuôn mặt, ba biệt danh.
+0577 | TRUNG: [độc thoại] Cậu Vĩnh… thầy Quang… ông đồng Lê. Cùng một người.
+0578 | TRANG 6
+0579 | KHUNG 1 — Trung dẫn mẹ đi gặp hai người phụ nữ khác — những người đã mất tiền cho Vĩnh trước đó.
+0580 | NGƯỜI PHỤ NỮ A: Ổng cũng nói nhà chị có vong chết nước. Y chang.
+0581 | KHUNG 2 — Cận mặt bà Liên. Câu nói "y chang" là thứ đánh sập toàn bộ niềm tin — không phải lý lẽ của con trai.
+0582 | KHUNG 3 — Bà Liên ngồi xuống bậc thềm, hai tay ôm mặt.
+0583 | BÀ LIÊN: Trời ơi… tôi đã làm gì vậy…
+0584 | KHUNG 4 — Trung ngồi xuống bên cạnh mẹ, không nói gì, chỉ đặt tay lên vai bà.
+0585 | Phần 3 — Cái giá
+0586 | TRANG 7
+0587 | KHUNG 1 — Trụ sở công an. Trung và mẹ cùng ba người bị hại khác ngồi khai báo. Trên bàn: sao kê chuyển khoản, biên nhận lễ, tin nhắn.
+0588 | KHUNG 2 — Điện thờ. Lực lượng chức năng làm việc. Vĩnh vẫn ngồi trên bục, cố giữ vẻ uy nghi.
+0589 | VĨNH: Tôi có ép ai đâu. Người ta tự nguyện đến, tự nguyện cúng.
+0590 | KHUNG 3 — Cán bộ mở cửa một căn phòng phía sau bục thờ. Bên trong: máy tính, bảng trắng ghi tên khách và "hoàn cảnh", cọc tiền, két sắt.
+0591 | KHUNG 4 — Cận bảng trắng. Từng dòng chữ: "Bà L. — con út bỏ nhà — sợ mất con — mức: cao". "Chị T. — chồng ngoại tình — mức: trung bình".
+0592 | KHÔI [đứng trước tấm bảng]: Đây không phải tâm linh. Đây là một bảng phân loại khách hàng.
+0593 | TRANG 8
+0594 | KHUNG 1 — Phòng làm việc. Vĩnh ngồi, không còn áo the.
+0595 | ĐIỀU TRA VIÊN: Anh đã bị xử phạt hành chính về hành vi này ở tỉnh khác năm ngoái, đúng không?
+0596 | VĨNH: …
+0597 | KHUNG 2 — Điều tra viên đặt xuống bàn tập sao kê dày.
+0598 | ĐIỀU TRA VIÊN: Và đây là số tiền anh nhận của mười bảy người trong tám tháng.
+0599 | KHUNG 3 — Vĩnh cúi đầu.
+0600 | KHUNG 4 — Nhà bà Liên. Ông Hoà xách túi đồ quay về. Hai vợ chồng đứng nhìn nhau ở cửa, chưa ai nói câu nào.
+0601 | TRANG 9
+0602 | KHUNG 1 — Con trai út về nhà, ba lô trên vai, đứng ở cổng.
+0603 | KHUNG 2 — Bà Liên chạy ra, ôm lấy con.
+0604 | KHUNG 3 — Bữa cơm gia đình. Bốn người. Trên bàn thờ vẫn có bát nhang — nhưng nhỏ, gọn, bình thường.
+0605 | [Chú thích hoạ sĩ: khung này rất quan trọng. Thông điệp của tập không phải "thờ cúng là xấu", mà là phân biệt tín ngưỡng bình thường với việc bị trục lợi. Giữ bát nhang trong khung hình cuối là có chủ ý.]
+0606 | KHUNG 4 — Cận: bà Liên gắp thức ăn cho chồng. Ông Hoà gật đầu.
+0607 | Phần 4 — Khôi nói với người đọc
+0608 | TRANG 10
+0609 | KHUNG 1 — Nền trắng. Khôi ngồi.
+0610 | KHÔI: Trước khi nói về điều luật, mình muốn nói rõ một chuyện. Đi lễ chùa, thắp nhang cho ông bà, xin một quẻ đầu năm — đó là tín ngưỡng, là văn hoá, và hoàn toàn bình thường. Tập này không nói về những việc đó.
+0611 | KHUNG 2 — Khôi giơ hai tay, tách ra hai bên.
+0612 | KHÔI: Cái mà pháp luật xử lý là khi có người biến niềm tin đó thành một cái nghề để kiếm tiền trên nỗi sợ của người khác.
+0613 | KHUNG 3 — Đồ hoạ: hai tội danh, có mũi tên chuyển hoá giữa chúng.
+0614 | Hành vi
+0615 | Tội danh
+0616 | Khung hình phạt
+0617 | Dùng bói toán, đồng bóng hoặc các hình thức mê tín dị đoan khác, mà người đó đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xoá án tích mà còn vi phạm
+0618 | Tội hành nghề mê tín, dị đoan — Điều 320
+0619 | Khung 1: phạt tiền từ 10.000.000 đến 100.000.000 đồng, cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm. Khung 2: phạt tù từ 03 năm đến 10 năm. Hình phạt bổ sung: phạt tiền từ 10.000.000 đến 50.000.000 đồng
+0620 | Dùng thủ đoạn gian dối — bịa đặt về vong, về hạn, về bệnh — nhằm chiếm đoạt tài sản của người khác
+0621 | Tội lừa đảo chiếm đoạt tài sản — Điều 174
+0622 | Mức cao nhất của tội danh này là tù chung thân. Tra cứu chi tiết các khung theo giá trị tài sản chiếm đoạt trước khi in
+0623 | KHUNG 4 — Khôi chỉ vào dòng chữ in đậm ở ô thứ nhất.
+0624 | KHÔI: Chú ý chỗ này. Điều 320 đòi hỏi người đó phải từng bị xử phạt hành chính hoặc từng bị kết án về chính hành vi này mà còn tái phạm. Chính vì vậy, trong thực tế nhiều vụ được xử lý theo Điều 174 về tội lừa đảo — vì bản chất của việc bịa ra "vong" để moi tiền là gian dối nhằm chiếm đoạt tài sản.
+0625 | TRANG 11
+0626 | KHUNG 1 — Khôi đứng dậy.
+0627 | KHÔI: Ba điều đọng lại từ cửa thứ năm.
+0628 | KHUNG 2 — Ba ô nhỏ.
+0629 | Nhận ra câu nói mơ hồ. "Nhà con có người mới đi xa", "con đang có hạn", "vong theo" — những câu đúng với hầu hết mọi người. Người nghe tự điền chi tiết vào, rồi tin rằng thầy biết trước.
+0630 | Doạ để bán là dấu hiệu rõ nhất. Tín ngưỡng chân chính không ra giá và không đặt điều kiện. Khi ai đó nói "không làm lễ thì con anh gặp hoạ" kèm theo một con số — đó là bán hàng bằng nỗi sợ.
+0631 | Đừng cãi nhau với người thân đang tin. Trung không tranh luận với mẹ. Cậu ấy xin một tuần, rồi đưa mẹ gặp những người bị hại khác. Bằng chứng cụ thể có sức nặng hơn mọi lời lẽ chê bai — và giữ được gia đình.
+0632 | KHUNG 3 — Khôi bước về phía cánh cửa cuối cùng. Ánh nâu hổ phách hắt ra, kèm tiếng thuỷ tinh vỡ vọng lại rất khẽ.
+0633 | KHÔI: Còn một cánh cửa nữa. Và mình có linh cảm đây là cánh cửa khó bước vào nhất.
+0634 | TẬP 6 — CỬA THỨ SÁU: "Bữa cơm nguội"
+0635 | Nhân vật chính: ÔNG HOÀNG, 47 tuổi, thợ cơ khí. Uống từ năm 20 tuổi, ban đầu là uống với anh em thợ sau ca. Hai mươi bảy năm sau, không có bữa tối nào không có rượu. Tính cách: khi tỉnh là người cha ít nói, vụng về, thỉnh thoảng sửa xe đạp cho con. Khi say là một người hoàn toàn khác. Điều đáng sợ nhất ở nhân vật này là ông không nhớ mình đã nói gì.
+0636 | BÀ THUÝ, 44 tuổi, vợ ông Hoàng, bán hàng tạp hoá. Người luôn dọn dẹp mọi thứ vào sáng hôm sau như chưa có gì xảy ra.
+0637 | MINH, 15 tuổi, con trai, học lớp 9. HÀ, 11 tuổi, con gái.
+0638 | NGỌC, 17 tuổi, học sinh lớp 12 — người đi xe đạp về nhà vào đêm hôm đó.
+0639 | Phần 1 — Một buổi tối bình thường trong nhà đó
+0640 | TRANG 1
+0641 | KHUNG 1 — Căn nhà cấp bốn, 7 giờ tối. Mâm cơm dọn sẵn trên chiếu. Bà Thuý, Minh và Hà ngồi đợi. Không ai nói gì.
+0642 | KHUNG 2 — Cận: Hà đưa tay định gắp. Minh khẽ giữ tay em lại, lắc đầu.
+0643 | KHUNG 3 — Đồng hồ: 8 giờ 40. Thức ăn đã nguội, váng mỡ đọng trên mặt canh.
+0644 | KHUNG 4 — Tiếng xe máy ngoài ngõ. Cả ba người trong nhà cùng ngẩng lên — và hoạ sĩ vẽ ba gương mặt đó không phải mừng, mà là căng thẳng.
+0645 | TRANG 2
+0646 | KHUNG 1 — Ông Hoàng bước vào, dáng xiêu vẹo, mùi rượu gần như thấy được qua nét vẽ.
+0647 | ÔNG HOÀNG: Cơm nước gì… nguội ngắt…
+0648 | KHUNG 2 — Bà Thuý đứng dậy, giọng nhỏ nhẹ, đã thành thói quen.
+0649 | BÀ THUÝ: Để em hâm lại. Anh ăn chút cháo cho ấm bụng.
+0650 | KHUNG 3 — Ông Hoàng gạt tay. Bát canh đổ.
+0651 | ÔNG HOÀNG: Tôi hỏi cô! Cả ngày ở nhà cô làm được cái gì?!
+0652 | KHUNG 4 — Hà nép vào lưng anh trai. Minh đứng chắn trước mặt em, tay nắm chặt.
+0653 | [Chú thích hoạ sĩ: từ đây đến hết trang, KHÔNG vẽ hành vi đánh. Chỉ vẽ: bóng đổ trên tường, đồ vật rơi, gương mặt hai đứa trẻ, bàn tay Minh nắm chặt. Tiếng động đặt ngoài khung hình bằng chữ tượng thanh nhỏ.]
+0654 | TRANG 3
+0655 | KHUNG 1 — Bóng hai người lớn đổ dài trên bức tường loang lổ. SFX nhỏ, góc khung: RẦM.
+0656 | KHUNG 2 — Góc phòng. Minh ôm Hà, một tay bịt tai em.
+0657 | HÀ: [thì thầm] Anh ơi… bao giờ thì hết?
+0658 | MINH: …Sắp rồi. Em ngủ đi.
+0659 | KHUNG 3 — Sáng hôm sau. Nắng. Bà Thuý quét dọn mảnh vỡ, lau sàn. Ông Hoàng ngồi ngoài hiên uống trà, mặt ngơ ngác.
+0660 | ÔNG HOÀNG: Hôm qua… tôi có làm gì không?
+0661 | BÀ THUÝ: [không quay lại] Không có gì đâu anh.
+0662 | KHUNG 4 — Minh đứng ở cửa, nhìn mẹ. Cậu bé 15 tuổi hiểu rõ mọi chuyện — và học được rằng người ta có thể giả vờ như không có gì.
+0663 | KHÔI [đứng giữa sân, nhìn độc giả]: Hai chữ "không có gì" đó, nói bao nhiêu lần trong bao nhiêu năm, sẽ trở thành thứ nguy hiểm nhất trong căn nhà này.
+0664 | Phần 2 — Cái gì lớn lên trong nhà đó
+0665 | TRANG 4
+0666 | KHUNG 1 — Trường học. Minh ngồi cuối lớp, gục đầu, quầng thâm dưới mắt.
+0667 | KHUNG 2 — Sân trường. Minh đẩy một bạn cùng lớp ngã. Bạn bè vây quanh.
+0668 | BẠN: Ông bị gì vậy?! Tôi đùa thôi mà!
+0669 | KHUNG 3 — Phòng giáo viên. Cô chủ nhiệm ngồi đối diện Minh.
+0670 | CÔ GIÁO: Em học kỳ trước ngoan lắm mà. Ở nhà có chuyện gì không em?
+0671 | KHUNG 4 — Cận mặt Minh. Miệng mím chặt.
+0672 | MINH: Không có gì ạ.
+0673 | [Chú thích hoạ sĩ: câu thoại này lặp lại đúng câu của mẹ ở trang 3. Đây là điểm nhấn của cả tập — hoạ sĩ nên vẽ hai khung này giống nhau về bố cục để người đọc nhận ra.]
+0674 | TRANG 5
+0675 | KHUNG 1 — Tối. Hà ngồi làm bài tập dưới gầm bàn, tai đeo tai nghe không cắm vào đâu cả.
+0676 | KHUNG 2 — Minh đứng ngoài ngõ với một nhóm thanh niên lớn hơn. Một người chìa điếu thuốc. Minh cầm.
+0677 | KHÔI [đứng cách đó vài bước]: Bạn để ý không — chúng ta đang đứng ở đầu một cánh cửa khác. Một trong năm cánh cửa mình vừa bước qua.
+0678 | KHUNG 3 — Bà Thuý ngồi trong quán tạp hoá, nhìn ra đường, tay cầm điện thoại. Trên màn hình là số của tổng đài, ngón tay bà dừng ở đó rất lâu, rồi tắt màn hình.
+0679 | KHUNG 4 — Cận: cuốn lịch treo tường, nhiều ngày bị khoanh tròn bằng bút chì — những đêm ông Hoàng về say. Gần như kín cả tháng.
+0680 | Phần 3 — Đêm mưa
+0681 | TRANG 6
+0682 | KHUNG 1 — Quán nhậu vỉa hè, 10 giờ đêm. Trời vừa tạnh mưa, mặt đường loáng nước. Ông Hoàng và ba người bạn, bàn đầy vỏ chai.
+0683 | BẠN NHẬU: Ông Hoàng làm ly nữa đi! Sợ gì, tối nay có ai bắt đâu.
+0684 | ÔNG HOÀNG: [cười] Tôi chạy đoạn này nhắm mắt cũng về tới nhà.
+0685 | KHUNG 2 — Ông Hoàng dắt xe, loạng choạng. Một người bạn níu lại.
+0686 | BẠN NHẬU: Hay để tui chở ông về?
+0687 | ÔNG HOÀNG: Vẽ chuyện. Có mấy trăm mét.
+0688 | [Chú thích hoạ sĩ: khung này cần vẽ rõ. Đây là khoảnh khắc mà mọi thứ còn có thể khác đi. Đặt nó ở giữa trang, kích thước lớn hơn các khung khác.]
+0689 | KHUNG 3 — Song song: NGỌC, nữ sinh lớp 12, đạp xe về từ lớp học thêm. Áo mưa mỏng, cặp sách trước giỏ, đèn đường vàng.
+0690 | KHUNG 4 — Cận: Ngọc nhắn tin bằng một tay, xe vẫn đi chậm sát lề.
+0691 | TIN NHẮN: "Mẹ ơi con sắp về tới rồi, mẹ để phần cơm cho con nha."
+0692 | TRANG 7
+0693 | KHUNG 1 — Toàn trang. Không có người trong khung. Chỉ có: đoạn đường ướt, ánh đèn xe quét ngang, và ở góc xa, một chiếc xe đạp.
+0694 | KHUNG 2 — Trang trắng. Duy nhất một dòng chữ nhỏ ở giữa.
+0695 | SFX: …
+0696 | [Chú thích hoạ sĩ: KHÔNG vẽ va chạm, KHÔNG vẽ thương tích. Một trang gần như trắng, có sức nặng hơn mọi hình ảnh.]
+0697 | KHUNG 3 — Đèn đỏ và xanh của xe cứu thương quét trên mặt đường ướt. Người dân đứng vòng ngoài. Một chiếc dép rơi giữa đường.
+0698 | KHUNG 4 — Ông Hoàng ngồi bệt bên lề, hai tay ôm đầu. Lần đầu tiên trong cả tập, mắt ông tỉnh hoàn toàn.
+0699 | TRANG 8
+0700 | KHUNG 1 — Hành lang bệnh viện. Mẹ Ngọc chạy dọc hành lang, tay còn cầm chiếc lồng bàn đậy phần cơm.
+0701 | KHUNG 2 — Cận: chiếc lồng bàn rơi xuống nền gạch.
+0702 | KHUNG 3 — Nhà ông Hoàng. Minh mở cửa, thấy hai cán bộ công an đứng ngoài.
+0703 | KHUNG 4 — Bà Thuý đứng sau lưng con, tay bám vào khung cửa.
+0704 | TRANG 9
+0705 | KHUNG 1 — Phòng xử án. Ông Hoàng đứng, đầu cúi, tóc bạc hẳn so với các trang trước.
+0706 | KHUNG 2 — Hàng ghế bên này: bà Thuý, Minh, Hà. Hàng ghế bên kia: bố mẹ Ngọc, giữa hai người là một khung ảnh.
+0707 | KHUNG 3 — Cận mặt ông Hoàng quay xuống nhìn về phía hàng ghế bên kia. Ông định nói gì đó. Không nói được.
+0708 | KHUNG 4 — Cận tay Minh nắm tay em gái. Hà 11 tuổi, không hiểu hết, nhưng biết là từ nay nhà mình khác rồi.
+0709 | TRANG 10
+0710 | KHUNG 1 — Nhiều tháng sau. Căn nhà cũ. Bữa cơm ba người: bà Thuý, Minh, Hà. Mâm cơm đơn giản.
+0711 | KHUNG 2 — Cận: trên tường, chỗ trước kia loang lổ, đã được quét vôi lại.
+0712 | KHUNG 3 — Minh dọn bát, đặt lên bàn học một tờ đơn xin học nghề buổi tối.
+0713 | KHUNG 4 — Trại giam. Ông Hoàng ngồi viết thư, nét chữ nguệch ngoạc. Trên trang giấy chỉ có mấy dòng, và chữ đầu tiên là "Minh ơi".
+0714 | Phần 4 — Khôi nói với người đọc
+0715 | TRANG 11
+0716 | KHUNG 1 — Nền trắng. Khôi ngồi, im lặng một lúc trước khi mở sách.
+0717 | KHÔI: Tập này khó nói nhất. Vì rượu bia là thứ duy nhất trong sáu cánh cửa mà xã hội mình coi là bình thường.
+0718 | KHUNG 2 — Khôi mở sách.
+0719 | KHÔI: Uống rượu không phải là tội. Nhưng những gì xảy ra sau khi uống thì có. Và ở tập này có tới ba tầng trách nhiệm pháp lý khác nhau.
+0720 | KHUNG 3 — Đồ hoạ: ba tầng.
+0721 | Hành vi
+0722 | Chế tài
+0723 | Ghi chú
+0724 | Điều khiển phương tiện mà trong máu hoặc hơi thở có nồng độ cồn
+0725 | Xử phạt vi phạm hành chính theo Nghị định về xử phạt trong lĩnh vực giao thông đường bộ đang có hiệu lực — phạt tiền và tước quyền sử dụng giấy phép lái xe
+0726 | Việt Nam áp dụng ngưỡng nồng độ cồn bằng 0 đối với người lái xe. Mức phạt cụ thể phải tra cứu nghị định mới nhất trước khi in
+0727 | Vi phạm quy định về tham gia giao thông đường bộ gây hậu quả chết người, trong tình trạng có sử dụng rượu bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định
+0728 | Tội vi phạm quy định về tham gia giao thông đường bộ — Điều 260
+0729 | Sử dụng rượu bia là tình tiết định khung tăng nặng của điều luật này. Tra cứu chính xác từng khoản theo văn bản hợp nhất trước khi in
+0730 | Đối xử tàn ác, thường xuyên ức hiếp, ngược đãi, làm nhục người thân trong gia đình
+0731 | Tội ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu hoặc người có công nuôi dưỡng mình — Điều 185; hành vi gây thương tích có thể bị xử lý theo Điều 134
+0732 | Say rượu không loại trừ trách nhiệm hình sự — người phạm tội trong tình trạng mất khả năng nhận thức do dùng rượu, bia hoặc chất kích thích mạnh khác vẫn phải chịu trách nhiệm hình sự theo Điều 13 Bộ luật Hình sự
+0733 | KHUNG 4 — Khôi chỉ vào dòng cuối, giọng nhấn.
+0734 | KHÔI: Dòng này mình muốn bạn đọc kỹ. Rất nhiều người nghĩ "lúc đó tôi say, tôi có biết gì đâu". Bộ luật Hình sự trả lời rất dứt khoát: người say vẫn phải chịu trách nhiệm hình sự như người tỉnh. Bởi vì việc uống đến mức đó là do chính người ấy chọn.
+0735 | TRANG 12
+0736 | KHUNG 1 — Khôi đứng dậy.
+0737 | KHÔI: Ba điều đọng lại từ cửa thứ sáu.
+0738 | KHUNG 2 — Ba ô nhỏ.
+0739 | Bạo lực gia đình không phải chuyện riêng của mỗi nhà. Nó là hành vi bị pháp luật điều chỉnh. Người trong cuộc có thể trình báo công an xã, phường nơi cư trú, hoặc gọi Tổng đài quốc gia bảo vệ trẻ em 111 — miễn phí, hoạt động 24/7.
+0740 | Người bị ảnh hưởng nặng nhất thường không phải người bị đánh. Minh không bị đánh ngày nào. Nhưng chính cậu bé mang theo mọi thứ của căn nhà đó ra ngoài xã hội.
+0741 | Một câu "để tôi chở ông về" có thể đổi được cả hai gia đình. Người bạn nhậu ở trang 6 đã nói câu đó. Chỉ cần ông ấy kiên quyết thêm một chút. Ngăn một người say lái xe không phải là làm phiền — đó có thể là việc quan trọng nhất bạn làm trong đời.
+0742 | KHUNG 3 — Khôi quay lại nhìn cả sáu cánh cửa phía sau lưng, lần này đóng hết.
+0743 | KHÔI: Sáu cánh cửa. Sáu con người. Không ai trong số họ thức dậy vào một buổi sáng và quyết định sẽ trở thành tội phạm.
+0744 | KẾT — "Câu trả lời"
+0745 | TRANG 1
+0746 | KHUNG 1 — Sảnh Sáu Cánh Cửa. Khôi đứng giữa, sáu cánh cửa đóng kín xung quanh. Ánh sáng dưới các khe cửa đã tắt.
+0747 | KHUNG 2 — Khôi ngẩng lên nhìn dòng chữ khắc trên tường — vẫn hai dòng cũ.
+0748 | CHỮ KHẮC TRÊN TƯỜNG: CÓ NHỮNG VŨNG LẦY MÀ KHÓ CÓ THỂ THOÁT RA.
+0749 | CÓ NHỮNG THỨ PHẢI TRẢ MỘT CÁI GIÁ ĐẮT.
+0750 | KHUNG 3 — Cận mặt Khôi. Cậu nói khẽ, như tự trả lời mình.
+0751 | KHÔI: Cháu hiểu rồi. Không ai trong số họ chọn cái giá. Họ chỉ chọn bước đầu tiên — và bước đầu tiên nào cũng trông rất nhỏ.
+0752 | KHUNG 4 — Ánh sáng trắng tràn vào từ mọi phía.
+0753 | TRANG 2
+0754 | KHUNG 1 — Thư viện trường. Khôi bật dậy, má còn hằn vết trang sách. Đồng hồ: 23:05.
+0755 | KHUNG 2 — Khôi nhìn xuống cuốn Bộ luật Hình sự đang mở. Các con số điều luật nằm nguyên trên trang giấy.
+0756 | KHUNG 3 — Cận trang sách. Nhưng lần này, hoạ sĩ vẽ mờ phía sau mỗi con số một gương mặt: Tuấn, Lam, Diệu, ông Tám, bà Liên, Minh.
+0757 | KHÔI: [độc thoại] Trước đây mình học thuộc điều luật. Bây giờ mình nhớ người.
+0758 | KHUNG 4 — Khôi gấp sách, cho vào ba lô, tắt đèn bàn.
+0759 | TRANG 3
+0760 | KHUNG 1 — Giảng đường, hôm sau. Giảng viên đang giảng. Khôi giơ tay.
+0761 | GIẢNG VIÊN: Em lại có câu hỏi ngoài bài hả Khôi?
+0762 | KHUNG 2 — Khôi đứng dậy, lần này không ngập ngừng.
+0763 | KHÔI: Dạ không ạ. Lần này em có câu trả lời.
+0764 | KHUNG 3 — Cả lớp quay xuống. Giảng viên khoanh tay, gật đầu.
+0765 | KHÔI: Người ta biết luật mà vẫn phạm, vì ở thời điểm họ bước bước đầu tiên, họ không thấy đó là bước vào đâu cả. Họ thấy đó là cách để có tiền chữa bệnh cho mẹ, để viết được một bài hát, để đóng học phí, để giữ thể diện trước bạn bè, để cứu con mình, để quên đi một ngày mệt mỏi.
+0766 | KHUNG 4 — Cận mặt Khôi.
+0767 | KHÔI: Cho nên em nghĩ, học luật không phải chỉ để biết khung hình phạt. Mà là để nhận ra bước đầu tiên khi nó xuất hiện trước mặt mình — hoặc trước mặt người mình thương.
+0768 | TRANG 4
+0769 | KHUNG 1 — Toàn trang. Sân trường buổi chiều, nắng, sinh viên đi lại. Khôi bước giữa dòng người, ba lô trên vai.
+0770 | KHUNG 2 — Ô nhỏ ở góc: Khôi nhìn thẳng vào độc giả lần cuối.
+0771 | KHÔI: Còn bạn thì sao? Cánh cửa nào đang mở trước mặt bạn — hoặc trước mặt một người bạn quen?
+0772 | Bảng tổng hợp — sáu cánh cửa, sáu nhóm tội danh
+0773 | [Trang cuối ebook. Có thể in thành poster A3 để phát kèm hoạt động tuyên truyền.]
+0774 | Tập
+0775 | Tệ nạn
+0776 | Tội danh liên quan
+0777 | Điều luật
+0778 | 1
+0779 | Cờ bạc
+0780 | Đánh bạc; Tổ chức đánh bạc hoặc gá bạc
+0781 | Điều 321; Điều 322
+0782 | 2
+0783 | Ma tuý
+0784 | Tàng trữ; Vận chuyển; Mua bán trái phép chất ma tuý; Tổ chức sử dụng; Chứa chấp việc sử dụng trái phép chất ma tuý
+0785 | Điều 249; 250; 251; 255; 256
+0786 | 3
+0787 | Mại dâm
+0788 | Chứa mại dâm; Môi giới mại dâm; Mua dâm người dưới 18 tuổi
+0789 | Điều 327; 328; 329
+0790 | 4
+0791 | Tín dụng đen
+0792 | Cho vay lãi nặng trong giao dịch dân sự; Cưỡng đoạt tài sản; Tổ chức đánh bạc hoặc gá bạc
+0793 | Điều 201; 170; 322
+0794 | 5
+0795 | Mê tín dị đoan
+0796 | Hành nghề mê tín, dị đoan; Lừa đảo chiếm đoạt tài sản
+0797 | Điều 320; 174
+0798 | 6
+0799 | Rượu bia
+0800 | Vi phạm quy định về tham gia giao thông đường bộ; Ngược đãi hoặc hành hạ người thân; Cố ý gây thương tích
+0801 | Điều 260; 185; 134
+0802 | Số điện thoại cần nhớ, in ở bìa sau: Tổng đài quốc gia bảo vệ trẻ em 111 (miễn phí, 24/7) · Công an 113 · Cấp cứu 115.
+0803 | PHỤ LỤC — Những điểm phải đối chiếu lại trước khi in
+0804 | Các số điều và khung hình phạt trong kịch bản đã được tra cứu qua nhiều nguồn độc lập, nhưng ấn phẩm này sẽ qua hội đồng chuyên môn, nên nhóm cần đối chiếu lại toàn bộ với văn bản hợp nhất Bộ luật Hình sự mới nhất trước khi chốt bản in. Có nguồn ghi nhận Bộ luật đã được sửa đổi, bổ sung sau năm 2017, nên các con số định lượng là chỗ dễ sai nhất.
+0805 | Bắt buộc kiểm tra lại:
+0806 | Khối lượng, hàm lượng ma tuý ứng với từng khung của các Điều 249, 250, 251 — đây là nội dung đã được sửa đổi và các nguồn không thống nhất. Tập 2 cố ý không ghi con số cụ thể chính vì lý do này; nếu nhóm muốn bổ sung, phải lấy từ văn bản gốc.
+0807 | Khung hình phạt đầy đủ của Điều 260 (vi phạm quy định về tham gia giao thông đường bộ) và vị trí chính xác của tình tiết "trong tình trạng có sử dụng rượu, bia mà trong máu hoặc hơi thở có nồng độ cồn vượt quá mức quy định".
+0808 | Mức xử phạt hành chính về nồng độ cồn — tra theo nghị định xử phạt trong lĩnh vực giao thông đường bộ đang có hiệu lực tại thời điểm in, không dùng số cũ.
+0809 | Các khung của Điều 170 (cưỡng đoạt tài sản) và Điều 174 (lừa đảo chiếm đoạt tài sản) theo giá trị tài sản.
+0810 | Độ tuổi chịu trách nhiệm hình sự — Điều 12. Nhân vật Minh (15 tuổi) và Hà (11 tuổi) ở Tập 6 không phạm tội, nhưng nếu nhóm muốn thêm tình huống người chưa thành niên phạm tội ở bất kỳ tập nào, phải đối chiếu Điều 12 rất kỹ: người từ đủ 16 tuổi trở lên chịu trách nhiệm hình sự về mọi tội phạm; người từ đủ 14 đến dưới 16 tuổi chỉ chịu trách nhiệm hình sự về một số tội được liệt kê cụ thể.
+0811 | Mức xử phạt hành chính đối với hành vi mua dâm, bán dâm ở Tập 3 — kịch bản chỉ nói "bị xử phạt vi phạm hành chính" mà không nêu số tiền, để tránh sai. Nếu muốn nêu, tra nghị định hiện hành.
+0812 | Khuyến nghị về cách trình bày phần pháp lý trong ebook:
+0813 | Mỗi bảng "Góc pháp lý" nên ghi kèm một dòng chân trang: tên văn bản, số hiệu, ngày ban hành mà nhóm đã tra.
+0814 | Giữ nguyên nguyên tắc không trích nguyên văn dài điều luật trong phần truyện tranh — chỉ diễn đạt lại nội dung và ghi rõ số điều để người đọc tự tra. Cách này vừa dễ đọc, vừa tránh sai sót khi luật được sửa đổi.
+0815 | Nếu ebook có bản cập nhật hằng năm, đặt toàn bộ số liệu định lượng vào một phụ lục riêng cuối sách thay vì rải trong từng tập — khi luật thay đổi chỉ cần sửa một chỗ.
+0816 | Phân công gợi ý theo cấu trúc 6 tập. Mỗi thành viên nhận trọn một tập gồm: kiểm tra căn cứ pháp lý → biên tập lời thoại theo giọng vùng miền phù hợp → làm việc với hoạ sĩ về 3 khung trọng điểm của tập đó (khung bước đầu tiên, khung điểm ngoặt pháp lý, khung Khôi nói với độc giả).
+0817 | Nguồn đã tra cứu
+0818 | Tội đánh bạc và tội tổ chức đánh bạc theo quy định của Bộ luật Hình sự năm 2015 — Tạp chí Toà án nhân dân
+0819 | Tìm hiểu "Điều 321. Tội đánh bạc" của BLHS năm 2015 — Công an tỉnh Quảng Trị
+0820 | Một số vấn đề về các tội phạm mại dâm — Tạp chí Toà án nhân dân
+0821 | Tháo gỡ những vướng mắc khi áp dụng pháp luật hình sự liên quan đến mại dâm — Cổng thông tin Tiếng Chuông, Chính phủ
+0822 | Về các tội sản xuất, tàng trữ, vận chuyển, mua bán trái phép hoặc chiếm đoạt chất ma tuý — Tạp chí Toà án nhân dân
+0823 | Tìm hiểu nội dung Điều 201 BLHS năm 2015 về "Tội cho vay lãi nặng trong giao dịch dân sự" — Công an tỉnh Quảng Trị
+0824 | Bàn về tội cho vay lãi nặng trong giao dịch dân sự — Phân hiệu Trường Đại học Kiểm sát tại TP.HCM
+0825 | Tội hành nghề mê tín, dị đoan (Điều 320) — phân tích cấu thành tội phạm
+0826 | Tìm hiểu về tội mua bán người tại Điều 150 BLHS năm 2015 — Tạp chí Quản lý nhà nước
+0827 | HỒ SƠ NHÂN VẬT — dùng để tạo ảnh
+0828 | Phần này gom toàn bộ nhân vật của sáu tập thành mô tả sẵn sàng đưa vào công cụ tạo ảnh. Mỗi mục gồm bốn lớp thông tin theo đúng thứ tự mà phần lớn công cụ xử lý tốt nhất: tuổi và vóc dáng → khuôn mặt, tóc → trang phục → thần thái, tư thế. Hoàn cảnh ghi ở cuối mỗi mục là để hoạ sĩ và người viết prompt hiểu nhân vật, không cần đưa vào prompt.
+0829 | Quy tắc chung cho toàn bộ ảnh
+0830 | Phong cách: truyện tranh Việt Nam hiện đại, nét vẽ sạch, tô màu phẳng có đổ bóng nhẹ, không quá giống manga Nhật cũng không quá giống comic Mỹ. Thêm vào mọi prompt: Vietnamese comic book style, clean line art, flat colors with soft shading.
+0831 | Nhân chủng: tất cả nhân vật là người Việt Nam — tóc đen, mắt nâu đen, da vàng sáng đến nâu nhạt tuỳ nghề nghiệp. Ghi rõ Vietnamese trong mọi prompt, vì nếu không công cụ sẽ tự cho ra khuôn mặt phương Tây.
+0832 | Tuyệt đối không mô tả theo gương mặt của người thật, người nổi tiếng, diễn viên hay ca sĩ có thật. Nhân vật Vũ Hạ Lam cần chú ý điều này nhất.
+0833 | Nhất quán giữa các khung: với mỗi nhân vật, chọn 2–3 chi tiết nhận dạng cố định (kính gọng tròn của Khôi, vết sẹo má trái của Sáu Thẹo, băng cổ tay của Thắng) và lặp lại trong mọi prompt. Đây là cách rẻ nhất để giữ nhân vật không bị "đổi mặt" giữa các trang.
+0834 | Tông màu: mỗi tập một tông chủ đạo, đưa luôn vào prompt (xem bảng ở phần Ghi chú cho hoạ sĩ ở đầu kịch bản).
+0835 | Nhân vật xuyên suốt
+0836 | KHÔI — nam, 20 tuổi, cao khoảng 1m75, gầy, vai hơi gù vì hay cúi đọc sách. Mặt thon, mắt to, lông mày thưa, tóc đen cắt ngắn gọn, mái hơi rối tự nhiên. Kính gọng tròn mảnh màu bạc — chi tiết nhận dạng chính. Áo sơ mi trắng hoặc xanh nhạt sơ vin lỏng, quần kaki, ba lô vải một quai đeo lệch, luôn có một cuốn sách dày nhét ở ngăn ngoài. Thần thái: tò mò, hay nghiêng đầu quan sát, tay thường chạm gọng kính khi suy nghĩ; khi nói với độc giả thì đứng thẳng, nhìn thẳng ống kính, biểu cảm nghiêm túc mà không lên gân.
+0837 | Bối cảnh: sinh viên năm 2 ngành Luật, chưa va chạm xã hội — phản ứng của cậu chính là phản ứng của người đọc.
+0838 | GIẢNG VIÊN — nữ, khoảng 45 tuổi, dáng nhỏ gọn. Tóc đen cắt ngang vai, buộc thấp. Áo dài công sở hoặc vest mỏng màu trung tính. Đeo kính, hay tháo ra lau khi chuẩn bị nói điều quan trọng. Thần thái điềm đạm, không gay gắt.
+0839 | ĐIỀU TRA VIÊN / CÁN BỘ CÔNG AN — nam, 40–45 tuổi, vóc chắc. Tóc cắt cao, mặt vuông, nếp nhăn ở khoé mắt. Quân phục công an nhân dân chỉnh tề. Thần thái bình thản, giọng không quát nạt — sức nặng đến từ hồ sơ trên bàn chứ không từ thái độ. Lưu ý: vẽ quân phục ở mức nhận diện được, không cần chính xác đến từng phù hiệu, và không gán tên đơn vị có thật.
+0840 | Tập 1 — Cờ bạc (tông đỏ rượu vang, khói xám)
+0841 | TUẤN — nam, 22 tuổi, cao trung bình, người rắn chắc kiểu lao động chân tay, da rám nắng. Tóc đen cắt ngắn tự cắt lấy, không gọn. Mặt góc cạnh, quầng thâm mắt rõ, hàm bạnh. Áo phông bạc màu giãn cổ, quần jean sờn, dép tổ ong. Nửa sau truyện: áo sơ mi mượn rộng vai, tóc cắt ngắn hơn, gầy đi thấy rõ. Thần thái: ít nói, mắt hay nhìn xuống, hai tay thường nắm lại; không dữ dằn — đây là người mệt, không phải người ác.
+0842 | Bối cảnh: nghỉ học từ giữa lớp 8, cha bỏ đi, mẹ chạy thận. Làm phụ hồ, rửa xe, chạy xe ôm công nghệ.
+0843 | MẸ TUẤN — nữ, khoảng 50 tuổi nhưng trông già hơn tuổi. Rất gầy, da xanh, tóc mỏng búi sau. Áo bà ba cũ hoặc áo bệnh nhân sọc, vòng tay bệnh nhân bằng nhựa, vết kim truyền ở mu bàn tay. Thần thái hiền, luôn cố ngồi dậy khi con đến.
+0844 | HÙNG — nam, 25 tuổi, người đậm, cổ ngắn. Tóc vuốt keo, dây chuyền vàng to, hình xăm ở cổ tay. Áo thun hiệu nhái ôm người, quần short, dép hiệu. Thần thái: cười nhiều, vỗ vai thân mật — vẻ thân thiện chính là công cụ của nhân vật này. Khi chuyển giọng ở trang 5 thì nụ cười vẫn còn nhưng mắt không cười nữa.
+0845 | Tập 2 — Ma tuý (tông tím neon)
+0846 | VŨ HẠ LAM — nữ, 29 tuổi, cao, gầy, dáng sân khấu. Tóc dài nhuộm nâu khói, thường buộc búi lộn xộn khi ở nhà. Khuôn mặt thanh, gò má cao, mắt một mí. Hai trạng thái phải vẽ khác hẳn nhau: trên sân khấu — trang điểm kỹ, trang phục biểu diễn lấp lánh, ánh đèn tím hồng; ở nhà — áo hoodie rộng, chân trần, quầng mắt thâm, tóc bết, ngồi co người trong phòng thu tối. Tay trái luôn đeo một sợi dây da mảnh, dùng làm chi tiết nhận dạng khi mặt bị che.
+0847 | Bối cảnh: nổi lên từ một bản ballad viral bốn năm trước, từ đó chưa vượt được chính mình. Sợ bị quên lãng hơn mọi thứ khác.
+0848 | Lưu ý bắt buộc: không lấy đặc điểm nhận dạng của bất kỳ ca sĩ Việt Nam có thật nào.
+0849 | KIÊN — nam, 33 tuổi, người tầm thước, ăn mặc tối giản đắt tiền: áo đen trơn, đồng hồ, tai nghe vắt cổ. Tóc để dài chấm tai, râu quai nón tỉa gọn. Thần thái thoải mái, luôn ngả người ra sau — người đưa ra lời mời mà không bao giờ tự tay làm gì.
+0850 | Tập 3 — Mại dâm (tông hồng tím lạnh)
+0851 | Lưu ý cho toàn tập: mọi nhân vật đều mặc kín đáo trong mọi khung hình. Không tạo ảnh gợi dục dưới bất kỳ hình thức nào — sức nặng của tập này nằm ở gương mặt và ở cánh cửa đóng, không nằm ở cơ thể.
+0852 | DIỆU — nữ, 19 tuổi, dáng nhỏ, cao khoảng 1m55. Tóc đen dài buộc đuôi ngựa ở nửa đầu truyện. Mặt tròn, da còn sạm nắng miền biển, không trang điểm. Áo sơ mi trắng đồng phục, quần vải, ba lô vải bạc. Chuyển biến phải thấy rõ qua ba giai đoạn: giai đoạn đầu — tóc buộc, mặt mộc, hai tay ôm cặp trước ngực; giai đoạn giữa — tóc xoã, trang điểm đậm dần, ánh mắt tránh né; giai đoạn cuối, trên xe khách về quê — tóc buộc lại như cũ nhưng mặt hốc hác, mắt nhìn xa.
+0853 | Bối cảnh: sinh viên năm nhất từ một xã ven biển miền Trung, người đầu tiên trong họ đi học xa, không dám kể chuyện xấu về mình với gia đình.
+0854 | GIA HUY — nam, 24 tuổi, cao ráo, chăm chút ngoại hình. Tóc undercut vuốt gọn, da trắng, mặt sáng. Áo sơ mi lụa, giày da, đồng hồ, chìa khoá ô tô trong tay. Thần thái: luôn diễn cho người khác xem — cười to, giơ tay, chiếm giữa khung hình. Chi tiết quan trọng nhất của nhân vật: khi không còn ai nhìn, nụ cười tắt hẳn, mắt trống rỗng. Hai biểu cảm này phải vẽ ở cùng một góc mặt để người đọc thấy sự đối lập.
+0855 | CHỊ NGA — nữ, 36 tuổi, dáng đầy đặn, đi đứng nhanh nhẹn. Tóc uốn xoăn nhuộm nâu đỏ, trang điểm kỹ. Áo sơ mi hoa, quần âu, nhiều nhẫn vàng, luôn cầm một cuốn sổ bìa da và điện thoại. Thần thái: cười hiền, giọng ngọt, gọi mọi người là "em gái" — sự ngọt ngào ấy phải giữ nguyên ở mọi khung hình cho đến khung công an vào quán, nơi nó biến mất hoàn toàn trong một nhịp.
+0856 | HƯƠNG — nữ, khoảng 30 tuổi, mắt mệt, trang điểm đậm che quầng thâm. Vẽ cạnh gương cùng Diệu, hai khuôn mặt gần như chồng lên nhau — Hương là hình ảnh Diệu sau bảy năm nếu không ai kéo cô ra.
+0857 | Tập 4 — Tín dụng đen (tông vàng nghệ bẩn, sắt gỉ)
+0858 | SÁU THẸO — nam, 41 tuổi, người to ngang, bụng phệ, tay thô. Đầu cắt cua, vết sẹo dài chạy dọc gò má trái — chi tiết nhận dạng chính. Áo sơ mi mở ba cúc, dây chuyền vàng bản to, quần tây, dép lê, tăm trong miệng. Thần thái: cười to, nói lớn, gác chân lên bàn, vỗ vai con nợ như bạn thân. Điều đáng sợ nằm ở chỗ nhân vật này gần như không bao giờ hết vui vẻ — kể cả khi ra lệnh siết nợ.
+0859 | Bối cảnh: chủ tiệm cầm đồ "Phát Tài", tự coi việc mình làm là một cái nghề chứ không phải tội.
+0860 | THẮNG — nam, 24 tuổi, gầy, cao, xăm nửa cánh tay. Tóc nhuộm vàng đã phai chân, mũ lưỡi trai đội ngược. Băng quấn cổ tay — chi tiết nhận dạng. Thần thái: cố tỏ ra hung dữ nhưng mắt né tránh, nhất là ở khung đối diện ông Tám. Chính là hình ảnh Tuấn ở tập 1 sau vài năm.
+0861 | ÔNG TÁM — nam, 52 tuổi, nhỏ người, lưng hơi còng, da đen sạm. Tóc muối tiêu thưa. Áo sơ mi cũ xắn tay, quần tây bạc, tạp dề quấn ngang hông. Thần thái: khép nép, hay chắp tay, cúi đầu. Ở khung cuối tập, khi mở lại quán, lưng thẳng hơn một chút.
+0862 | CON GÁI ÔNG TÁM — nữ, 17–18 tuổi, học sinh lớp 12. Tóc buộc gọn, đồng phục áo dài trắng hoặc áo sơ mi trắng. Đeo kính. Thần thái: ban đầu co ro ôm cặp trong góc nhà; ở khung bước ngoặt, ngồi thẳng, đưa điện thoại cho bố — nhân vật này là người thay đổi cục diện cả tập, nên khung đó cần vẽ trang trọng.
+0863 | Tập 5 — Mê tín dị đoan (tông cam khói nhang, đen)
+0864 | CẬU VĨNH — nam, 38 tuổi, dáng cao gầy, ngón tay dài. Tóc dài buộc sau gáy, râu cằm tỉa nhọn. Mặt hẹp, mắt sắc. Hai lớp hình ảnh phải tách bạch: khi "hành lễ" — áo dài the đen hoặc đỏ, ngồi trên bục cao, mắt nhắm hờ, khói nhang dày, ánh đỏ hắt từ dưới lên; khi ở phòng sau — áo phông thường, ngồi trước máy tính và bảng trắng, mắt tỉnh táo hoàn toàn, biểu cảm của một người bán hàng. Sự chênh lệch giữa hai lớp này là toàn bộ thông điệp của tập.
+0865 | Bối cảnh: trước làm đa cấp, sau chuyển sang "hành nghề tâm linh". Không tin điều gì mình nói — Vĩnh không bói, Vĩnh đọc người.
+0866 | BÀ LIÊN — nữ, 55 tuổi, người đậm, phúc hậu. Tóc uốn ngắn nhuộm đen, vòng vàng ở cổ tay, hoa tai vàng (sẽ biến mất dần qua các khung — dùng làm thước đo số tiền đã mất). Áo bà ba hoặc áo sơ mi hoa, quần lụa. Thần thái: lo âu, hay chắp tay, mắt đỏ. Không vẽ bà như người ngốc nghếch — đây là một người mẹ đang sợ mất con.
+0867 | ÔNG HOÀ — nam, khoảng 58 tuổi, tóc bạc hai bên, áo sơ mi giản dị. Thần thái bực bội, hay khoanh tay, nhưng ở khung cuối thì mềm lại.
+0868 | TRUNG — nam, 24 tuổi, kỹ thuật viên. Tóc ngắn gọn, áo thun có cổ, đeo ba lô laptop. Thần thái điềm tĩnh — điểm mấu chốt là cậu không bao giờ tranh cãi hay chế giễu mẹ, nên mọi khung có Trung và bà Liên phải vẽ cậu ngồi ngang tầm mắt mẹ, không đứng cao hơn.
+0869 | Tập 6 — Lạm dụng rượu bia (tông nâu hổ phách chuyển xanh xám)
+0870 | Lưu ý cho toàn tập: không tạo ảnh hành vi đánh đập, không vẽ thương tích, không vẽ hiện trường tai nạn. Chỉ vẽ bóng đổ trên tường, đồ vật rơi, gương mặt trẻ em, mặt đường ướt.
+0871 | ÔNG HOÀNG — nam, 47 tuổi, người chắc, tay to sần vì nghề cơ khí. Tóc đen lốm đốm bạc, mặt vuông, mũi đỏ, da sạm. Áo sơ mi bảo hộ bạc màu xắn tay, quần vải, dép nhựa. Ba trạng thái phải vẽ khác hẳn nhau: khi tỉnh — mắt nhìn xuống, vai rụt, lóng ngóng, gần như hiền; khi say — mắt đỏ ngầu, miệng méo, dáng xiêu vẹo, bóng đổ dài trên tường; sau đêm mưa — mắt tỉnh hoàn toàn lần đầu tiên, tóc bạc hẳn, ngồi bệt ôm đầu. Ở trại giam: áo phạm nhân, cúi viết thư.
+0872 | Bối cảnh: uống từ năm 20 tuổi, hai mươi bảy năm sau không có bữa tối nào không rượu. Không nhớ mình đã nói gì khi say.
+0873 | BÀ THUÝ — nữ, 44 tuổi, gầy, dáng nhỏ. Tóc búi thấp, vài sợi bạc. Áo sơ mi cũ, quần vải, tạp dề. Thần thái: nhẫn nhịn, động tác nhanh và lặng — nhân vật này gần như luôn được vẽ trong tư thế đang dọn dẹp: lau sàn, nhặt mảnh vỡ, hâm lại thức ăn. Đó là cách kể rằng bà đã làm việc này rất nhiều năm.
+0874 | MINH — nam, 15 tuổi, học lớp 9. Cao lêu nghêu, gầy, vai xuôi. Tóc đen hơi dài che trán. Đồng phục học sinh, cổ áo hơi nhàu. Chi tiết nhận dạng: hai bàn tay nắm chặt, và quầng thâm dưới mắt ngày càng rõ qua các trang. Thần thái: mím môi, không khóc, luôn đứng chắn trước em gái. Khung quan trọng nhất của nhân vật là khung trả lời cô giáo "không có gì ạ" — bố cục phải giống hệt khung mẹ cậu nói cùng câu đó ở trang trước.
+0875 | HÀ — nữ, 11 tuổi, nhỏ nhắn, tóc tết hai bên. Áo thun, quần đùi ở nhà. Thần thái: hay nép sau lưng anh, ôm gối, đeo tai nghe không cắm vào đâu cả. Không vẽ Hà khóc to — chỉ vẽ Hà im lặng, điều đó nặng hơn.
+0876 | NGỌC — nữ, 17 tuổi, học sinh lớp 12. Áo dài trắng hoặc áo sơ mi đồng phục, áo mưa mỏng trùm ngoài, tóc buộc đuôi ngựa. Đi xe đạp, cặp sách để trong giỏ trước. Chỉ xuất hiện trong ba khung, và tất cả đều là khung bình thường, tươi sáng: đạp xe dưới đèn đường vàng, một tay nhắn tin cho mẹ, cười. Đây là lựa chọn có chủ ý — người đọc phải kịp thích nhân vật này trước khi trang trắng xuất hiện.
+0877 | Gợi ý cấu trúc prompt
+0878 | Ghép theo thứ tự: phong cách → nhân vật → trang phục → hành động, biểu cảm → bối cảnh → ánh sáng, tông màu → góc khung.
+0879 | Ví dụ cho khung mở đầu Tập 1:
+0880 | Vietnamese comic book style, clean line art, flat colors with soft shading. A 22-year-old Vietnamese man, lean and sun-tanned, short self-cut black hair, dark circles under his eyes, wearing a faded t-shirt and worn jeans, sitting on the floor of a crowded provincial hospital corridor holding a stack of papers, looking down. Morning light through a window, muted palette with deep wine-red accents. Wide shot.
+0881 | Mẹo giữ nhân vật nhất quán: tạo trước cho mỗi nhân vật một ảnh chân dung chuẩn (nửa người, nền trơn, ánh sáng đều), rồi dùng ảnh đó làm ảnh tham chiếu cho mọi khung sau. Cách này hiệu quả hơn nhiều so với việc mô tả lại bằng chữ ở từng khung.

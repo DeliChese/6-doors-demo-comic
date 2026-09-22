@@ -1,0 +1,15 @@
+Xử lý một lô gồm HAI trang artwork đã duyệt. Trước khi chỉnh, ánh xạ rõ: ảnh đầu vào 1 ↔ mã page 1 ↔ bảng chữ 1; ảnh đầu vào 2 ↔ mã page 2 ↔ bảng chữ 2. Tuyệt đối không tráo thoại, không gộp thành một ảnh spread/contact sheet. Giữ cùng kiểu balloon, font và tỷ lệ cỡ chữ giữa hai trang có cùng kích thước.
+
+Tạo HAI đầu ra độc lập. Nếu công cụ chỉ hỗ trợ một đầu ra/lượt, chạy hai lượt tuần tự theo cùng bảng quy chuẩn. Một lệnh giao việc không bắt buộc một lần gọi model. Kiểm từng trang, không dùng trang 1 đạt để kết luận trang 2 đạt.
+
+NHIỆM VỤ: Thêm balloon, thoại và SFX đã chọn lên artwork được duyệt, tạo bản có chữ để kiểm. Đây là chỉnh ảnh có sẵn.
+
+ĐẦU VÀO bắt buộc: ảnh trang thực sự đính kèm + mã page/phiên bản + bảng chữ đúng page + bản đồ vùng chữ/vùng bảo vệ nếu có. Nếu chưa có map, xem ảnh và lập placement phù hợp trước khi thêm chữ. Nếu thiếu ảnh hoặc không xác định được bảng nào khớp, báo đúng phần thiếu. Không tạo lại artwork từ mô tả.
+
+GIỮ NGUYÊN: kích thước/tỉ lệ, bố cục panel, gutter, nhân vật, nét mặt, tóc, kính, tay, outfit, ánh sáng, màu và background ngoài vùng lettering. Không “cải thiện” artwork. Dùng bản sao, giữ file nguồn. Nếu công cụ có mask, chỉ sửa vùng balloon/đuôi/SFX/chữ trong cảnh được phép. Nếu không thể bảo toàn các vùng còn lại, báo giới hạn và đề xuất lớp chữ riêng.
+
+CHỮ: chép đúng nội dung hiển thị trong bảng được chọn, gồm dấu tiếng Việt và dấu câu. Không render ID, tên người nói, ghi chú diễn xuất, nguồn trích hoặc hướng dẫn. Ngắt dòng được phép, tóm tắt/thêm/bớt chữ không được phép. Thoại có đuôi đúng nhân vật; SFX không là thoại; chữ khắc/bảng chiếu bám bề mặt. Chỉ SFX đã được chọn rõ mới render. Trang không có SFX được chọn thì không thêm.
+
+BỐ CỤC: đọc trái sang phải và trên xuống dưới. Không che mặt, kính, bàn tay, biểu tượng cửa, hành động chính. Không đủ chỗ thì chia balloon tại ranh giới câu, giữ đầy đủ và đúng thứ tự chữ; nếu vẫn không đủ, báo xung đột thay vì thu chữ tới mức không đọc được hoặc vẽ lại nhân vật.
+
+ĐẦU RA: ảnh có chữ phiên bản mới, cùng tỉ lệ và kích thước đầu vào nếu công cụ hỗ trợ. Nếu kích thước bị đổi, nêu rõ; không coi là đạt bảo toàn. Kèm danh sách ID đã đặt, ID bỏ theo chỉ định, điểm chưa chắc. Trả bản ứng viên, không tự ghi “đã duyệt”. So chữ với bảng và so artwork trước–sau; tự kiểm không thay quyết định người dùng.

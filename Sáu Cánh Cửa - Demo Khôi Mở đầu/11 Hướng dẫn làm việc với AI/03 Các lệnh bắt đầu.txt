@@ -1,0 +1,14 @@
+LỆNH 1 — CHUẨN HÓA KHÔI
+Đọc bộ dự án Demo Khôi v0.1 và chỉ dẫn cho AI. Đây là sheet Khôi gốc mình đính kèm. Đối chiếu canon văn bản với ảnh; điền nhận diện, kiểm kê, giữ/sửa/thiếu. Giữ mặt và đặc điểm được chọn, đề xuất thay nhận diện trường thật nếu có. Chưa tạo cả loạt asset. Nêu đúng những lựa chọn chưa chốt có ảnh hưởng đến trang A.
+
+LỆNH 2 — TẠO MỘT TRANG
+Dùng prompt trang A trong 09 cùng reference mình đính kèm để tạo một trang tranh không chữ. Mình đã chọn outfit trên reference này cho demo. Chỉ xuất ứng viên; kiểm đúng panel và continuity, ghi nhật ký. Không tự tạo thêm các trang khác.
+
+LỆNH 3 — THÊM CHỮ VÀO MỘT TRANG
+Trang A đính kèm đã được mình duyệt tranh. Dùng lệnh có sẵn Demo A trong 10 để thêm balloon và toàn bộ chữ nguồn lên bản copy. Giữ artwork gốc, so chữ và so tranh trước–sau; trả bản có chữ để mình kiểm.
+
+LỆNH 4 — THÊM CHỮ VÀO HAI TRANG
+Hai ảnh đính kèm đã được mình duyệt tranh. Ảnh 1 là Demo A; ảnh 2 là Demo B. Dùng bảng chữ tương ứng và prompt hai trang trong 10. Tạo hai output riêng, không ghép trang. Giữ cùng quy chuẩn chữ. Demo B chỉ có chữ khắc, không thêm thoại hoặc SFX không có trong nguồn.
+
+LỆNH 5 — TEST SFX
+Trang Demo C đính kèm đã được mình duyệt tranh. Thêm đúng thoại bảng C; lần này mình chọn cả SFX đề xuất C03 “CỘP…”. Chỉ thêm chữ trên bản copy, không đổi nhân vật hoặc ánh sáng.

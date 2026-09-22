@@ -1,0 +1,18 @@
+Tạo đúng MỘT ảnh trang comic manhwa màu bán hiện thực theo blueprint bên dưới. Đọc trái sang phải, trên xuống dưới. Nhân vật Khôi phải lấy từ ảnh nhận diện được đính kèm, cùng khuôn mặt, tóc, kính tròn, tỷ lệ cao gầy, outfit và ba lô đã chọn. Không lấy nhân vật có trong reference bối cảnh làm Khôi. Không tự vẽ logo hoặc biển tên trường thật. Giữ reference bối cảnh và các mốc không gian xuyên panel. Chưa render chữ, balloon, SFX hoặc chữ giả; chừa vùng đặt chữ như blueprint. Không làm thành contact sheet, bìa truyện hay dải cuộn webtoon.
+
+INPUT: ảnh 1 = Khôi canon; ảnh 2 = outfit nếu tách riêng; ảnh tiếp theo = bối cảnh liên quan. Chỉ dùng các ảnh được đính kèm và nêu đúng vai trò; nếu không có ảnh outfit riêng, dùng outfit đã được chọn trên sheet. Nếu thiếu nhận diện Khôi hoặc có hai outfit chưa chọn, báo thiếu chính xác trước generation. Không coi tên đường dẫn là đã được xem ảnh.
+
+# Demo B Sảnh Sáu Cánh Cửa
+
+Nguồn: MD T05 K01–K02, đoạn 73–77. Kịch bản nêu trang đôi. Bản mặc định demo là chuyển thể bố cục sang trang dọc 2:3 để test một ảnh; không tuyên bố đây là layout canon.
+
+Nền splash toàn trang: sảnh tròn, trần cao, sàn đá đen bóng, đúng sáu cửa gỗ cách đều, mỗi cửa đúng ánh sáng và biểu tượng. Khôi bé ở chính giữa. Dùng góc cao và ống kính rộng phù hợp để nhận rõ sáu cửa; nếu hình quá rối, sửa bố cục, không bóp không gian thành một dãy cửa thẳng.
+
+Inset cuối: x=56%, y=73%, w=38%, h=20%, viền rõ. Trung cận Khôi ngửa cổ nhìn lên với một phần vòm tường. Vòm phía trên inset có vùng dành cho hai dòng chữ khắc. Không che cửa trong nền; điều chỉnh vị trí inset theo tranh thực tế, ghi lại.
+
+Hai dòng chữ khắc là chữ trong không gian, không là thoại hoặc caption. Vòng artwork để vùng đá không chữ, vòng lettering thêm phối cảnh. Không thêm balloon Khôi vì nguồn T05 không có thoại Khôi. Không có SFX ghi thành chữ trong nguồn trang này.
+
+Bản giữ trang đôi: canvas đề xuất 4:3 (3200 × 2400 px), giữ panorama và một inset cuối; chừa vùng gáy giữa không đặt mặt/thoại. Xuất một spread, không gọi đó là hai trang độc lập nếu chưa chia trang. Chỉ chọn một biến thể cho một lượt test.
+
+
+Kiểm trước khi trả: đúng số panel, đúng hành động, không đổi nhận diện, không tự thêm chữ. Trả một ảnh ứng viên; chưa tự ghi là đã duyệt.
