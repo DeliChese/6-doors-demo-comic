@@ -11,9 +11,9 @@ KHÔNG dùng style/light để tái thiết kế geometry.
 SPATIAL BIBLE:
 - FRONT = bảng + khu giảng viên.
 - BACK = các hàng sinh viên cao dần.
-- SIDE-STAIR = cầu thang đi lên ở đúng một cạnh vật lý theo ảnh nguồn.
-- WINDOW-SIDE = hệ cửa sổ chính ở đúng cạnh vật lý theo ảnh nguồn.
-- DOOR = một cửa ra vào landmark duy nhất, đúng tỷ lệ người.
+- RIGHT-STAIR = khi đứng FRONT nhìn BACK, cầu thang quan sát được ở mép phải khối ghế theo ảnh nguồn.
+- WINDOW-ZONES = giữ các cụm cửa sổ/cửa kính thực sự quan sát được; không ép thành một WINDOW-SIDE duy nhất.
+- ENTRY-DOOR = chưa xác nhận rõ trong geometry anchor hiện tại; KHÔNG bắt buộc vẽ và không tự phát minh.
 - KHOI-SEAT = hàng ghế đầu ngoài cùng.
 
 Kiến trúc bắt buộc:
@@ -21,7 +21,7 @@ Kiến trúc bắt buộc:
 - mỗi hàng sau cao dần;
 - mép bàn và bậc tạo perspective diagonal hợp lý;
 - KHÔNG auditorium vòng cung;
-- KHÔNG đổi vị trí vật lý cầu thang/cửa/cửa sổ giữa panel;
+- KHÔNG đổi topology cầu thang/window-zones giữa panel;
 - khi camera đảo chiều, trái/phải trên ảnh có thể đảo theo phép chiếu nhưng topology của phòng phải giữ nguyên;
 - A1 và A3 phải rõ ràng là cùng một bộ bàn ghế, cùng spacing và cùng phòng.
 
@@ -45,14 +45,14 @@ A4: Thu Anh LẮNG NGHE / phản hồi.
 A1:
 - establishing nhìn về FRONT;
 - Khôi ở hàng đầu ngoài cùng;
-- bộ bàn ghế, cửa, cửa sổ, cầu thang phải là geometry sẽ tiếp tục ở A3;
+- bộ bàn ghế, bậc sàn, window-zones và cầu thang phải là geometry sẽ tiếp tục ở A3; không bắt buộc thêm cửa ra vào;
 - ánh chiều muộn vàng ấm giống lighting anchor.
 
 A3 — RÀNG BUỘC CỨNG:
 - camera ở phía FRONT, nhìn ngược về Khôi và BACK;
 - Khôi foreground/midground chính;
 - phía sau Khôi là các hàng bàn THẲNG nâng cao dần và sinh viên;
-- giữ SIDE-STAIR ở đúng cạnh vật lý theo geometry anchor;
+- giữ RIGHT-STAIR ở đúng cạnh vật lý theo geometry anchor;
 - KHÔNG thấy bảng;
 - KHÔNG thấy bục/bàn giảng viên;
 - KHÔNG thấy Thu Anh;
@@ -84,8 +84,8 @@ KHÔNG render chữ, balloon, SFX, watermark hoặc chữ giả.
 QA TRƯỚC KHI TRẢ:
 1. Cùng một geometry A1/A3.
 2. Hàng bàn thẳng + nâng bậc, không vòng cung.
-3. Cầu thang/cửa/cửa sổ không teleport.
-4. Cửa đúng tỷ lệ người.
+3. Cầu thang/window-zones không teleport.
+4. Không tự phát minh cửa ra vào; nếu có reference bổ sung cho cửa thì mới kiểm tỷ lệ/vị trí.
 5. A1 Khôi giơ tay; A3 Khôi hạ tay nói.
 6. A3 không thấy FRONT landmarks.
 7. Crowd không clone, không reaction turn vô cớ.
@@ -96,3 +96,8 @@ QA TRƯỚC KHI TRẢ:
 12. Không logo/trường thật.
 
 Nếu geometry không thể giữ nhất quán, ưu tiên geometry anchor hơn việc làm panel “đẹp”. Trả một ảnh ứng viên `Đang thử`, chưa tự ghi Đã duyệt.
+
+
+HALLUCINATION GUARD:
+- Chỉ khóa landmark nhìn thấy trong reference hoặc được spec/source xác nhận.
+- Phần ngoài khung = KHÔNG QUAN SÁT ĐƯỢC, không phải chỗ để tự bịa kiến trúc.
