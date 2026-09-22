@@ -1,15 +1,15 @@
-# Giữ sửa thiếu
+# Giữ sửa thiếu — Khôi
 
-| Phần | Giữ | Sửa nếu có | Chưa khóa / cần theo dõi |
+| Phần | Giữ | Sửa nếu có | Còn mở |
 |---|---|---|---|
-| Mặt và tóc | Dáng mặt thon; tóc nâu đen hơi gợn, mái chia mảng như sheet | Generation làm lệch tuổi, tóc quá ngắn/dài hoặc đổi cấu trúc | Crop nào được chọn làm reference duyệt |
-| Kính | Gọng tròn-bầu dục mảnh | Gọng thành vuông, dày quá mức, mất kính | Màu chính xác sau duyệt |
-| Outfit | Sơ mi trắng ngắn tay + cà vạt đen + quần tối đang quan sát trên sheet | Logo trường thật, đổi form đồng phục giữa panel | Chờ người dùng khóa outfit M01 |
-| Giày | Sneaker trắng trên sheet | Đổi giày giữa panel | Chờ khóa outfit M01 |
-| Ba lô | Form đen nhiều ngăn đang quan sát trên sheet | Dây đeo/số ngăn nhảy giữa panel | Chờ nâng thành reference duyệt |
-| Sách | BLHS dày theo canon văn bản | Chữ bìa sai, biến thành sách khác | Bìa chuẩn nếu cần cận cảnh |
-| Tỷ lệ | Cao gầy | Cơ bắp hóa, thấp đi hoặc trẻ hóa | Có thể đo tương đối từ crop toàn thân |
-| Trường | Không nhận diện trường thật | Logo/trường thật xuất hiện | Dùng môi trường đại học hư cấu/không tên |
-| Staging Demo A | Giữ một vị trí nhất quán sau khi khóa | A1/A3 khác chỗ ngồi | Chờ quyết định bàn cuối / hàng đầu ngoài cùng |
+| Mặt và tóc | Dáng mặt thon; tóc nâu đen hơi gợn, mái chia mảng như sheet | Lệch tuổi, tóc quá ngắn/dài, đổi cấu trúc | Chọn crop/reference canon hình cuối |
+| Kính | Gọng tròn-bầu dục mảnh theo sheet; tối thiểu gọng tròn theo canon nguồn | Gọng vuông/dày, mất kính | Màu chi tiết khi duyệt canon hình |
+| Outfit Demo A/M01 | **Sơ mi trắng ngắn tay + cà vạt đen + quần tối + sneaker trắng** | Logo trường thật, đổi form/màu giữa panel | Không còn chờ khóa outfit Demo A |
+| Ba lô | Form đen nhiều ngăn theo sheet | Dây/số ngăn nhảy; đeo trên vai khi đang ngồi Demo A | Canon hình chi tiết của ba lô chưa duyệt |
+| Đồng hồ tay trái | Giữ xuyên panel khi nhìn thấy | Tự biến mất/đổi tay | Kiểu đồng hồ chi tiết chưa cần khóa nếu không cận |
+| Sách | BLHS dày theo canon văn bản | Bịa chữ bìa hoặc đổi sách | Reference bìa nếu có cận |
+| Tỷ lệ | Cao gầy | Cơ bắp hóa, thấp đi, trẻ hóa | Đo tương đối khi crop toàn thân được nhập |
+| Trường | Không nhận diện trường thật | Logo/tên trường thật xuất hiện | — |
+| Staging Demo A | **Hàng ghế đầu ngoài cùng** | A1/A3 đổi chỗ ngồi | Không còn chờ quyết định bàn cuối/hàng đầu |
 
-Những dòng lấy từ sheet là **QUAN SÁT TỪ ẢNH** cho tới khi người dùng ghi nhận bản nào là reference đã duyệt.
+Các chi tiết từ sheet vẫn là **QUAN SÁT TỪ ẢNH** nếu người dùng chưa duyệt làm canon hình; riêng outfit và staging Demo A đã được khóa production rõ ràng.
