@@ -6,10 +6,10 @@
 | Nguồn kịch bản | Đã nhập | Giữ nguyên, cập nhật có phiên bản |
 | Khôi | Hoạt động, Asset Package Cấp A; đã có sheet gốc | Tiếp tục chuẩn hóa crop nhận diện xuyên suốt |
 | Thu Anh | Vai phụ Demo A; đã có sheet người dùng cung cấp | Giữ continuity A2/A4; chưa nâng thành Cấp A |
-| Bối cảnh Giảng đường | Đã có ảnh nguồn | Dùng làm background anchor cho Demo A |
+| Bối cảnh Giảng đường | Đã có ảnh nguồn | GEOMETRY ANCHOR đã audit; không suy landmark ngoài khung |
 | Những nhân vật khác | Chưa kích hoạt | Không tự mở package |
 | 8 shot continuity | Đã soạn spec, chưa có ảnh | Tạo theo nhu cầu kiểm thử |
-| Demo A | **Đang chỉnh sửa**; outfit và staging đã khóa, artwork thử còn lỗi camera/continuity | Tạo lại ứng viên không chữ theo spec v0.3 |
+| Demo A | **Đang chỉnh sửa**; outfit/staging/geometry/lighting rules đã khóa và audit | Tạo lại ứng viên không chữ theo spec hiện hành sau audit |
 | Page B | Có layout và prompt, chưa có tranh | Chờ sau khi Demo A qua cổng |
 | Page C | Bài thử chuyển cảnh tùy chọn | Dùng nếu cần test bước chân và SFX |
 | 1–2 trang tranh duyệt đầu vào | Chưa có bản đạt duyệt | Chỉ chuyển sang lettering sau khi người dùng duyệt tranh |
@@ -28,6 +28,6 @@
 
 ## QA artwork thử gần nhất
 
-Bản thử chưa được duyệt. Các lỗi được ghi nhận gồm: trục nhìn A3 chưa hợp lý; camera A3 cho thấy sai phần không gian; ba lô/đồng hồ thiếu continuity; A4 chiếm diện tích quá lớn và lặp góc Thu Anh. Những lỗi này là blocker trước lettering.
+Bản thử chưa được duyệt. Các lỗi đã log gồm: trục nhìn A3; geometry A1/A3; hàng bàn vòng cung; crowd clone/reaction turn; ba lô/đồng hồ; landmark teleport; A4 quá lớn/lặp góc Thu Anh. Audit cuối bổ sung rule: phần kiến trúc không quan sát được không được tự phát minh. Những lỗi này là blocker trước lettering.
 
 Không đặt ảnh vào mục Đã duyệt chỉ vì AI tự đánh giá là đẹp.
