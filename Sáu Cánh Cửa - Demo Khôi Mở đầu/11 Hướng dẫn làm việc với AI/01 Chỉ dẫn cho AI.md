@@ -55,3 +55,18 @@ Ghi prompt, reference thực tế, output, lỗi, cách sửa và quyết địn
 
 ## Quy tắc chống hallucination không gian
 Nếu reference chỉ cho một góc của phòng, AI không được tự coi phần không thấy là canon. Khi page không cần một landmark chưa quan sát, ưu tiên **không hiển thị** hơn là phát minh. Nếu landmark bắt buộc cho hành động, cần reference/quyết định staging hoặc ghi rõ đó là ĐỀ XUẤT.
+
+
+## Production gate mới — bắt buộc
+
+Trước mọi full-page render, đọc:
+- `02 Quy chuẩn dự án/06 Quy chuẩn dựng hình và đạo diễn panel Manhwa.md`;
+- `09 Thiết kế trang và prompt/00 Pipeline tiền kỳ một trang Manhwa.md`;
+- `12 Kiểm thử và duyệt/04 Checklist Preflight trước Full Render.md`.
+
+Không được đi thẳng từ “page spec + prompt” sang full render nếu page có nhiều panel/camera/không gian.
+
+Thứ tự bắt buộc:
+**SOURCE LOCK → SCENE MODEL → PAGE THUMBNAIL → BLOCKING → STRUCTURAL QA → RENDER → ART QA.**
+
+Chỉ khi preflight ghi **PASS TO RENDER** mới full-render. Nếu cùng một loại lỗi structure lặp 3 lần, coi là **pipeline failure** và dừng generation để sửa spec/reference/camera map.
