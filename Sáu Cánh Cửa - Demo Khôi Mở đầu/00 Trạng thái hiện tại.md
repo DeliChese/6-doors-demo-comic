@@ -28,6 +28,6 @@
 
 ## QA artwork thử gần nhất
 
-Bản thử chưa được duyệt. Các lỗi đã log gồm: trục nhìn A3; geometry A1/A3; hàng bàn vòng cung; crowd clone/reaction turn; ba lô/đồng hồ; landmark teleport; A4 quá lớn/lặp góc Thu Anh. Audit cuối bổ sung rule: phần kiến trúc không quan sát được không được tự phát minh. Những lỗi này là blocker trước lettering.
+Bản thử chưa được duyệt. Các lỗi đã log gồm: trục nhìn A3; geometry A1/A3; hàng bàn vòng cung; crowd clone/reaction turn; ba lô/đồng hồ; landmark teleport; A4 quá lớn/lặp góc Thu Anh. Audit cuối bổ sung rule: phần kiến trúc không quan sát được không được tự phát minh. Bản thử mới nhất tiếp tục FAIL ở phép chiếu 180°: world RIGHT-STAIR bị giữ cùng screen-side giữa A1/A3; đã bổ sung world-space projection rule. Những lỗi này là blocker trước lettering.
 
 Không đặt ảnh vào mục Đã duyệt chỉ vì AI tự đánh giá là đẹp.
