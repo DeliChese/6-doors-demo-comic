@@ -1,3 +1,12 @@
 # Sheet Khôi
 
-Đặt ảnh sheet gốc đúng của Khôi tại đây. Tên đề nghị: `Khôi - bảng thiết kế gốc.png`. Hiện chưa có ảnh đã xác minh. Ghi đường dẫn bản gốc nếu có bản lưu ở 01 Nguồn gốc; không tạo hai bản canon cạnh tranh.
+Sheet gốc Khôi đã được nhập tại thư mục này với tên:
+`Khôi - bảng thiết kế gốc.png`
+
+Đây là **nguồn hình chính** để truy ngược các crop nhận diện, outfit, kính, ba lô và biểu cảm. Việc file tồn tại không tự đồng nghĩa mọi chi tiết trên sheet đã được người dùng duyệt làm canon.
+
+Quy tắc:
+- không tạo sheet cạnh tranh nếu chưa có yêu cầu thay thế;
+- crop phải ghi nguồn về sheet này;
+- nếu một generation khác mặt/tóc/outfit so với sheet/reference đã chọn, generation là phần cần sửa chứ không dùng generation để “cập nhật ngược” canon;
+- nếu cần thay sheet, lập change impact trước.
