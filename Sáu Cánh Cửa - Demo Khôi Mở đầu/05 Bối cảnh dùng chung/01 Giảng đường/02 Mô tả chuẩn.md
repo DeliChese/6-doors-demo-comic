@@ -1,55 +1,57 @@
 # Giảng đường
 
-Nguồn kịch bản MD T01: giảng đường đại học chiều muộn, nắng xiên qua cửa kính, bảng chiếu ở đầu lớp; nữ giảng viên khoảng 45 tuổi. Quyết định mới của người dùng đã thay staging Khôi từ dãy cuối thành **hàng ghế đầu ngoài cùng** cho Demo A.
+Nguồn kịch bản MD T01: giảng đường đại học chiều muộn, nắng xiên qua cửa kính, bảng chiếu ở đầu lớp. Demo A đã khóa Khôi ở **hàng ghế đầu ngoài cùng**.
 
 ## Reference hình hiện có
 
-Ảnh nguồn giảng đường đã được người dùng đưa vào `01 Ảnh nguồn`. Ảnh này là **GEOMETRY ANCHOR** cho Demo A: dùng để khóa kiến trúc và quan hệ không gian, không chỉ làm gợi ý phong cách.
+`01 Ảnh nguồn/Giảng đường.png` là **GEOMETRY ANCHOR**. Chỉ khóa những gì thực sự quan sát được trong ảnh; phần ngoài khung **không được suy thành canon**.
 
-### Hình học phải giữ
+### Geometry quan sát được và phải giữ
 
-- Giảng đường dạng bậc thang: các hàng sau cao dần so với hàng trước.
-- Bàn học là các dãy **thẳng và song song theo tầng**, không uốn thành vòng cung/amphitheatre.
-- Các mép bàn và bậc sàn tạo hệ đường chéo phối cảnh nhất quán khi đổi camera.
-- Có lối/cầu thang đi lên theo cạnh giảng đường như reference. Khi camera đảo chiều, vị trí biểu kiến trái/phải có thể đổi theo phép chiếu, nhưng **cùng một cầu thang không được tự nhảy sang phía đối diện của phòng**.
-- Khu vực giảng viên ở tầng thấp phía trước; các hàng sinh viên nâng dần về phía sau.
-- Cửa, cửa sổ, bảng, bục/bàn giảng viên và cầu thang phải được hiểu như các landmark của **một phòng duy nhất**. Không tái thiết kế từng panel thành một lớp khác.
-- Kích thước cửa phải hợp tỷ lệ người; không thu nhỏ thành cửa phụ bé bất thường.
+- Giảng đường dạng bậc thang; các hàng sau cao dần.
+- Bàn học là các dãy **thẳng và song song**, không phải auditorium vòng cung.
+- Bậc sàn + mép bàn tạo hệ perspective diagonal nhất quán.
+- Khi nhìn từ FRONT về BACK, cầu thang quan sát được chạy dọc **mép phải của khối ghế** trong reference.
+- Khu giảng viên ở tầng thấp phía FRONT.
+- Reference có **nhiều vùng cửa sổ/cửa kính quan sát được**, không được giản lược thành một “WINDOW-SIDE” duy nhất rồi tự lật trái/phải.
+- Bảng/khu giảng viên/cầu thang/các dãy bàn là landmark đã quan sát được.
 
-## Orientation map bắt buộc trước generation
+### Điều KHÔNG được khóa từ ảnh này
 
-Mỗi page spec dùng giảng đường phải khai báo tối thiểu:
+**Cửa ra vào không được xác nhận rõ như một landmark bắt buộc từ geometry anchor hiện tại.** Nếu một panel không cần cửa, ưu tiên không vẽ cửa thay vì tự phát minh vị trí/kích thước. Nếu về sau cần cửa ra vào rõ, phải có reference hoặc quyết định staging riêng.
 
-1. FRONT = phía bảng/bục giảng viên.
-2. BACK = phía các hàng ghế cao dần.
-3. SIDE-STAIR = cạnh có cầu thang đi lên theo reference.
-4. WINDOW-SIDE = cạnh có hệ cửa sổ chính theo reference.
-5. DOOR = landmark cửa ra vào đã chọn; một vị trí vật lý duy nhất.
-6. KHOI-SEAT = hàng ghế đầu ngoài cùng.
+Nguyên tắc chung: **không quan sát được ≠ được phép bịa cho đầy khung**.
 
-Nếu crop/góc máy làm một landmark không quan sát được, ghi **không quan sát được**; không được tự sinh landmark sang phía còn lại để “lấp chỗ trống”.
+## Spatial map cho Demo A
 
-## Ánh sáng / look anchor cho Demo A
+- FRONT = phía bảng/khu giảng viên.
+- BACK = các hàng ghế cao dần.
+- RIGHT-STAIR (khi đứng FRONT nhìn BACK) = cầu thang ở mép phải khối ghế theo reference.
+- WINDOW-ZONES = giữ các cụm cửa sổ/cửa kính quan sát được theo geometry anchor; không ép thành một bên duy nhất.
+- ENTRY-DOOR = **UNRESOLVED / không bắt buộc hiển thị**.
+- KHOI-SEAT = hàng ghế đầu ngoài cùng.
 
-Người dùng chọn look của các bản thử gần đây làm **STYLE/LIGHTING ANCHOR**, không thay geometry anchor:
+Khi camera đảo A1 ↔ A3, trái/phải trên ảnh có thể đổi theo projection, nhưng topology quan sát được không được teleport.
 
+## Ánh sáng / look anchor
+
+Demo A dùng STYLE/LIGHTING ANCHOR đã được người dùng chọn:
 - chiều muộn ấm;
-- nắng vàng xiên qua cửa sổ;
+- nắng vàng xiên;
 - highlight ấm trên tóc/da/cạnh bàn;
-- bóng đổ mềm nhưng có hướng;
-- nền xanh/xám trung tính của lớp giúp ánh nắng ấm nổi lên;
-- manhwa màu bán hiện thực, sạch, điện ảnh; không chuyển thành 3D render.
+- bóng mềm có hướng;
+- nền xanh/xám trung tính;
+- manhwa màu bán hiện thực, sạch, điện ảnh.
 
-Nguyên tắc: **geometry lấy từ ảnh nguồn giảng đường; tone ánh sáng có thể lấy từ look bản thử được người dùng thích.** Không để style đẹp làm thay đổi kiến trúc.
+Lighting không được tái thiết kế geometry.
 
 ## Quần chúng
 
-- Quần chúng phục vụ scale/depth, không trở thành nhân vật phản ứng nếu kịch bản không yêu cầu.
-- Tránh clone: không đặt hai người gần nhau có cùng tóc + cùng khuôn mặt + cùng pose + cùng silhouette.
-- Cho biến thiên có kiểm soát về giới tính trình bày, kiểu tóc, kính, dáng ngồi và chi tiết mặc đồng phục.
-- Vẫn giữ cùng hệ đồng phục/trường hư cấu; không biến thành nhiều dress code khác nhau.
-- Trong A3, sinh viên phía sau chủ yếu hướng về FRONT; không quay hẳn lại nhìn Khôi nếu không có beat phản ứng trong kịch bản.
+- Phục vụ scale/depth, không tự thành reaction character.
+- Không clone rõ: tránh trùng tóc + mặt + pose + silhouette ở người gần nhau.
+- Có biến thiên tóc/kính/dáng ngồi/giới tính trình bày nhưng cùng hệ đồng phục.
+- A3: phần lớn quần chúng vẫn hướng FRONT; không quay hẳn lại nhìn Khôi nếu kịch bản không có beat đó.
 
 ## Trạng thái
 
-Geometry anchor: đã có nguồn hình và được dùng cho Demo A. Look ánh sáng: đã có hướng người dùng chọn từ bản thử. Chưa coi một artwork page nào là Đã duyệt.
+Geometry source đã có. Lighting direction đã khóa. Chưa có artwork/background Demo A nào được người dùng duyệt.
