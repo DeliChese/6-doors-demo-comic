@@ -90,3 +90,7 @@ Không đạt nếu:
 ## Rule chống hallucination bối cảnh
 
 Chỉ landmark **quan sát được hoặc được source/spec xác nhận** mới được khóa. Chi tiết ngoài khung reference phải ghi `không quan sát được`; không tự hoàn thiện kiến trúc bằng suy đoán.
+
+
+## Rule chống hallucination bối cảnh
+Chỉ landmark **quan sát được hoặc được source/spec xác nhận** mới được khóa. Chi tiết ngoài khung reference phải ghi `không quan sát được`; không tự hoàn thiện kiến trúc bằng suy đoán.
