@@ -1,23 +1,59 @@
-Tạo đúng MỘT ảnh trang comic manhwa màu bán hiện thực theo blueprint bên dưới. Đọc trái sang phải, trên xuống dưới. Nhân vật Khôi phải lấy từ ảnh nhận diện được đính kèm, cùng khuôn mặt, tóc, kính tròn, tỷ lệ cao gầy, outfit và ba lô đã chọn. Giảng viên Thu Anh phải lấy từ reference Thu Anh thật và giữ nhất quán giữa A2/A4. Không lấy nhân vật có trong reference bối cảnh làm Khôi hoặc Thu Anh. Không tự vẽ logo, biển tên trường thật hoặc nhận diện FPT University. Giữ reference bối cảnh và các mốc không gian xuyên panel. Chưa render chữ, balloon, SFX hoặc chữ giả; chừa vùng đặt chữ như blueprint. Không làm thành contact sheet, bìa truyện hay dải cuộn webtoon.
+Tạo đúng MỘT ảnh trang comic manhwa màu bán hiện thực theo blueprint bên dưới. Đọc trái sang phải, trên xuống dưới. Đây là một chuỗi hành động liên tục, không phải bốn portrait độc lập.
+
+Khôi phải lấy từ reference thật: cùng khuôn mặt, tóc, kính tròn, tỷ lệ cao gầy và outfit đã khóa: sơ mi trắng ngắn tay, cà vạt đen, quần tối, sneaker trắng. Vị trí ngồi đã khóa: HÀNG GHẾ ĐẦU NGOÀI CÙNG. Khi ngồi học Khôi KHÔNG đeo ba lô trên vai; đặt ba lô cạnh/chân ghế và giữ đúng vị trí tương đối giữa các panel. Nếu reference/trang đã thể hiện đồng hồ tay trái thì giữ đồng hồ ở các panel thấy rõ cổ tay trái.
+
+Thu Anh phải lấy từ reference thật và giữ nhận diện giữa A2/A4, nhưng A2 và A4 phải có góc máy/pose khác nhau rõ ràng. Không chỉ đổi bàn tay. Không lấy logo, tên hoặc nhận diện FPT University từ sheet Thu Anh vào artwork.
+
+Bối cảnh phải bám ảnh Giảng đường trong repo về cấu trúc, dãy ghế, khoảng cách, cửa và trục không gian. Không làm cửa ra vào nhỏ bất hợp lý. Không lấy nhân vật có sẵn trong reference background làm Khôi hoặc Thu Anh.
+
+NHỊP HÀNH ĐỘNG:
+A1: Thu Anh đang giảng; Khôi ở hàng ghế đầu ngoài cùng bắt đầu GIƠ TAY.
+A2: Thu Anh vẫn đang giảng nhưng nhận thấy Khôi đang giơ tay ngoài khung.
+A3: sau khi được chú ý, Khôi HẠ TAY và BẮT ĐẦU NÓI.
+A4: Thu Anh LẮNG NGHE / phản hồi.
+
+CAMERA A3 — RÀNG BUỘC CỨNG:
+- Camera ở PHÍA TRƯỚC KHÔI, nhìn về phía Khôi và cuối giảng đường.
+- Sau lưng Khôi phải thấy dãy ghế và các sinh viên ngồi trong giảng đường.
+- KHÔNG được thấy bục giảng.
+- KHÔNG được thấy bảng giảng.
+- KHÔNG được thấy Thu Anh ở background.
+- Khôi nhìn về phía Thu Anh NGOÀI KHUNG HÌNH, đúng trục hội thoại.
+- Khôi đã hạ tay; pose nói tự nhiên, không tiếp tục giơ tay.
+- Chừa khoảng âm rõ phía trên/bên cạnh đầu theo hướng nhìn của Khôi cho balloon hội thoại sau này.
+
+CAMERA A4:
+- Panel A4 nhỏ hơn A3.
+- Medium/3⁄4 shot Thu Anh từ một góc khác A2.
+- Thu Anh nhìn trả về phía Khôi ngoài khung, tạo shot/reverse-shot rõ.
+- Có thể hơi nghiêng/cúi người hoặc đổi trọng tâm cơ thể để thể hiện đang nghe.
+- Chừa một vùng balloon ngắn.
+
+BỐ CỤC:
+- A1: trên trái, rộng.
+- A2: trên phải, vừa.
+- A3: dưới trái và là panel chính lớn nhất hàng dưới.
+- A4: dưới phải, nhỏ hơn A3.
+Không cần hai panel dưới bằng nhau.
 
 INPUT:
-- ảnh 1 = Khôi canon / crop nhận diện đã chọn;
-- ảnh 2 = outfit Khôi nếu tách riêng;
+- ảnh 1 = Khôi canon / crop nhận diện;
+- ảnh 2 = outfit/đạo cụ Khôi nếu tách riêng;
 - ảnh 3 = Thu Anh canon / crop nhận diện;
 - ảnh 4 = bối cảnh Giảng đường.
-Nếu thiếu nhận diện Khôi, Thu Anh, bối cảnh hoặc outfit Khôi chưa được chọn, báo thiếu chính xác trước generation. Không coi tên đường dẫn là đã được xem ảnh.
 
-# Demo A Giảng đường
+Không render chữ, balloon, SFX hoặc chữ giả. Không làm contact sheet, bìa hay webtoon cuộn dọc.
 
-Nguồn: MD T01 K01–K04, đoạn 39–46. Loại: trang chuẩn 4 panel, không full bleed. Canvas đích 1600 × 2400 px; thứ tự trên trái → trên phải → dưới trái → dưới phải.
+QA TRƯỚC KHI TRẢ:
+1. Đúng 4 panel và đúng thứ tự hành động.
+2. A1 Khôi đã bắt đầu giơ tay.
+3. A3 Khôi đã hạ tay và đang nói.
+4. A3 là reverse shot phía trước Khôi; chỉ thấy ghế/sinh viên phía sau, không thấy bục giảng.
+5. Khôi và Thu Anh nhìn đúng trục shot/reverse-shot.
+6. Khôi không đeo ba lô; ba lô không nhảy vị trí.
+7. Đồng hồ tay trái không tự biến mất nếu cổ tay quan sát được.
+8. A2/A4 không lặp cùng camera/pose.
+9. A3 lớn hơn A4 và có vùng âm đủ cho balloon.
+10. Không có logo/trường thật hoặc chữ giả.
 
-| Panel | Vùng theo % trang x y w h | Nội dung | Vùng chữ dự kiến |
-|---|---|---|---|
-| A1 | 4 4 45 45.33 | Toàn cảnh giảng đường chiều muộn, nắng xiên, bảng đầu lớp, Khôi tại vị trí ngồi đã khóa | Bảng chiếu, chưa render chữ |
-| A2 | 51 4 45 45.33 | Cận Thu Anh đang giảng; tóc nâu uốn lơi, kính mảnh, blazer nâu be, blouse trắng | Khoảng trên/trái khoảng 40% khung; đặt mặt dưới/phải |
-| A3 | 4 50.67 45 45.33 | Khôi giơ tay nửa chừng tại đúng vị trí A1, ngập ngừng | Góc trên không che tay và kính |
-| A4 | 51 50.67 45 45.33 | Thu Anh phản hồi điềm tĩnh, giữ đúng mặt/tóc/kính/outfit A2 | Góc trên cho câu ngắn |
-
-BLOCKER: vị trí ngồi của Khôi phải được khóa trước generation. Spec cũ = bàn cuối; quyết định người dùng gần đây = hàng ghế đầu ngoài cùng. Không tự chọn hộ nếu repo chưa ghi quyết định cuối.
-
-Người nền chỉ mờ, không hút điểm nhìn. Không tự thêm nhân vật quan trọng mới. Đầu ra là một ảnh trang không chữ/balloon/SFX. Kiểm trước khi trả: đúng số panel, đúng hành động, không đổi nhận diện, không tự thêm chữ. Trả một ảnh ứng viên; chưa tự ghi là đã duyệt.
+Trả một ảnh ứng viên; trạng thái chỉ là Đang thử, chưa tự ghi Đã duyệt.
