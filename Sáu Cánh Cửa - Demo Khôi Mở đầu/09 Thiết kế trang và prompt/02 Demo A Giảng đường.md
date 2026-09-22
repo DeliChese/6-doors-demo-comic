@@ -45,6 +45,19 @@ Style/light **không được phép sửa geometry**.
 
 Khi camera đảo từ A1 sang A3, trái/phải trên hình có thể thay đổi theo góc nhìn; **quan hệ vật lý giữa FRONT/BACK/RIGHT-STAIR/WINDOW-ZONES không được thay đổi; phần ENTRY-DOOR chưa quan sát rõ thì không tự phát minh**.
 
+## Camera projection bắt buộc
+
+Không chỉ giữ topology; phải giữ **world-space → screen-space** đúng khi camera đảo 180°.
+
+| Panel | Camera world-space | RIGHT-STAIR phải xuất hiện | Khôi ghế ngoài sát RIGHT-STAIR |
+|---|---|---|---|
+| A1 | BACK → FRONT | **screen-left** | **screen-left / trái khối ghế**, gần phía cầu thang theo phép chiếu |
+| A3 | FRONT → BACK | **screen-right** | ở mép phải khối ghế, ngay bên trái cầu thang |
+
+Nếu model giữ cầu thang/Khôi ở cùng một bên màn hình trong A1 và A3, coi là **lỗi blocking nghiêm trọng**.
+
+A1 và A3 phải được hiểu như hai camera nhìn cùng một floor plan, không phải hai phòng được dựng độc lập.
+
 ## Nhịp kể
 
 **A1 Thu Anh đang giảng + Khôi giơ tay → A2 Thu Anh nhận ra Khôi → A3 Khôi hạ tay và hỏi → A4 Thu Anh lắng nghe/phản hồi.**
@@ -94,3 +107,10 @@ Chỉ landmark **quan sát được hoặc được source/spec xác nhận** m�
 
 ## Rule chống hallucination bối cảnh
 Chỉ landmark **quan sát được hoặc được source/spec xác nhận** mới được khóa. Chi tiết ngoài khung reference phải ghi `không quan sát được`; không tự hoàn thiện kiến trúc bằng suy đoán.
+
+
+## QA chặn bổ sung — reverse projection
+- A1 camera BACK→FRONT mà RIGHT-STAIR vẫn nằm screen-right: **FAIL**.
+- A3 camera FRONT→BACK mà RIGHT-STAIR không nằm screen-right: **FAIL**.
+- Khôi ghế ngoài sát RIGHT-STAIR nhưng vị trí screen-space không đảo tương ứng giữa A1/A3: **FAIL**.
+- Không được giữ "Khôi bên phải màn hình" chỉ vì A3 cũng bên phải; phải giữ **ghế vật lý** chứ không giữ tọa độ màn hình.
