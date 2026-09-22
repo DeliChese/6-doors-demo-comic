@@ -1,98 +1,111 @@
-# Danh mục đầy đủ
+# Danh mục đầy đủ — sinh từ cây repo hiện hành
 
-Thư mục gốc: Sáu Cánh Cửa - Demo Khôi Mở đầu. Tất cả mục bên dưới đã được tạo; các slot ảnh là thư mục có hướng dẫn, không là ảnh giả.
+Thư mục gốc: `Sáu Cánh Cửa - Demo Khôi Mở đầu`.
+
+> Danh mục này phản ánh **file/thư mục đang tồn tại trên `main` tại thời điểm cập nhật**. Nó không chứng minh trạng thái duyệt của ảnh/asset; trạng thái phải đọc ở `00 Trạng thái hiện tại.md`, sổ duyệt và file canon tương ứng.
 
 - 00 Bắt đầu tại đây.md
+- 00 Danh mục đầy đủ.md
 - 00 Trạng thái hiện tại.md
-- 01 Nguồn gốc/
+- 01 Nguồn gốc
 - 01 Nguồn gốc/00 Danh mục nguồn.md
-- 01 Nguồn gốc/01 Kịch bản nguồn hiện hành/
+- 01 Nguồn gốc/01 Kịch bản nguồn hiện hành
 - 01 Nguồn gốc/01 Kịch bản nguồn hiện hành/01 Trích xuất có số đoạn.txt
 - 01 Nguồn gốc/01 Kịch bản nguồn hiện hành/Kịch bản Sáu Cánh Cửa - bản hiện hành.docx
-- 01 Nguồn gốc/02 Kịch bản nguồn cũ/
+- 01 Nguồn gốc/02 Kịch bản nguồn cũ
 - 01 Nguồn gốc/02 Kịch bản nguồn cũ/00 Hướng dẫn thư mục.md
-- 01 Nguồn gốc/03 Ảnh nguồn đã nhận/
-- 01 Nguồn gốc/03 Ảnh nguồn đã nhận/01 Nhân vật/
+- 01 Nguồn gốc/03 Ảnh nguồn đã nhận
+- 01 Nguồn gốc/03 Ảnh nguồn đã nhận/01 Nhân vật
 - 01 Nguồn gốc/03 Ảnh nguồn đã nhận/01 Nhân vật/00 Hướng dẫn thư mục.md
-- 01 Nguồn gốc/03 Ảnh nguồn đã nhận/02 Bối cảnh/
+- 01 Nguồn gốc/03 Ảnh nguồn đã nhận/02 Bối cảnh
 - 01 Nguồn gốc/03 Ảnh nguồn đã nhận/02 Bối cảnh/00 Hướng dẫn thư mục.md
-- 02 Quy chuẩn dự án/
+- 02 Quy chuẩn dự án
 - 02 Quy chuẩn dự án/01 Quy ước đặt tên.md
 - 02 Quy chuẩn dự án/02 Quy ước trạng thái tài sản.md
 - 02 Quy chuẩn dự án/03 Quy ước phân cảnh và mã khung.md
 - 02 Quy chuẩn dự án/04 Quy chuẩn hình ảnh chung.md
 - 02 Quy chuẩn dự án/05 Checklist kiểm tra nhất quán.md
-- 03 Nội dung xuyên suốt/
+- 03 Nội dung xuyên suốt
 - 03 Nội dung xuyên suốt/01 Tóm tắt dự án.md
 - 03 Nội dung xuyên suốt/02 Luật kể chuyện xuyên suốt.md
 - 03 Nội dung xuyên suốt/03 Hệ màu sáu cánh cửa.md
 - 03 Nội dung xuyên suốt/04 Nhật ký continuity.md
 - 03 Nội dung xuyên suốt/05 Ghi chú thay đổi từ biên tập nội dung.md
-- 04 Nhân vật dùng chung/
-- 04 Nhân vật dùng chung/01 Khôi/
-- 04 Nhân vật dùng chung/01 Khôi/01 Nguồn gốc/
+- 04 Nhân vật dùng chung
+- 04 Nhân vật dùng chung/01 Khôi
+- 04 Nhân vật dùng chung/01 Khôi/01 Nguồn gốc
 - 04 Nhân vật dùng chung/01 Khôi/01 Nguồn gốc/00 Hướng dẫn thư mục.md
-- 04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/
+- 04 Nhân vật dùng chung/01 Khôi/01 Nguồn gốc/Khôi - bảng thiết kế gốc.png
+- 04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon
 - 04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/01 Hồ sơ canon Khôi.md
 - 04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/02 Bảng kiểm kê asset Khôi.md
 - 04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/03 Bảng quyết định giữ sửa thiếu.md
 - 04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/04 Ghi chú art direction cho Khôi.md
-- 04 Nhân vật dùng chung/01 Khôi/03 Nhận diện chuẩn/
+- 04 Nhân vật dùng chung/01 Khôi/02 Hồ sơ canon/05 Manifest crop Khôi.md
+- 04 Nhân vật dùng chung/01 Khôi/03 Nhận diện chuẩn
 - 04 Nhân vật dùng chung/01 Khôi/03 Nhận diện chuẩn/00 Hướng dẫn thư mục.md
 - 04 Nhân vật dùng chung/01 Khôi/03 Nhận diện chuẩn/07 Khôi - tỷ lệ cơ thể.md
-- 04 Nhân vật dùng chung/01 Khôi/04 Trang phục/
+- 04 Nhân vật dùng chung/01 Khôi/04 Trang phục
 - 04 Nhân vật dùng chung/01 Khôi/04 Trang phục/00 Hướng dẫn thư mục.md
 - 04 Nhân vật dùng chung/01 Khôi/04 Trang phục/03 Ghi chú trang phục Khôi.md
-- 04 Nhân vật dùng chung/01 Khôi/05 Đạo cụ cá nhân/
+- 04 Nhân vật dùng chung/01 Khôi/05 Đạo cụ cá nhân
 - 04 Nhân vật dùng chung/01 Khôi/05 Đạo cụ cá nhân/00 Hướng dẫn thư mục.md
 - 04 Nhân vật dùng chung/01 Khôi/05 Đạo cụ cá nhân/04 Ghi chú đạo cụ cá nhân.md
-- 04 Nhân vật dùng chung/01 Khôi/06 Biểu cảm/
+- 04 Nhân vật dùng chung/01 Khôi/06 Biểu cảm
 - 04 Nhân vật dùng chung/01 Khôi/06 Biểu cảm/00 Hướng dẫn thư mục.md
 - 04 Nhân vật dùng chung/01 Khôi/06 Biểu cảm/02 Ghi chú biểu cảm bắt buộc.md
-- 04 Nhân vật dùng chung/01 Khôi/07 Tư thế/
+- 04 Nhân vật dùng chung/01 Khôi/07 Tư thế
 - 04 Nhân vật dùng chung/01 Khôi/07 Tư thế/00 Hướng dẫn thư mục.md
-- 04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng/
+- 04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng
 - 04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng/01 Khôi - đời thực.md
 - 04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng/02 Khôi - Sảnh Sáu Cánh Cửa.md
 - 04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng/03 Khôi - quan sát câu chuyện.md
 - 04 Nhân vật dùng chung/01 Khôi/08 Trạng thái sử dụng/04 Khôi - giải thích pháp luật.md
-- 04 Nhân vật dùng chung/01 Khôi/09 Có tiềm năng/
+- 04 Nhân vật dùng chung/01 Khôi/09 Có tiềm năng
 - 04 Nhân vật dùng chung/01 Khôi/09 Có tiềm năng/00 Hướng dẫn thư mục.md
-- 04 Nhân vật dùng chung/01 Khôi/10 Đã duyệt/
+- 04 Nhân vật dùng chung/01 Khôi/10 Đã duyệt
 - 04 Nhân vật dùng chung/01 Khôi/10 Đã duyệt/00 Hướng dẫn thư mục.md
-- 05 Bối cảnh dùng chung/
-- 05 Bối cảnh dùng chung/01 Giảng đường/
-- 05 Bối cảnh dùng chung/01 Giảng đường/01 Ảnh nguồn/
+- 04 Nhân vật dùng chung/02 Thu Anh
+- 04 Nhân vật dùng chung/02 Thu Anh/00 Sơ đồ package Thu Anh.md
+- 04 Nhân vật dùng chung/02 Thu Anh/02 Hồ sơ canon
+- 04 Nhân vật dùng chung/02 Thu Anh/02 Hồ sơ canon/01 Hồ sơ canon Thu Anh.md
+- 04 Nhân vật dùng chung/02 Thu Anh/02 Hồ sơ canon/02 Bảng kiểm kê asset Thu Anh.md
+- 04 Nhân vật dùng chung/02 Thu Anh/02 Hồ sơ canon/03 Bảng quyết định giữ sửa thiếu Thu Anh.md
+- 04 Nhân vật dùng chung/02 Thu Anh/02 Hồ sơ canon/04 Manifest crop Thu Anh.md
+- 05 Bối cảnh dùng chung
+- 05 Bối cảnh dùng chung/01 Giảng đường
+- 05 Bối cảnh dùng chung/01 Giảng đường/01 Ảnh nguồn
 - 05 Bối cảnh dùng chung/01 Giảng đường/01 Ảnh nguồn/00 Hướng dẫn thư mục.md
+- 05 Bối cảnh dùng chung/01 Giảng đường/01 Ảnh nguồn/Giảng đường.png
 - 05 Bối cảnh dùng chung/01 Giảng đường/02 Mô tả chuẩn.md
-- 05 Bối cảnh dùng chung/01 Giảng đường/03 Có tiềm năng/
+- 05 Bối cảnh dùng chung/01 Giảng đường/03 Có tiềm năng
 - 05 Bối cảnh dùng chung/01 Giảng đường/03 Có tiềm năng/00 Hướng dẫn thư mục.md
-- 05 Bối cảnh dùng chung/01 Giảng đường/04 Đã duyệt/
+- 05 Bối cảnh dùng chung/01 Giảng đường/04 Đã duyệt
 - 05 Bối cảnh dùng chung/01 Giảng đường/04 Đã duyệt/00 Hướng dẫn thư mục.md
-- 05 Bối cảnh dùng chung/02 Thư viện/
-- 05 Bối cảnh dùng chung/02 Thư viện/01 Ảnh nguồn/
+- 05 Bối cảnh dùng chung/02 Thư viện
+- 05 Bối cảnh dùng chung/02 Thư viện/01 Ảnh nguồn
 - 05 Bối cảnh dùng chung/02 Thư viện/01 Ảnh nguồn/00 Hướng dẫn thư mục.md
 - 05 Bối cảnh dùng chung/02 Thư viện/02 Mô tả chuẩn.md
-- 05 Bối cảnh dùng chung/02 Thư viện/03 Có tiềm năng/
+- 05 Bối cảnh dùng chung/02 Thư viện/03 Có tiềm năng
 - 05 Bối cảnh dùng chung/02 Thư viện/03 Có tiềm năng/00 Hướng dẫn thư mục.md
-- 05 Bối cảnh dùng chung/02 Thư viện/04 Đã duyệt/
+- 05 Bối cảnh dùng chung/02 Thư viện/04 Đã duyệt
 - 05 Bối cảnh dùng chung/02 Thư viện/04 Đã duyệt/00 Hướng dẫn thư mục.md
-- 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/
-- 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/01 Ảnh nguồn/
+- 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa
+- 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/01 Ảnh nguồn
 - 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/01 Ảnh nguồn/00 Hướng dẫn thư mục.md
 - 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/02 Mô tả chuẩn.md
 - 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/03 Sơ đồ không gian.md
 - 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/04 Hệ cửa và ánh sáng.md
-- 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/05 Có tiềm năng/
+- 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/05 Có tiềm năng
 - 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/05 Có tiềm năng/00 Hướng dẫn thư mục.md
-- 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/06 Đã duyệt/
+- 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/06 Đã duyệt
 - 05 Bối cảnh dùng chung/03 Sảnh Sáu Cánh Cửa/06 Đã duyệt/00 Hướng dẫn thư mục.md
-- 06 Demo mở đầu/
+- 06 Demo mở đầu
 - 06 Demo mở đầu/01 Tóm tắt phân đoạn mở đầu.md
 - 06 Demo mở đầu/02 Danh sách khung demo.md
-- 06 Demo mở đầu/03 Storyboard thô/
+- 06 Demo mở đầu/03 Storyboard thô
 - 06 Demo mở đầu/03 Storyboard thô/00 Hướng dẫn thư mục.md
-- 06 Demo mở đầu/04 Shot spec/
+- 06 Demo mở đầu/04 Shot spec
 - 06 Demo mở đầu/04 Shot spec/01 Khung 01.md
 - 06 Demo mở đầu/04 Shot spec/02 Khung 02.md
 - 06 Demo mở đầu/04 Shot spec/03 Khung 03.md
@@ -101,28 +114,28 @@ Thư mục gốc: Sáu Cánh Cửa - Demo Khôi Mở đầu. Tất cả mục b�
 - 06 Demo mở đầu/04 Shot spec/06 Khung 06.md
 - 06 Demo mở đầu/04 Shot spec/07 Khung 07.md
 - 06 Demo mở đầu/04 Shot spec/08 Khung 08.md
-- 06 Demo mở đầu/05 Ảnh đang thử/
+- 06 Demo mở đầu/05 Ảnh đang thử
 - 06 Demo mở đầu/05 Ảnh đang thử/00 Hướng dẫn thư mục.md
-- 06 Demo mở đầu/06 Ảnh có tiềm năng/
+- 06 Demo mở đầu/06 Ảnh có tiềm năng
 - 06 Demo mở đầu/06 Ảnh có tiềm năng/00 Hướng dẫn thư mục.md
-- 06 Demo mở đầu/07 Ảnh đang chỉnh sửa/
+- 06 Demo mở đầu/07 Ảnh đang chỉnh sửa
 - 06 Demo mở đầu/07 Ảnh đang chỉnh sửa/00 Hướng dẫn thư mục.md
-- 06 Demo mở đầu/08 Ảnh đã duyệt/
+- 06 Demo mở đầu/08 Ảnh đã duyệt
 - 06 Demo mở đầu/08 Ảnh đã duyệt/00 Hướng dẫn thư mục.md
 - 06 Demo mở đầu/09 Nhận xét sau kiểm thử.md
-- 07 Nhật ký tạo ảnh/
+- 07 Nhật ký tạo ảnh
 - 07 Nhật ký tạo ảnh/01 Nhật ký prompt.md
 - 07 Nhật ký tạo ảnh/02 Nhật ký lựa chọn.md
 - 07 Nhật ký tạo ảnh/03 Nhật ký lỗi và cách sửa.md
-- 08 Xuất thử/
-- 08 Xuất thử/01 Khung ghép thử/
+- 08 Xuất thử
+- 08 Xuất thử/01 Khung ghép thử
 - 08 Xuất thử/01 Khung ghép thử/00 Hướng dẫn thư mục.md
-- 08 Xuất thử/02 Trang demo ghép thử/
+- 08 Xuất thử/02 Trang demo ghép thử
 - 08 Xuất thử/02 Trang demo ghép thử/00 Hướng dẫn thư mục.md
-- 08 Xuất thử/03 Bản xuất có chữ/
+- 08 Xuất thử/03 Bản xuất có chữ
 - 08 Xuất thử/03 Bản xuất có chữ/00 Hướng dẫn thư mục.md
 - 08 Xuất thử/04 Quy cách xuất.md
-- 09 Thiết kế trang và prompt/
+- 09 Thiết kế trang và prompt
 - 09 Thiết kế trang và prompt/01 Quy chuẩn panel gutter bleed.md
 - 09 Thiết kế trang và prompt/02 Demo A Giảng đường.md
 - 09 Thiết kế trang và prompt/03 Demo B Sảnh Sáu Cánh Cửa.md
@@ -132,25 +145,25 @@ Thư mục gốc: Sáu Cánh Cửa - Demo Khôi Mở đầu. Tất cả mục b�
 - 09 Thiết kế trang và prompt/05 Prompt trang C.txt
 - 09 Thiết kế trang và prompt/06 Prompt trang đôi bám nguồn.txt
 - 09 Thiết kế trang và prompt/07 Mẫu prompt một trang mới.md
-- 09 Thiết kế trang và prompt/08 Trang đang thử/
+- 09 Thiết kế trang và prompt/08 Trang đang thử
 - 09 Thiết kế trang và prompt/08 Trang đang thử/00 Hướng dẫn thư mục.md
-- 09 Thiết kế trang và prompt/09 Trang có tiềm năng/
+- 09 Thiết kế trang và prompt/09 Trang có tiềm năng
 - 09 Thiết kế trang và prompt/09 Trang có tiềm năng/00 Hướng dẫn thư mục.md
-- 09 Thiết kế trang và prompt/10 Trang đang chỉnh sửa/
+- 09 Thiết kế trang và prompt/10 Trang đang chỉnh sửa
 - 09 Thiết kế trang và prompt/10 Trang đang chỉnh sửa/00 Hướng dẫn thư mục.md
-- 09 Thiết kế trang và prompt/11 Trang đã duyệt tranh/
+- 09 Thiết kế trang và prompt/11 Trang đã duyệt tranh
 - 09 Thiết kế trang và prompt/11 Trang đã duyệt tranh/00 Hướng dẫn thư mục.md
-- 09 Thiết kế trang và prompt/12 Layout tham khảo/
+- 09 Thiết kế trang và prompt/12 Layout tham khảo
 - 09 Thiết kế trang và prompt/12 Layout tham khảo/00 Cách dùng.md
 - 09 Thiết kế trang và prompt/12 Layout tham khảo/Demo A - 4 panel.svg
 - 09 Thiết kế trang và prompt/12 Layout tham khảo/Demo B - splash và inset.svg
 - 09 Thiết kế trang và prompt/12 Layout tham khảo/Demo C - nền và inset.svg
-- 10 Balloon thoại và SFX/
+- 10 Balloon thoại và SFX
 - 10 Balloon thoại và SFX/00 Quy trình thêm chữ vào trang duyệt.md
-- 10 Balloon thoại và SFX/01 Trang tranh đã duyệt đầu vào/
+- 10 Balloon thoại và SFX/01 Trang tranh đã duyệt đầu vào
 - 10 Balloon thoại và SFX/01 Trang tranh đã duyệt đầu vào/00 Hướng dẫn thư mục.md
 - 10 Balloon thoại và SFX/01 Trang tranh đã duyệt đầu vào/01 Phiếu nhận 1 đến 2 trang.md
-- 10 Balloon thoại và SFX/02 Bảng thoại và SFX/
+- 10 Balloon thoại và SFX/02 Bảng thoại và SFX
 - 10 Balloon thoại và SFX/02 Bảng thoại và SFX/01 Bảng chữ Demo A.md
 - 10 Balloon thoại và SFX/02 Bảng thoại và SFX/01 Bảng chữ Demo B.md
 - 10 Balloon thoại và SFX/02 Bảng thoại và SFX/01 Bảng chữ Demo C.md
@@ -158,31 +171,32 @@ Thư mục gốc: Sáu Cánh Cửa - Demo Khôi Mở đầu. Tất cả mục b�
 - 10 Balloon thoại và SFX/02 Bảng thoại và SFX/02 Nội dung nguyên văn Demo B.txt
 - 10 Balloon thoại và SFX/02 Bảng thoại và SFX/02 Nội dung nguyên văn Demo C.txt
 - 10 Balloon thoại và SFX/02 Bảng thoại và SFX/03 Mẫu bảng cho trang khác.md
-- 10 Balloon thoại và SFX/03 Vùng chữ và vùng bảo vệ/
+- 10 Balloon thoại và SFX/03 Vùng chữ và vùng bảo vệ
 - 10 Balloon thoại và SFX/03 Vùng chữ và vùng bảo vệ/01 Quy tắc tọa độ.md
 - 10 Balloon thoại và SFX/03 Vùng chữ và vùng bảo vệ/02 Kiểu balloon và chữ.md
-- 10 Balloon thoại và SFX/04 Prompt thêm chữ/
+- 10 Balloon thoại và SFX/04 Prompt thêm chữ
 - 10 Balloon thoại và SFX/04 Prompt thêm chữ/01 Prompt một trang.txt
 - 10 Balloon thoại và SFX/04 Prompt thêm chữ/02 Prompt hai trang.txt
 - 10 Balloon thoại và SFX/04 Prompt thêm chữ/03 Lệnh có sẵn Demo A.txt
 - 10 Balloon thoại và SFX/04 Prompt thêm chữ/03 Lệnh có sẵn Demo B.txt
 - 10 Balloon thoại và SFX/04 Prompt thêm chữ/03 Lệnh có sẵn Demo C.txt
 - 10 Balloon thoại và SFX/04 Prompt thêm chữ/04 Prompt sửa chữ sai.txt
-- 10 Balloon thoại và SFX/05 Bản thêm chữ đang thử/
+- 10 Balloon thoại và SFX/05 Bản thêm chữ đang thử
 - 10 Balloon thoại và SFX/05 Bản thêm chữ đang thử/00 Hướng dẫn thư mục.md
-- 10 Balloon thoại và SFX/06 Bản cần sửa/
+- 10 Balloon thoại và SFX/06 Bản cần sửa
 - 10 Balloon thoại và SFX/06 Bản cần sửa/00 Hướng dẫn thư mục.md
-- 10 Balloon thoại và SFX/07 Trang có chữ đã duyệt/
+- 10 Balloon thoại và SFX/07 Trang có chữ đã duyệt
 - 10 Balloon thoại và SFX/07 Trang có chữ đã duyệt/00 Hướng dẫn thư mục.md
-- 10 Balloon thoại và SFX/08 Lớp chữ và tệp chỉnh sửa/
+- 10 Balloon thoại và SFX/08 Lớp chữ và tệp chỉnh sửa
 - 10 Balloon thoại và SFX/08 Lớp chữ và tệp chỉnh sửa/00 Hướng dẫn thư mục.md
 - 10 Balloon thoại và SFX/09 Checklist duyệt chữ.md
 - 10 Balloon thoại và SFX/10 Nhật ký lettering.md
-- 11 Hướng dẫn làm việc với AI/
+- 11 Hướng dẫn làm việc với AI
 - 11 Hướng dẫn làm việc với AI/01 Chỉ dẫn cho AI.md
 - 11 Hướng dẫn làm việc với AI/02 Cách đưa bộ dự án cho AI.md
 - 11 Hướng dẫn làm việc với AI/03 Các lệnh bắt đầu.txt
-- 12 Kiểm thử và duyệt/
+- 12 Kiểm thử và duyệt
 - 12 Kiểm thử và duyệt/01 Tiêu chí hoàn thành M01.md
 - 12 Kiểm thử và duyệt/02 Sổ duyệt.md
 - 12 Kiểm thử và duyệt/03 Báo cáo bàn giao v0.1.md
+- 12 Kiểm thử và duyệt/04 Danh mục tệp kiểm tra.json
